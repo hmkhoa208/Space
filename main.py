@@ -33,7 +33,7 @@ class Lauch:
 		print(self.site)
 		print(self.remark)
 
-def layData():
+def getLauchData():
 	soup = getSoup('https://space.skyrocket.de/doc_chr/lau2021.htm')
 	rowArr = soup.find(id = 'chronlist').tbody.find_all('tr')
 
@@ -53,7 +53,7 @@ def layData():
 #----------------------------------------
 #main code
 
-launchArr = layData()
+launchArr = getLauchData()
 jsonStr = ''
 filename = 'data2.json'
 
