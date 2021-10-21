@@ -130,3 +130,6 @@ dmypy.json
 
 # .DS_Store file of macos
 **/.DS_Store
+
+# geckodriver.log of Webdriver
+geckodriver.log

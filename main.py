@@ -45,17 +45,21 @@ def getLauchData():
 			launch = Lauch(all_td[0].text, all_td[1].text, all_td[2].text, all_td[3].text, all_td[4].text, all_td[5].text)
 			if launch.remark == '':
 				launch.remark = 'success'
+			launch.payload = launch.payload.replace('\n', ',')
 			launchArr.append(launch)
 			# jsonStr += ('"' + launch.id + '": ' + launch.toJSON() + ',\n')
 
 	# jsonStr += '}'
 	return launchArr
+
+
+
 #----------------------------------------
 #main code
 
 launchArr = getLauchData()
 jsonStr = ''
-filename = 'data2.json'
+filename = 'space.json'
 
 # 2. Update json object
 for entry in launchArr:
