@@ -42,10 +42,14 @@ def getLauchData():
 	for tr in rowArr:
 		all_td = tr.find_all('td')
 		if len(all_td) == 6:
-			launch = Lauch(all_td[0].text, all_td[1].text, all_td[2].text, all_td[3].text, all_td[4].text, all_td[5].text)
+			if all_td[2].text != '':
+				payloadArr = all_td[2].text.split("\n")
+			else:
+				payloadArr = []
+			launch = Lauch(all_td[0].text, all_td[1].text, payloadArr, all_td[3].text, all_td[4].text, all_td[5].text)
 			if launch.remark == '':
 				launch.remark = 'success'
-			launch.payload = launch.payload.replace('\n', ',')
+			# launch.payload = launch.payload.replace('\n', ', ')
 			launchArr.append(launch)
 			# jsonStr += ('"' + launch.id + '": ' + launch.toJSON() + ',\n')
 

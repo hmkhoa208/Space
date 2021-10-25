@@ -1,7 +1,9 @@
 "2021-001": {
     "id": "2021-001",
     "date": "08.01.2021",
-    "payload": "Türksat 5A",
+    "payload": [
+        "Türksat 5A"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -9,7 +11,20 @@
 "2021-002": {
     "id": "2021-002",
     "date": "17.01.2021",
-    "payload": "CACTUS 1,ExoCube 2,MiTEE 1,PolarCube,Q-PACE (SIMPLEx 2),TechEdSat 7 (TES 7),CAPE 3,RadFxSat 2 (Fox 1E, Evolution, AO 109, AMSAT-OSCAR 109),PICS 1,PICS 2,Prometheus 2.8,Prometheus 2.11",
+    "payload": [
+        "CACTUS 1",
+        "ExoCube 2",
+        "MiTEE 1",
+        "PolarCube",
+        "Q-PACE (SIMPLEx 2)",
+        "TechEdSat 7 (TES 7)",
+        "CAPE 3",
+        "RadFxSat 2 (Fox 1E, Evolution, AO 109, AMSAT-OSCAR 109)",
+        "PICS 1",
+        "PICS 2",
+        "Prometheus 2.8",
+        "Prometheus 2.11"
+    ],
     "lauchVehicle": "LauncherOne",
     "site": "Mo, B-747-400, RW12/30",
     "remark": "success"
@@ -17,7 +32,9 @@
 "2021-003": {
     "id": "2021-003",
     "date": "19.01.2021",
-    "payload": "Tiantong-1 03",
+    "payload": [
+        "Tiantong-1 03"
+    ],
     "lauchVehicle": "CZ-3B/G3",
     "site": "Xi LC-2",
     "remark": "success"
@@ -25,7 +42,9 @@
 "2021-004": {
     "id": "2021-004",
     "date": "20.01.2021",
-    "payload": "GMS-T",
+    "payload": [
+        "GMS-T"
+    ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1A",
     "remark": "success"
@@ -33,7 +52,68 @@
 "2021-005": {
     "id": "2021-005",
     "date": "20.01.2021",
-    "payload": "Starlink v1.0 L16-1 (Starlink 1952),Starlink v1.0 L16-2 (Starlink 2011),Starlink v1.0 L16-3 (Starlink 2017),Starlink v1.0 L16-4 (Starlink 2034),Starlink v1.0 L16-5 (Starlink 2045),Starlink v1.0 L16-6 (Starlink 2046),Starlink v1.0 L16-7 (Starlink 2047),Starlink v1.0 L16-8 (Starlink 2049),Starlink v1.0 L16-9 (Starlink 2050),Starlink v1.0 L16-10 (Starlink 2055),Starlink v1.0 L16-11 (Starlink 2069),Starlink v1.0 L16-12 (Starlink 2070),Starlink v1.0 L16-13 (Starlink 2071),Starlink v1.0 L16-14 (Starlink 2076),Starlink v1.0 L16-15 (Starlink 2077),Starlink v1.0 L16-16 (Starlink 2079),Starlink v1.0 L16-17 (Starlink 2080),Starlink v1.0 L16-18 (Starlink 2081),Starlink v1.0 L16-19 (Starlink 2082),Starlink v1.0 L16-20 (Starlink 2084),Starlink v1.0 L16-21 (Starlink 2085),Starlink v1.0 L16-22 (Starlink 2086),Starlink v1.0 L16-23 (Starlink 2088),Starlink v1.0 L16-24 (Starlink 2089),Starlink v1.0 L16-25 (Starlink 2092),Starlink v1.0 L16-26 (Starlink 2093),Starlink v1.0 L16-27 (Starlink 2094),Starlink v1.0 L16-28 (Starlink 2096),Starlink v1.0 L16-29 (Starlink 2097),Starlink v1.0 L16-30 (Starlink 2098),Starlink v1.0 L16-31 (Starlink 2099),Starlink v1.0 L16-32 (Starlink 2100),Starlink v1.0 L16-33 (Starlink 2101),Starlink v1.0 L16-34 (Starlink 2102),Starlink v1.0 L16-35 (Starlink 2103),Starlink v1.0 L16-36 (Starlink 2104),Starlink v1.0 L16-37 (Starlink 2105),Starlink v1.0 L16-38 (Starlink 2106),Starlink v1.0 L16-39 (Starlink 2108),Starlink v1.0 L16-40 (Starlink 2109),Starlink v1.0 L16-41 (Starlink 2110),Starlink v1.0 L16-42 (Starlink 2111),Starlink v1.0 L16-43 (Starlink 2112),Starlink v1.0 L16-44 (Starlink 2113),Starlink v1.0 L16-45 (Starlink 2114),Starlink v1.0 L16-46 (Starlink 2115),Starlink v1.0 L16-47 (Starlink 2117),Starlink v1.0 L16-48 (Starlink 2118),Starlink v1.0 L16-49 (Starlink 2119),Starlink v1.0 L16-50 (Starlink 2120),Starlink v1.0 L16-51 (Starlink 2121),Starlink v1.0 L16-52 (Starlink 2122),Starlink v1.0 L16-53 (Starlink 2123),Starlink v1.0 L16-54 (Starlink 2124),Starlink v1.0 L16-55 (Starlink 2127),Starlink v1.0 L16-56 (Starlink 2128),Starlink v1.0 L16-57 (Starlink 2130),Starlink v1.0 L16-58 (Starlink 2133),Starlink v1.0 L16-59 (Starlink 2134),Starlink v1.0 L16-60 (Starlink 2135)",
+    "payload": [
+        "Starlink v1.0 L16-1 (Starlink 1952)",
+        "Starlink v1.0 L16-2 (Starlink 2011)",
+        "Starlink v1.0 L16-3 (Starlink 2017)",
+        "Starlink v1.0 L16-4 (Starlink 2034)",
+        "Starlink v1.0 L16-5 (Starlink 2045)",
+        "Starlink v1.0 L16-6 (Starlink 2046)",
+        "Starlink v1.0 L16-7 (Starlink 2047)",
+        "Starlink v1.0 L16-8 (Starlink 2049)",
+        "Starlink v1.0 L16-9 (Starlink 2050)",
+        "Starlink v1.0 L16-10 (Starlink 2055)",
+        "Starlink v1.0 L16-11 (Starlink 2069)",
+        "Starlink v1.0 L16-12 (Starlink 2070)",
+        "Starlink v1.0 L16-13 (Starlink 2071)",
+        "Starlink v1.0 L16-14 (Starlink 2076)",
+        "Starlink v1.0 L16-15 (Starlink 2077)",
+        "Starlink v1.0 L16-16 (Starlink 2079)",
+        "Starlink v1.0 L16-17 (Starlink 2080)",
+        "Starlink v1.0 L16-18 (Starlink 2081)",
+        "Starlink v1.0 L16-19 (Starlink 2082)",
+        "Starlink v1.0 L16-20 (Starlink 2084)",
+        "Starlink v1.0 L16-21 (Starlink 2085)",
+        "Starlink v1.0 L16-22 (Starlink 2086)",
+        "Starlink v1.0 L16-23 (Starlink 2088)",
+        "Starlink v1.0 L16-24 (Starlink 2089)",
+        "Starlink v1.0 L16-25 (Starlink 2092)",
+        "Starlink v1.0 L16-26 (Starlink 2093)",
+        "Starlink v1.0 L16-27 (Starlink 2094)",
+        "Starlink v1.0 L16-28 (Starlink 2096)",
+        "Starlink v1.0 L16-29 (Starlink 2097)",
+        "Starlink v1.0 L16-30 (Starlink 2098)",
+        "Starlink v1.0 L16-31 (Starlink 2099)",
+        "Starlink v1.0 L16-32 (Starlink 2100)",
+        "Starlink v1.0 L16-33 (Starlink 2101)",
+        "Starlink v1.0 L16-34 (Starlink 2102)",
+        "Starlink v1.0 L16-35 (Starlink 2103)",
+        "Starlink v1.0 L16-36 (Starlink 2104)",
+        "Starlink v1.0 L16-37 (Starlink 2105)",
+        "Starlink v1.0 L16-38 (Starlink 2106)",
+        "Starlink v1.0 L16-39 (Starlink 2108)",
+        "Starlink v1.0 L16-40 (Starlink 2109)",
+        "Starlink v1.0 L16-41 (Starlink 2110)",
+        "Starlink v1.0 L16-42 (Starlink 2111)",
+        "Starlink v1.0 L16-43 (Starlink 2112)",
+        "Starlink v1.0 L16-44 (Starlink 2113)",
+        "Starlink v1.0 L16-45 (Starlink 2114)",
+        "Starlink v1.0 L16-46 (Starlink 2115)",
+        "Starlink v1.0 L16-47 (Starlink 2117)",
+        "Starlink v1.0 L16-48 (Starlink 2118)",
+        "Starlink v1.0 L16-49 (Starlink 2119)",
+        "Starlink v1.0 L16-50 (Starlink 2120)",
+        "Starlink v1.0 L16-51 (Starlink 2121)",
+        "Starlink v1.0 L16-52 (Starlink 2122)",
+        "Starlink v1.0 L16-53 (Starlink 2123)",
+        "Starlink v1.0 L16-54 (Starlink 2124)",
+        "Starlink v1.0 L16-55 (Starlink 2127)",
+        "Starlink v1.0 L16-56 (Starlink 2128)",
+        "Starlink v1.0 L16-57 (Starlink 2130)",
+        "Starlink v1.0 L16-58 (Starlink 2133)",
+        "Starlink v1.0 L16-59 (Starlink 2134)",
+        "Starlink v1.0 L16-60 (Starlink 2135)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -41,7 +121,151 @@
 "2021-006": {
     "id": "2021-006",
     "date": "24.01.2021",
-    "payload": "Starlink v1.0 R1-1 (Starlink 2199),Starlink v1.0 R1-2 (Starlink 2200),Starlink v1.0 R1-3 (Starlink 2201),Starlink v1.0 R1-4 (Starlink 2202),Starlink v1.0 R1-5 (Starlink 2203),Starlink v1.0 R1-6 (Starlink 2204),Starlink v1.0 R1-7 (Starlink 2205),Starlink v1.0 R1-8 (Starlink 2206),Starlink v1.0 R1-9 (Starlink 2207),Starlink v1.0 R1-10 (Starlink 2208),QPS-SAR 2 (Izanami),Capella 3 (Capella Whitney 1),Capella 4 (Capella Whitney 2),ICEYE X8,ICEYE X9,XR 1 (ICEYE X10),GHGSat C2 (Hugo),Sherpa-FX 1,Hawk 2A,Hawk 2B,Hawk 2C,Astrocast 0101,Astrocast 0102,Astrocast 0103,Astrocast 0104,Astrocast 0105,PTD 1,Prometheus-2 10,ARCE 1A,ARCE 1B,ARCE 1C,ION-SCV 002 (ION-SCV 002 Laurentius, Pulse),Flock-4s 41 (Dove 2427),Flock-4s 42 (Dove 2430),Flock-4s 43 (Dove 2435),Flock-4s 44 (Dove 2440),Flock-4s 45 (Dove 2442),Flock-4s 46 (Dove 2444),Flock-4s 47 (Dove 2456),Flock-4s 48 (Dove 2465),SpaceBEE 64,SpaceBEE 65,SpaceBEE 66,SpaceBEE 67,SpaceBEE 68,SpaceBEE 69,SpaceBEE 70,SpaceBEE 71,SpaceBEE 72,SpaceBEE 73,SpaceBEE 74,SpaceBEE 75,AII-Charlie,Hiber 4,ASELSAT,PIXL 1 (CubeL),SOMP 2b,IDEASSat,YUSAT 1,UVSQ-SAT,V-R3x 1 (Cora),V-R3x 2 (Petrie),V-R3x 3 (Littlefoot),Flock-4s 1 (Dove 2436),Flock-4s 2 (Dove 2428),Flock-4s 3 (Dove 2433),Flock-4s 4 (Dove 242B),Flock-4s 5 (Dove 2423),Flock-4s 6 (Dove 2455),Flock-4s 7 (Dove 2451),Flock-4s 8 (Dove 2450),Flock-4s 9 (Dove 2447),Flock-4s 10 (Dove 2449),Flock-4s 11 (Dove 2445),Flock-4s 12 (Dove 241A),Flock-4s 13 (Dove 2453),Flock-4s 14 (Dove 241F),Flock-4s 15 (Dove 242F),Flock-4s 16 (Dove 2434),Flock-4s 17 (Dove 2432),Flock-4s 18 (Dove 2421),Flock-4s 19 (Dove 242D),Flock-4s 20 (Dove 2439),Flock-4s 21 (Dove 245C),Flock-4s 22 (Dove 241E),Flock-4s 23 (Dove 245D),Flock-4s 24 (Dove 2431),Flock-4s 25 (Dove 2448),Flock-4s 26 (Dove 245F),Flock-4s 27 (Dove 2457),Flock-4s 28 (Dove 2460),Flock-4s 29 (Dove 2463),Flock-4s 30 (Dove 2459),Flock-4s 31 (Dove 241B),Flock-4s 32 (Dove 245A),Flock-4s 33 (Dove 2420),Flock-4s 34 (Dove 2464),Flock-4s 35 (Dove 242A),Flock-4s 36 (Dove 241D),Flock-4s 37 (Dove 2429),Flock-4s 38 (Dove 245E),Flock-4s 39 (Dove 2458),Flock-4s 40 (Dove 2462),Kepler 8 (Amarok),Kepler 9 (Artemis),Kepler 10 (Baby Yoda),Kepler 11 (Daneel),Kepler 12 (Boba),Kepler 13 (Lucky),Kepler 14 (Stella),Kepler 15 (Sudormrf),SpaceBEE 40,SpaceBEE 41,SpaceBEE 42,SpaceBEE 43,SpaceBEE 44,SpaceBEE 45,SpaceBEE 46,SpaceBEE 47,SpaceBEE 48,SpaceBEE 49,SpaceBEE 50,SpaceBEE 51,SpaceBEE 52,SpaceBEE 53,SpaceBEE 54,SpaceBEE 55,SpaceBEE 56,SpaceBEE 57,SpaceBEE 58,SpaceBEE 59,SpaceBEE 60,SpaceBEE 61,SpaceBEE 62,SpaceBEE 63,Lemur-2 130 (Lemur-2 Chantal),Lemur-2 131 (Lemur-2 JenniferSong),Lemur-2 132 (Lemur-2 NallyWacker),Lemur-2 133 (Lemur-2 Neva),Lemur-2 134 (Lemur-2 NoobNoob),Lemur-2 135 (Lemur-2 Ruairi-Eilidh),Lemur-2 136 (Lemur-2 SaoirseDH5Guo),Lemur-2 137 (Lemur-2 Mango1)",
+    "payload": [
+        "Starlink v1.0 R1-1 (Starlink 2199)",
+        "Starlink v1.0 R1-2 (Starlink 2200)",
+        "Starlink v1.0 R1-3 (Starlink 2201)",
+        "Starlink v1.0 R1-4 (Starlink 2202)",
+        "Starlink v1.0 R1-5 (Starlink 2203)",
+        "Starlink v1.0 R1-6 (Starlink 2204)",
+        "Starlink v1.0 R1-7 (Starlink 2205)",
+        "Starlink v1.0 R1-8 (Starlink 2206)",
+        "Starlink v1.0 R1-9 (Starlink 2207)",
+        "Starlink v1.0 R1-10 (Starlink 2208)",
+        "QPS-SAR 2 (Izanami)",
+        "Capella 3 (Capella Whitney 1)",
+        "Capella 4 (Capella Whitney 2)",
+        "ICEYE X8",
+        "ICEYE X9",
+        "XR 1 (ICEYE X10)",
+        "GHGSat C2 (Hugo)",
+        "Sherpa-FX 1",
+        "Hawk 2A",
+        "Hawk 2B",
+        "Hawk 2C",
+        "Astrocast 0101",
+        "Astrocast 0102",
+        "Astrocast 0103",
+        "Astrocast 0104",
+        "Astrocast 0105",
+        "PTD 1",
+        "Prometheus-2 10",
+        "ARCE 1A",
+        "ARCE 1B",
+        "ARCE 1C",
+        "ION-SCV 002 (ION-SCV 002 Laurentius, Pulse)",
+        "Flock-4s 41 (Dove 2427)",
+        "Flock-4s 42 (Dove 2430)",
+        "Flock-4s 43 (Dove 2435)",
+        "Flock-4s 44 (Dove 2440)",
+        "Flock-4s 45 (Dove 2442)",
+        "Flock-4s 46 (Dove 2444)",
+        "Flock-4s 47 (Dove 2456)",
+        "Flock-4s 48 (Dove 2465)",
+        "SpaceBEE 64",
+        "SpaceBEE 65",
+        "SpaceBEE 66",
+        "SpaceBEE 67",
+        "SpaceBEE 68",
+        "SpaceBEE 69",
+        "SpaceBEE 70",
+        "SpaceBEE 71",
+        "SpaceBEE 72",
+        "SpaceBEE 73",
+        "SpaceBEE 74",
+        "SpaceBEE 75",
+        "AII-Charlie",
+        "Hiber 4",
+        "ASELSAT",
+        "PIXL 1 (CubeL)",
+        "SOMP 2b",
+        "IDEASSat",
+        "YUSAT 1",
+        "UVSQ-SAT",
+        "V-R3x 1 (Cora)",
+        "V-R3x 2 (Petrie)",
+        "V-R3x 3 (Littlefoot)",
+        "Flock-4s 1 (Dove 2436)",
+        "Flock-4s 2 (Dove 2428)",
+        "Flock-4s 3 (Dove 2433)",
+        "Flock-4s 4 (Dove 242B)",
+        "Flock-4s 5 (Dove 2423)",
+        "Flock-4s 6 (Dove 2455)",
+        "Flock-4s 7 (Dove 2451)",
+        "Flock-4s 8 (Dove 2450)",
+        "Flock-4s 9 (Dove 2447)",
+        "Flock-4s 10 (Dove 2449)",
+        "Flock-4s 11 (Dove 2445)",
+        "Flock-4s 12 (Dove 241A)",
+        "Flock-4s 13 (Dove 2453)",
+        "Flock-4s 14 (Dove 241F)",
+        "Flock-4s 15 (Dove 242F)",
+        "Flock-4s 16 (Dove 2434)",
+        "Flock-4s 17 (Dove 2432)",
+        "Flock-4s 18 (Dove 2421)",
+        "Flock-4s 19 (Dove 242D)",
+        "Flock-4s 20 (Dove 2439)",
+        "Flock-4s 21 (Dove 245C)",
+        "Flock-4s 22 (Dove 241E)",
+        "Flock-4s 23 (Dove 245D)",
+        "Flock-4s 24 (Dove 2431)",
+        "Flock-4s 25 (Dove 2448)",
+        "Flock-4s 26 (Dove 245F)",
+        "Flock-4s 27 (Dove 2457)",
+        "Flock-4s 28 (Dove 2460)",
+        "Flock-4s 29 (Dove 2463)",
+        "Flock-4s 30 (Dove 2459)",
+        "Flock-4s 31 (Dove 241B)",
+        "Flock-4s 32 (Dove 245A)",
+        "Flock-4s 33 (Dove 2420)",
+        "Flock-4s 34 (Dove 2464)",
+        "Flock-4s 35 (Dove 242A)",
+        "Flock-4s 36 (Dove 241D)",
+        "Flock-4s 37 (Dove 2429)",
+        "Flock-4s 38 (Dove 245E)",
+        "Flock-4s 39 (Dove 2458)",
+        "Flock-4s 40 (Dove 2462)",
+        "Kepler 8 (Amarok)",
+        "Kepler 9 (Artemis)",
+        "Kepler 10 (Baby Yoda)",
+        "Kepler 11 (Daneel)",
+        "Kepler 12 (Boba)",
+        "Kepler 13 (Lucky)",
+        "Kepler 14 (Stella)",
+        "Kepler 15 (Sudormrf)",
+        "SpaceBEE 40",
+        "SpaceBEE 41",
+        "SpaceBEE 42",
+        "SpaceBEE 43",
+        "SpaceBEE 44",
+        "SpaceBEE 45",
+        "SpaceBEE 46",
+        "SpaceBEE 47",
+        "SpaceBEE 48",
+        "SpaceBEE 49",
+        "SpaceBEE 50",
+        "SpaceBEE 51",
+        "SpaceBEE 52",
+        "SpaceBEE 53",
+        "SpaceBEE 54",
+        "SpaceBEE 55",
+        "SpaceBEE 56",
+        "SpaceBEE 57",
+        "SpaceBEE 58",
+        "SpaceBEE 59",
+        "SpaceBEE 60",
+        "SpaceBEE 61",
+        "SpaceBEE 62",
+        "SpaceBEE 63",
+        "Lemur-2 130 (Lemur-2 Chantal)",
+        "Lemur-2 131 (Lemur-2 JenniferSong)",
+        "Lemur-2 132 (Lemur-2 NallyWacker)",
+        "Lemur-2 133 (Lemur-2 Neva)",
+        "Lemur-2 134 (Lemur-2 NoobNoob)",
+        "Lemur-2 135 (Lemur-2 Ruairi-Eilidh)",
+        "Lemur-2 136 (Lemur-2 SaoirseDH5Guo)",
+        "Lemur-2 137 (Lemur-2 Mango1)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -49,7 +273,11 @@
 "2021-007": {
     "id": "2021-007",
     "date": "29.01.2021",
-    "payload": "Yaogan 31D (JB-8 6D),Yaogan 31E (JB-8 6E),Yaogan 31F (JB-8 6F)",
+    "payload": [
+        "Yaogan 31D (JB-8 6D)",
+        "Yaogan 31E (JB-8 6E)",
+        "Yaogan 31F (JB-8 6F)"
+    ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -57,7 +285,9 @@
 "2021-F01": {
     "id": "2021-F01",
     "date": "01.02.2021",
-    "payload": "(6 satellites ?)",
+    "payload": [
+        "(6 satellites ?)"
+    ],
     "lauchVehicle": "Hyperbola-1(2) (Shian Quxian-1(2))",
     "site": "Jq LC-43/95B",
     "remark": "Failed"
@@ -65,7 +295,9 @@
 "2021-008": {
     "id": "2021-008",
     "date": "02.02.2021",
-    "payload": "Kosmos 2549 (Lotos-S1 #4, №805)",
+    "payload": [
+        "Kosmos 2549 (Lotos-S1 #4, №805)"
+    ],
     "lauchVehicle": "Soyuz-2-1b",
     "site": "Pl LC-43/4",
     "remark": "success"
@@ -73,7 +305,68 @@
 "2021-009": {
     "id": "2021-009",
     "date": "04.02.2021",
-    "payload": "Starlink v1.0 L18-1 (Starlink 1782),Starlink v1.0 L18-2 (Starlink 1806),Starlink v1.0 L18-3 (Starlink 1909),Starlink v1.0 L18-4 (Starlink 1938),Starlink v1.0 L18-5 (Starlink 1940),Starlink v1.0 L18-6 (Starlink 1951),Starlink v1.0 L18-7 (Starlink 1953),Starlink v1.0 L18-8 (Starlink 1954),Starlink v1.0 L18-9 (Starlink 1955),Starlink v1.0 L18-10 (Starlink 1956),Starlink v1.0 L18-11 (Starlink 1957),Starlink v1.0 L18-12 (Starlink 1958),Starlink v1.0 L18-13 (Starlink 1959),Starlink v1.0 L18-14 (Starlink 1960),Starlink v1.0 L18-15 (Starlink 1961),Starlink v1.0 L18-16 (Starlink 1962),Starlink v1.0 L18-17 (Starlink 1963),Starlink v1.0 L18-18 (Starlink 1964),Starlink v1.0 L18-19 (Starlink 1965),Starlink v1.0 L18-20 (Starlink 1966),Starlink v1.0 L18-21 (Starlink 1967),Starlink v1.0 L18-22 (Starlink 1968),Starlink v1.0 L18-23 (Starlink 1969),Starlink v1.0 L18-24 (Starlink 1970),Starlink v1.0 L18-25 (Starlink 1971),Starlink v1.0 L18-26 (Starlink 1975),Starlink v1.0 L18-27 (Starlink 1976),Starlink v1.0 L18-28 (Starlink 1977),Starlink v1.0 L18-29 (Starlink 1978),Starlink v1.0 L18-30 (Starlink 1979),Starlink v1.0 L18-31 (Starlink 1980),Starlink v1.0 L18-32 (Starlink 1981),Starlink v1.0 L18-33 (Starlink 1982),Starlink v1.0 L18-34 (Starlink 1984),Starlink v1.0 L18-35 (Starlink 1986),Starlink v1.0 L18-36 (Starlink 1987),Starlink v1.0 L18-37 (Starlink 1988),Starlink v1.0 L18-38 (Starlink 1989),Starlink v1.0 L18-39 (Starlink 1990),Starlink v1.0 L18-40 (Starlink 1991),Starlink v1.0 L18-41 (Starlink 1993),Starlink v1.0 L18-42 (Starlink 1994),Starlink v1.0 L18-43 (Starlink 1995),Starlink v1.0 L18-44 (Starlink 1996),Starlink v1.0 L18-45 (Starlink 1997),Starlink v1.0 L18-46 (Starlink 1998),Starlink v1.0 L18-47 (Starlink 1999),Starlink v1.0 L18-48 (Starlink 2000),Starlink v1.0 L18-49 (Starlink 2001),Starlink v1.0 L18-50 (Starlink 2002),Starlink v1.0 L18-51 (Starlink 2003),Starlink v1.0 L18-52 (Starlink 2004),Starlink v1.0 L18-53 (Starlink 2005),Starlink v1.0 L18-54 (Starlink 2006),Starlink v1.0 L18-55 (Starlink 2007),Starlink v1.0 L18-56 (Starlink 2008),Starlink v1.0 L18-57 (Starlink 2021),Starlink v1.0 L18-58 (Starlink 2023),Starlink v1.0 L18-59 (Starlink 2024),Starlink v1.0 L18-60 (Starlink 2025)",
+    "payload": [
+        "Starlink v1.0 L18-1 (Starlink 1782)",
+        "Starlink v1.0 L18-2 (Starlink 1806)",
+        "Starlink v1.0 L18-3 (Starlink 1909)",
+        "Starlink v1.0 L18-4 (Starlink 1938)",
+        "Starlink v1.0 L18-5 (Starlink 1940)",
+        "Starlink v1.0 L18-6 (Starlink 1951)",
+        "Starlink v1.0 L18-7 (Starlink 1953)",
+        "Starlink v1.0 L18-8 (Starlink 1954)",
+        "Starlink v1.0 L18-9 (Starlink 1955)",
+        "Starlink v1.0 L18-10 (Starlink 1956)",
+        "Starlink v1.0 L18-11 (Starlink 1957)",
+        "Starlink v1.0 L18-12 (Starlink 1958)",
+        "Starlink v1.0 L18-13 (Starlink 1959)",
+        "Starlink v1.0 L18-14 (Starlink 1960)",
+        "Starlink v1.0 L18-15 (Starlink 1961)",
+        "Starlink v1.0 L18-16 (Starlink 1962)",
+        "Starlink v1.0 L18-17 (Starlink 1963)",
+        "Starlink v1.0 L18-18 (Starlink 1964)",
+        "Starlink v1.0 L18-19 (Starlink 1965)",
+        "Starlink v1.0 L18-20 (Starlink 1966)",
+        "Starlink v1.0 L18-21 (Starlink 1967)",
+        "Starlink v1.0 L18-22 (Starlink 1968)",
+        "Starlink v1.0 L18-23 (Starlink 1969)",
+        "Starlink v1.0 L18-24 (Starlink 1970)",
+        "Starlink v1.0 L18-25 (Starlink 1971)",
+        "Starlink v1.0 L18-26 (Starlink 1975)",
+        "Starlink v1.0 L18-27 (Starlink 1976)",
+        "Starlink v1.0 L18-28 (Starlink 1977)",
+        "Starlink v1.0 L18-29 (Starlink 1978)",
+        "Starlink v1.0 L18-30 (Starlink 1979)",
+        "Starlink v1.0 L18-31 (Starlink 1980)",
+        "Starlink v1.0 L18-32 (Starlink 1981)",
+        "Starlink v1.0 L18-33 (Starlink 1982)",
+        "Starlink v1.0 L18-34 (Starlink 1984)",
+        "Starlink v1.0 L18-35 (Starlink 1986)",
+        "Starlink v1.0 L18-36 (Starlink 1987)",
+        "Starlink v1.0 L18-37 (Starlink 1988)",
+        "Starlink v1.0 L18-38 (Starlink 1989)",
+        "Starlink v1.0 L18-39 (Starlink 1990)",
+        "Starlink v1.0 L18-40 (Starlink 1991)",
+        "Starlink v1.0 L18-41 (Starlink 1993)",
+        "Starlink v1.0 L18-42 (Starlink 1994)",
+        "Starlink v1.0 L18-43 (Starlink 1995)",
+        "Starlink v1.0 L18-44 (Starlink 1996)",
+        "Starlink v1.0 L18-45 (Starlink 1997)",
+        "Starlink v1.0 L18-46 (Starlink 1998)",
+        "Starlink v1.0 L18-47 (Starlink 1999)",
+        "Starlink v1.0 L18-48 (Starlink 2000)",
+        "Starlink v1.0 L18-49 (Starlink 2001)",
+        "Starlink v1.0 L18-50 (Starlink 2002)",
+        "Starlink v1.0 L18-51 (Starlink 2003)",
+        "Starlink v1.0 L18-52 (Starlink 2004)",
+        "Starlink v1.0 L18-53 (Starlink 2005)",
+        "Starlink v1.0 L18-54 (Starlink 2006)",
+        "Starlink v1.0 L18-55 (Starlink 2007)",
+        "Starlink v1.0 L18-56 (Starlink 2008)",
+        "Starlink v1.0 L18-57 (Starlink 2021)",
+        "Starlink v1.0 L18-58 (Starlink 2023)",
+        "Starlink v1.0 L18-59 (Starlink 2024)",
+        "Starlink v1.0 L18-60 (Starlink 2025)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -81,7 +374,9 @@
 "2021-010": {
     "id": "2021-010",
     "date": "04.02.2021",
-    "payload": "TJS 6 (Huoyan-1 03 ?)",
+    "payload": [
+        "TJS 6 (Huoyan-1 03 ?)"
+    ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-3",
     "remark": "success"
@@ -89,7 +384,9 @@
 "2021-011": {
     "id": "2021-011",
     "date": "15.02.2021",
-    "payload": "Progress-MS 16",
+    "payload": [
+        "Progress-MS 16"
+    ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -97,7 +394,68 @@
 "2021-012": {
     "id": "2021-012",
     "date": "16.02.2021",
-    "payload": "Starlink v1.0 L19-1 (Starlink 1528),Starlink v1.0 L19-2 (Starlink 1609),Starlink v1.0 L19-3 (Starlink 1645),Starlink v1.0 L19-4 (Starlink 1655),Starlink v1.0 L19-5 (Starlink 1669),Starlink v1.0 L19-6 (Starlink 1704),Starlink v1.0 L19-7 (Starlink 1761),Starlink v1.0 L19-8 (Starlink 1972),Starlink v1.0 L19-9 (Starlink 1973),Starlink v1.0 L19-10 (Starlink 1974),Starlink v1.0 L19-11 (Starlink 1983),Starlink v1.0 L19-12 (Starlink 1985),Starlink v1.0 L19-13 (Starlink 1992),Starlink v1.0 L19-14 (Starlink 2009),Starlink v1.0 L19-15 (Starlink 2010),Starlink v1.0 L19-16 (Starlink 2012),Starlink v1.0 L19-17 (Starlink 2013),Starlink v1.0 L19-18 (Starlink 2014),Starlink v1.0 L19-19 (Starlink 2015),Starlink v1.0 L19-20 (Starlink 2016),Starlink v1.0 L19-21 (Starlink 2018),Starlink v1.0 L19-22 (Starlink 2019),Starlink v1.0 L19-23 (Starlink 2020),Starlink v1.0 L19-24 (Starlink 2022),Starlink v1.0 L19-25 (Starlink 2026),Starlink v1.0 L19-26 (Starlink 2027),Starlink v1.0 L19-27 (Starlink 2028),Starlink v1.0 L19-28 (Starlink 2030),Starlink v1.0 L19-29 (Starlink 2031),Starlink v1.0 L19-30 (Starlink 2032),Starlink v1.0 L19-31 (Starlink 2033),Starlink v1.0 L19-32 (Starlink 2035),Starlink v1.0 L19-33 (Starlink 2036),Starlink v1.0 L19-34 (Starlink 2037),Starlink v1.0 L19-35 (Starlink 2038),Starlink v1.0 L19-36 (Starlink 2039),Starlink v1.0 L19-37 (Starlink 2040),Starlink v1.0 L19-38 (Starlink 2041),Starlink v1.0 L19-39 (Starlink 2042),Starlink v1.0 L19-40 (Starlink 2043),Starlink v1.0 L19-41 (Starlink 2044),Starlink v1.0 L19-42 (Starlink 2051),Starlink v1.0 L19-43 (Starlink 2052),Starlink v1.0 L19-44 (Starlink 2053),Starlink v1.0 L19-45 (Starlink 2054),Starlink v1.0 L19-46 (Starlink 2056),Starlink v1.0 L19-47 (Starlink 2057),Starlink v1.0 L19-48 (Starlink 2058),Starlink v1.0 L19-49 (Starlink 2059),Starlink v1.0 L19-50 (Starlink 2060),Starlink v1.0 L19-51 (Starlink 2062),Starlink v1.0 L19-52 (Starlink 2064),Starlink v1.0 L19-53 (Starlink 2065),Starlink v1.0 L19-54 (Starlink 2066),Starlink v1.0 L19-55 (Starlink 2067),Starlink v1.0 L19-56 (Starlink 2078),Starlink v1.0 L19-57 (Starlink 2083),Starlink v1.0 L19-58 (Starlink 2090),Starlink v1.0 L19-59 (Starlink 2091),Starlink v1.0 L19-60 (Starlink 2095)",
+    "payload": [
+        "Starlink v1.0 L19-1 (Starlink 1528)",
+        "Starlink v1.0 L19-2 (Starlink 1609)",
+        "Starlink v1.0 L19-3 (Starlink 1645)",
+        "Starlink v1.0 L19-4 (Starlink 1655)",
+        "Starlink v1.0 L19-5 (Starlink 1669)",
+        "Starlink v1.0 L19-6 (Starlink 1704)",
+        "Starlink v1.0 L19-7 (Starlink 1761)",
+        "Starlink v1.0 L19-8 (Starlink 1972)",
+        "Starlink v1.0 L19-9 (Starlink 1973)",
+        "Starlink v1.0 L19-10 (Starlink 1974)",
+        "Starlink v1.0 L19-11 (Starlink 1983)",
+        "Starlink v1.0 L19-12 (Starlink 1985)",
+        "Starlink v1.0 L19-13 (Starlink 1992)",
+        "Starlink v1.0 L19-14 (Starlink 2009)",
+        "Starlink v1.0 L19-15 (Starlink 2010)",
+        "Starlink v1.0 L19-16 (Starlink 2012)",
+        "Starlink v1.0 L19-17 (Starlink 2013)",
+        "Starlink v1.0 L19-18 (Starlink 2014)",
+        "Starlink v1.0 L19-19 (Starlink 2015)",
+        "Starlink v1.0 L19-20 (Starlink 2016)",
+        "Starlink v1.0 L19-21 (Starlink 2018)",
+        "Starlink v1.0 L19-22 (Starlink 2019)",
+        "Starlink v1.0 L19-23 (Starlink 2020)",
+        "Starlink v1.0 L19-24 (Starlink 2022)",
+        "Starlink v1.0 L19-25 (Starlink 2026)",
+        "Starlink v1.0 L19-26 (Starlink 2027)",
+        "Starlink v1.0 L19-27 (Starlink 2028)",
+        "Starlink v1.0 L19-28 (Starlink 2030)",
+        "Starlink v1.0 L19-29 (Starlink 2031)",
+        "Starlink v1.0 L19-30 (Starlink 2032)",
+        "Starlink v1.0 L19-31 (Starlink 2033)",
+        "Starlink v1.0 L19-32 (Starlink 2035)",
+        "Starlink v1.0 L19-33 (Starlink 2036)",
+        "Starlink v1.0 L19-34 (Starlink 2037)",
+        "Starlink v1.0 L19-35 (Starlink 2038)",
+        "Starlink v1.0 L19-36 (Starlink 2039)",
+        "Starlink v1.0 L19-37 (Starlink 2040)",
+        "Starlink v1.0 L19-38 (Starlink 2041)",
+        "Starlink v1.0 L19-39 (Starlink 2042)",
+        "Starlink v1.0 L19-40 (Starlink 2043)",
+        "Starlink v1.0 L19-41 (Starlink 2044)",
+        "Starlink v1.0 L19-42 (Starlink 2051)",
+        "Starlink v1.0 L19-43 (Starlink 2052)",
+        "Starlink v1.0 L19-44 (Starlink 2053)",
+        "Starlink v1.0 L19-45 (Starlink 2054)",
+        "Starlink v1.0 L19-46 (Starlink 2056)",
+        "Starlink v1.0 L19-47 (Starlink 2057)",
+        "Starlink v1.0 L19-48 (Starlink 2058)",
+        "Starlink v1.0 L19-49 (Starlink 2059)",
+        "Starlink v1.0 L19-50 (Starlink 2060)",
+        "Starlink v1.0 L19-51 (Starlink 2062)",
+        "Starlink v1.0 L19-52 (Starlink 2064)",
+        "Starlink v1.0 L19-53 (Starlink 2065)",
+        "Starlink v1.0 L19-54 (Starlink 2066)",
+        "Starlink v1.0 L19-55 (Starlink 2067)",
+        "Starlink v1.0 L19-56 (Starlink 2078)",
+        "Starlink v1.0 L19-57 (Starlink 2083)",
+        "Starlink v1.0 L19-58 (Starlink 2090)",
+        "Starlink v1.0 L19-59 (Starlink 2091)",
+        "Starlink v1.0 L19-60 (Starlink 2095)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -105,7 +463,33 @@
 "2021-013": {
     "id": "2021-013",
     "date": "20.02.2021",
-    "payload": "Cygnus CRS-15 (NG 15, SS Katherine Johnson),Lawkanat 1 ↑,Gunsmoke-J 2 (Jacob's Ladder 2) ↑,ORCA 6 ↑,ORCA 7 ↑,IT-SPINS ↑,TAU-SAT 1 ↑,MYSAT 2 (DhabiSat) ↑,STARS-EC (Sanko) ↑,OPUSAT 2 (Hirogari) ↑,RSP 01 (Selfie-sh) ↑,WARP 01 (Nichirin) ↑,TUMnanoSAT ↑,Maya 2 ↑,Guaranisat 1 ↑,Tsuru ↑,ThinSat 2A,ThinSat 2B,ThinSat 2C,ThinSat 2D,ThinSat 2E,ThinSat 2F,ThinSat 2G,ThinSat 2H,ThinSat 2I",
+    "payload": [
+        "Cygnus CRS-15 (NG 15, SS Katherine Johnson)",
+        "Lawkanat 1 ↑",
+        "Gunsmoke-J 2 (Jacob's Ladder 2) ↑",
+        "ORCA 6 ↑",
+        "ORCA 7 ↑",
+        "IT-SPINS ↑",
+        "TAU-SAT 1 ↑",
+        "MYSAT 2 (DhabiSat) ↑",
+        "STARS-EC (Sanko) ↑",
+        "OPUSAT 2 (Hirogari) ↑",
+        "RSP 01 (Selfie-sh) ↑",
+        "WARP 01 (Nichirin) ↑",
+        "TUMnanoSAT ↑",
+        "Maya 2 ↑",
+        "Guaranisat 1 ↑",
+        "Tsuru ↑",
+        "ThinSat 2A",
+        "ThinSat 2B",
+        "ThinSat 2C",
+        "ThinSat 2D",
+        "ThinSat 2E",
+        "ThinSat 2F",
+        "ThinSat 2G",
+        "ThinSat 2H",
+        "ThinSat 2I"
+    ],
     "lauchVehicle": "Antares-230+",
     "site": "WI LA-0A",
     "remark": "success"
@@ -113,7 +497,11 @@
 "2021-014": {
     "id": "2021-014",
     "date": "24.02.2021",
-    "payload": "Yaogan 31G (JB-8 6G),Yaogan 31H (JB-8 6H),Yaogan 31I (JB-8 6I)",
+    "payload": [
+        "Yaogan 31G (JB-8 6G)",
+        "Yaogan 31H (JB-8 6H)",
+        "Yaogan 31I (JB-8 6I)"
+    ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -121,7 +509,27 @@
 "2021-015": {
     "id": "2021-015",
     "date": "28.02.2021",
-    "payload": "Amazônia 1 (AZ 1, SSR 1),SindhuNetra (RSAT),SDSAT (Satish Dhawan Sat),SAI 1/NanoConnect 2,JITSat (UNITYsat 1),GHRCEsat (UNITYsat 2),Sri Shakthi Sat (UNITYsat 3),SpaceBEE 76,SpaceBEE 77,SpaceBEE 78,SpaceBEE 79,SpaceBEE 80,SpaceBEE 81,SpaceBEE 82,SpaceBEE 83,SpaceBEE 84,SpaceBEE 85,SpaceBEE 86,SpaceBEE 87",
+    "payload": [
+        "Amazônia 1 (AZ 1, SSR 1)",
+        "SindhuNetra (RSAT)",
+        "SDSAT (Satish Dhawan Sat)",
+        "SAI 1/NanoConnect 2",
+        "JITSat (UNITYsat 1)",
+        "GHRCEsat (UNITYsat 2)",
+        "Sri Shakthi Sat (UNITYsat 3)",
+        "SpaceBEE 76",
+        "SpaceBEE 77",
+        "SpaceBEE 78",
+        "SpaceBEE 79",
+        "SpaceBEE 80",
+        "SpaceBEE 81",
+        "SpaceBEE 82",
+        "SpaceBEE 83",
+        "SpaceBEE 84",
+        "SpaceBEE 85",
+        "SpaceBEE 86",
+        "SpaceBEE 87"
+    ],
     "lauchVehicle": "PSLV-DL",
     "site": "Sr FLP",
     "remark": "success"
@@ -129,7 +537,9 @@
 "2021-016": {
     "id": "2021-016",
     "date": "28.02.2021",
-    "payload": "Arktika-M 1",
+    "payload": [
+        "Arktika-M 1"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -137,7 +547,68 @@
 "2021-017": {
     "id": "2021-017",
     "date": "04.03.2021",
-    "payload": "Starlink v1.0 L17-1 (Starlink 2068),Starlink v1.0 L17-2 (Starlink 2107),Starlink v1.0 L17-3 (Starlink 2116),Starlink v1.0 L17-4 (Starlink 2125),Starlink v1.0 L17-5 (Starlink 2126),Starlink v1.0 L17-6 (Starlink 2129),Starlink v1.0 L17-7 (Starlink 2131),Starlink v1.0 L17-8 (Starlink 2132),Starlink v1.0 L17-9 (Starlink 2140),Starlink v1.0 L17-10 (Starlink 2141),Starlink v1.0 L17-11 (Starlink 2142),Starlink v1.0 L17-12 (Starlink 2143),Starlink v1.0 L17-13 (Starlink 2144),Starlink v1.0 L17-14 (Starlink 2146),Starlink v1.0 L17-15 (Starlink 2147),Starlink v1.0 L17-16 (Starlink 2148),Starlink v1.0 L17-17 (Starlink 2149),Starlink v1.0 L17-18 (Starlink 2150),Starlink v1.0 L17-19 (Starlink 2152),Starlink v1.0 L17-20 (Starlink 2154),Starlink v1.0 L17-21 (Starlink 2156),Starlink v1.0 L17-22 (Starlink 2157),Starlink v1.0 L17-23 (Starlink 2158),Starlink v1.0 L17-24 (Starlink 2159),Starlink v1.0 L17-25 (Starlink 2160),Starlink v1.0 L17-26 (Starlink 2161),Starlink v1.0 L17-27 (Starlink 2162),Starlink v1.0 L17-28 (Starlink 2163),Starlink v1.0 L17-29 (Starlink 2164),Starlink v1.0 L17-30 (Starlink 2168),Starlink v1.0 L17-31 (Starlink 2169),Starlink v1.0 L17-32 (Starlink 2170),Starlink v1.0 L17-33 (Starlink 2171),Starlink v1.0 L17-34 (Starlink 2172),Starlink v1.0 L17-35 (Starlink 2174),Starlink v1.0 L17-36 (Starlink 2175),Starlink v1.0 L17-37 (Starlink 2176),Starlink v1.0 L17-38 (Starlink 2177),Starlink v1.0 L17-39 (Starlink 2178),Starlink v1.0 L17-40 (Starlink 2179),Starlink v1.0 L17-41 (Starlink 2180),Starlink v1.0 L17-42 (Starlink 2181),Starlink v1.0 L17-43 (Starlink 2182),Starlink v1.0 L17-44 (Starlink 2183),Starlink v1.0 L17-45 (Starlink 2184),Starlink v1.0 L17-46 (Starlink 2185),Starlink v1.0 L17-47 (Starlink 2189),Starlink v1.0 L17-48 (Starlink 2192),Starlink v1.0 L17-49 (Starlink 2193),Starlink v1.0 L17-50 (Starlink 2194),Starlink v1.0 L17-51 (Starlink 2195),Starlink v1.0 L17-52 (Starlink 2196),Starlink v1.0 L17-53 (Starlink 2197),Starlink v1.0 L17-54 (Starlink 2198),Starlink v1.0 L17-55 (Starlink 2209),Starlink v1.0 L17-56 (Starlink 2210),Starlink v1.0 L17-57 (Starlink 2211),Starlink v1.0 L17-58 (Starlink 2212),Starlink v1.0 L17-59 (Starlink 2213),Starlink v1.0 L17-60 (Starlink 2223)",
+    "payload": [
+        "Starlink v1.0 L17-1 (Starlink 2068)",
+        "Starlink v1.0 L17-2 (Starlink 2107)",
+        "Starlink v1.0 L17-3 (Starlink 2116)",
+        "Starlink v1.0 L17-4 (Starlink 2125)",
+        "Starlink v1.0 L17-5 (Starlink 2126)",
+        "Starlink v1.0 L17-6 (Starlink 2129)",
+        "Starlink v1.0 L17-7 (Starlink 2131)",
+        "Starlink v1.0 L17-8 (Starlink 2132)",
+        "Starlink v1.0 L17-9 (Starlink 2140)",
+        "Starlink v1.0 L17-10 (Starlink 2141)",
+        "Starlink v1.0 L17-11 (Starlink 2142)",
+        "Starlink v1.0 L17-12 (Starlink 2143)",
+        "Starlink v1.0 L17-13 (Starlink 2144)",
+        "Starlink v1.0 L17-14 (Starlink 2146)",
+        "Starlink v1.0 L17-15 (Starlink 2147)",
+        "Starlink v1.0 L17-16 (Starlink 2148)",
+        "Starlink v1.0 L17-17 (Starlink 2149)",
+        "Starlink v1.0 L17-18 (Starlink 2150)",
+        "Starlink v1.0 L17-19 (Starlink 2152)",
+        "Starlink v1.0 L17-20 (Starlink 2154)",
+        "Starlink v1.0 L17-21 (Starlink 2156)",
+        "Starlink v1.0 L17-22 (Starlink 2157)",
+        "Starlink v1.0 L17-23 (Starlink 2158)",
+        "Starlink v1.0 L17-24 (Starlink 2159)",
+        "Starlink v1.0 L17-25 (Starlink 2160)",
+        "Starlink v1.0 L17-26 (Starlink 2161)",
+        "Starlink v1.0 L17-27 (Starlink 2162)",
+        "Starlink v1.0 L17-28 (Starlink 2163)",
+        "Starlink v1.0 L17-29 (Starlink 2164)",
+        "Starlink v1.0 L17-30 (Starlink 2168)",
+        "Starlink v1.0 L17-31 (Starlink 2169)",
+        "Starlink v1.0 L17-32 (Starlink 2170)",
+        "Starlink v1.0 L17-33 (Starlink 2171)",
+        "Starlink v1.0 L17-34 (Starlink 2172)",
+        "Starlink v1.0 L17-35 (Starlink 2174)",
+        "Starlink v1.0 L17-36 (Starlink 2175)",
+        "Starlink v1.0 L17-37 (Starlink 2176)",
+        "Starlink v1.0 L17-38 (Starlink 2177)",
+        "Starlink v1.0 L17-39 (Starlink 2178)",
+        "Starlink v1.0 L17-40 (Starlink 2179)",
+        "Starlink v1.0 L17-41 (Starlink 2180)",
+        "Starlink v1.0 L17-42 (Starlink 2181)",
+        "Starlink v1.0 L17-43 (Starlink 2182)",
+        "Starlink v1.0 L17-44 (Starlink 2183)",
+        "Starlink v1.0 L17-45 (Starlink 2184)",
+        "Starlink v1.0 L17-46 (Starlink 2185)",
+        "Starlink v1.0 L17-47 (Starlink 2189)",
+        "Starlink v1.0 L17-48 (Starlink 2192)",
+        "Starlink v1.0 L17-49 (Starlink 2193)",
+        "Starlink v1.0 L17-50 (Starlink 2194)",
+        "Starlink v1.0 L17-51 (Starlink 2195)",
+        "Starlink v1.0 L17-52 (Starlink 2196)",
+        "Starlink v1.0 L17-53 (Starlink 2197)",
+        "Starlink v1.0 L17-54 (Starlink 2198)",
+        "Starlink v1.0 L17-55 (Starlink 2209)",
+        "Starlink v1.0 L17-56 (Starlink 2210)",
+        "Starlink v1.0 L17-57 (Starlink 2211)",
+        "Starlink v1.0 L17-58 (Starlink 2212)",
+        "Starlink v1.0 L17-59 (Starlink 2213)",
+        "Starlink v1.0 L17-60 (Starlink 2223)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -145,7 +616,68 @@
 "2021-018": {
     "id": "2021-018",
     "date": "11.03.2021",
-    "payload": "Starlink v1.0 L20-1 (Starlink 2257),Starlink v1.0 L20-2 (Starlink 2314),Starlink v1.0 L20-3 (Starlink 2315),Starlink v1.0 L20-4 (Starlink 2319),Starlink v1.0 L20-5 (Starlink 2322),Starlink v1.0 L20-6 (Starlink 2334),Starlink v1.0 L20-7 (Starlink 2338),Starlink v1.0 L20-8 (Starlink 2341),Starlink v1.0 L20-9 (Starlink 2347),Starlink v1.0 L20-10 (Starlink 2373),Starlink v1.0 L20-11 (Starlink 2377),Starlink v1.0 L20-12 (Starlink 2379),Starlink v1.0 L20-13 (Starlink 2380),Starlink v1.0 L20-14 (Starlink 2381),Starlink v1.0 L20-15 (Starlink 2382),Starlink v1.0 L20-16 (Starlink 2383),Starlink v1.0 L20-17 (Starlink 2384),Starlink v1.0 L20-18 (Starlink 2385),Starlink v1.0 L20-19 (Starlink 2386),Starlink v1.0 L20-20 (Starlink 2387),Starlink v1.0 L20-21 (Starlink 2388),Starlink v1.0 L20-22 (Starlink 2389),Starlink v1.0 L20-23 (Starlink 2390),Starlink v1.0 L20-24 (Starlink 2391),Starlink v1.0 L20-25 (Starlink 2392),Starlink v1.0 L20-26 (Starlink 2393),Starlink v1.0 L20-27 (Starlink 2394),Starlink v1.0 L20-28 (Starlink 2395),Starlink v1.0 L20-29 (Starlink 2396),Starlink v1.0 L20-30 (Starlink 2399),Starlink v1.0 L20-31 (Starlink 2400),Starlink v1.0 L20-32 (Starlink 2401),Starlink v1.0 L20-33 (Starlink 2402),Starlink v1.0 L20-34 (Starlink 2403),Starlink v1.0 L20-35 (Starlink 2406),Starlink v1.0 L20-36 (Starlink 2407),Starlink v1.0 L20-37 (Starlink 2408),Starlink v1.0 L20-38 (Starlink 2409),Starlink v1.0 L20-39 (Starlink 2410),Starlink v1.0 L20-40 (Starlink 2411),Starlink v1.0 L20-41 (Starlink 2413),Starlink v1.0 L20-42 (Starlink 2415),Starlink v1.0 L20-43 (Starlink 2416),Starlink v1.0 L20-44 (Starlink 2419),Starlink v1.0 L20-45 (Starlink 2420),Starlink v1.0 L20-46 (Starlink 2422),Starlink v1.0 L20-47 (Starlink 2423),Starlink v1.0 L20-48 (Starlink 2424),Starlink v1.0 L20-49 (Starlink 2425),Starlink v1.0 L20-50 (Starlink 2426),Starlink v1.0 L20-51 (Starlink 2427),Starlink v1.0 L20-52 (Starlink 2429),Starlink v1.0 L20-53 (Starlink 2431),Starlink v1.0 L20-54 (Starlink 2432),Starlink v1.0 L20-55 (Starlink 2433),Starlink v1.0 L20-56 (Starlink 2434),Starlink v1.0 L20-57 (Starlink 2435),Starlink v1.0 L20-58 (Starlink 2446),Starlink v1.0 L20-59 (Starlink 2453),Starlink v1.0 L20-60 (Starlink 2456)",
+    "payload": [
+        "Starlink v1.0 L20-1 (Starlink 2257)",
+        "Starlink v1.0 L20-2 (Starlink 2314)",
+        "Starlink v1.0 L20-3 (Starlink 2315)",
+        "Starlink v1.0 L20-4 (Starlink 2319)",
+        "Starlink v1.0 L20-5 (Starlink 2322)",
+        "Starlink v1.0 L20-6 (Starlink 2334)",
+        "Starlink v1.0 L20-7 (Starlink 2338)",
+        "Starlink v1.0 L20-8 (Starlink 2341)",
+        "Starlink v1.0 L20-9 (Starlink 2347)",
+        "Starlink v1.0 L20-10 (Starlink 2373)",
+        "Starlink v1.0 L20-11 (Starlink 2377)",
+        "Starlink v1.0 L20-12 (Starlink 2379)",
+        "Starlink v1.0 L20-13 (Starlink 2380)",
+        "Starlink v1.0 L20-14 (Starlink 2381)",
+        "Starlink v1.0 L20-15 (Starlink 2382)",
+        "Starlink v1.0 L20-16 (Starlink 2383)",
+        "Starlink v1.0 L20-17 (Starlink 2384)",
+        "Starlink v1.0 L20-18 (Starlink 2385)",
+        "Starlink v1.0 L20-19 (Starlink 2386)",
+        "Starlink v1.0 L20-20 (Starlink 2387)",
+        "Starlink v1.0 L20-21 (Starlink 2388)",
+        "Starlink v1.0 L20-22 (Starlink 2389)",
+        "Starlink v1.0 L20-23 (Starlink 2390)",
+        "Starlink v1.0 L20-24 (Starlink 2391)",
+        "Starlink v1.0 L20-25 (Starlink 2392)",
+        "Starlink v1.0 L20-26 (Starlink 2393)",
+        "Starlink v1.0 L20-27 (Starlink 2394)",
+        "Starlink v1.0 L20-28 (Starlink 2395)",
+        "Starlink v1.0 L20-29 (Starlink 2396)",
+        "Starlink v1.0 L20-30 (Starlink 2399)",
+        "Starlink v1.0 L20-31 (Starlink 2400)",
+        "Starlink v1.0 L20-32 (Starlink 2401)",
+        "Starlink v1.0 L20-33 (Starlink 2402)",
+        "Starlink v1.0 L20-34 (Starlink 2403)",
+        "Starlink v1.0 L20-35 (Starlink 2406)",
+        "Starlink v1.0 L20-36 (Starlink 2407)",
+        "Starlink v1.0 L20-37 (Starlink 2408)",
+        "Starlink v1.0 L20-38 (Starlink 2409)",
+        "Starlink v1.0 L20-39 (Starlink 2410)",
+        "Starlink v1.0 L20-40 (Starlink 2411)",
+        "Starlink v1.0 L20-41 (Starlink 2413)",
+        "Starlink v1.0 L20-42 (Starlink 2415)",
+        "Starlink v1.0 L20-43 (Starlink 2416)",
+        "Starlink v1.0 L20-44 (Starlink 2419)",
+        "Starlink v1.0 L20-45 (Starlink 2420)",
+        "Starlink v1.0 L20-46 (Starlink 2422)",
+        "Starlink v1.0 L20-47 (Starlink 2423)",
+        "Starlink v1.0 L20-48 (Starlink 2424)",
+        "Starlink v1.0 L20-49 (Starlink 2425)",
+        "Starlink v1.0 L20-50 (Starlink 2426)",
+        "Starlink v1.0 L20-51 (Starlink 2427)",
+        "Starlink v1.0 L20-52 (Starlink 2429)",
+        "Starlink v1.0 L20-53 (Starlink 2431)",
+        "Starlink v1.0 L20-54 (Starlink 2432)",
+        "Starlink v1.0 L20-55 (Starlink 2433)",
+        "Starlink v1.0 L20-56 (Starlink 2434)",
+        "Starlink v1.0 L20-57 (Starlink 2435)",
+        "Starlink v1.0 L20-58 (Starlink 2446)",
+        "Starlink v1.0 L20-59 (Starlink 2453)",
+        "Starlink v1.0 L20-60 (Starlink 2456)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -153,7 +685,9 @@
 "2021-019": {
     "id": "2021-019",
     "date": "11.03.2021",
-    "payload": "SY 9",
+    "payload": [
+        "SY 9"
+    ],
     "lauchVehicle": "CZ-7A",
     "site": "We LC-201",
     "remark": "success"
@@ -161,7 +695,11 @@
 "2021-020": {
     "id": "2021-020",
     "date": "13.03.2021",
-    "payload": "Yaogan 31K (JB-8 6K),Yaogan 31L (JB-8 6L),Yaogan 31M (JB-8 6M)",
+    "payload": [
+        "Yaogan 31K (JB-8 6K)",
+        "Yaogan 31L (JB-8 6L)",
+        "Yaogan 31M (JB-8 6M)"
+    ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -169,7 +707,68 @@
 "2021-021": {
     "id": "2021-021",
     "date": "14.03.2021",
-    "payload": "Starlink v1.0 L21-1 (Starlink 2258),Starlink v1.0 L21-2 (Starlink 2280),Starlink v1.0 L21-3 (Starlink 2291),Starlink v1.0 L21-4 (Starlink 2293),Starlink v1.0 L21-5 (Starlink 2304),Starlink v1.0 L21-6 (Starlink 2310),Starlink v1.0 L21-7 (Starlink 2320),Starlink v1.0 L21-8 (Starlink 2321),Starlink v1.0 L21-9 (Starlink 2323),Starlink v1.0 L21-10 (Starlink 2324),Starlink v1.0 L21-11 (Starlink 2326),Starlink v1.0 L21-12 (Starlink 2327),Starlink v1.0 L21-13 (Starlink 2328),Starlink v1.0 L21-14 (Starlink 2329),Starlink v1.0 L21-15 (Starlink 2330),Starlink v1.0 L21-16 (Starlink 2331),Starlink v1.0 L21-17 (Starlink 2332),Starlink v1.0 L21-18 (Starlink 2333),Starlink v1.0 L21-19 (Starlink 2335),Starlink v1.0 L21-20 (Starlink 2336),Starlink v1.0 L21-21 (Starlink 2337),Starlink v1.0 L21-22 (Starlink 2339),Starlink v1.0 L21-23 (Starlink 2340),Starlink v1.0 L21-24 (Starlink 2342),Starlink v1.0 L21-25 (Starlink 2343),Starlink v1.0 L21-26 (Starlink 2344),Starlink v1.0 L21-27 (Starlink 2345),Starlink v1.0 L21-28 (Starlink 2346),Starlink v1.0 L21-29 (Starlink 2348),Starlink v1.0 L21-30 (Starlink 2349),Starlink v1.0 L21-31 (Starlink 2350),Starlink v1.0 L21-32 (Starlink 2351),Starlink v1.0 L21-33 (Starlink 2352),Starlink v1.0 L21-34 (Starlink 2353),Starlink v1.0 L21-35 (Starlink 2354),Starlink v1.0 L21-36 (Starlink 2355),Starlink v1.0 L21-37 (Starlink 2356),Starlink v1.0 L21-38 (Starlink 2357),Starlink v1.0 L21-39 (Starlink 2358),Starlink v1.0 L21-40 (Starlink 2359),Starlink v1.0 L21-41 (Starlink 2360),Starlink v1.0 L21-42 (Starlink 2361),Starlink v1.0 L21-43 (Starlink 2362),Starlink v1.0 L21-44 (Starlink 2363),Starlink v1.0 L21-45 (Starlink 2364),Starlink v1.0 L21-46 (Starlink 2365),Starlink v1.0 L21-47 (Starlink 2366),Starlink v1.0 L21-48 (Starlink 2367),Starlink v1.0 L21-49 (Starlink 2368),Starlink v1.0 L21-50 (Starlink 2369),Starlink v1.0 L21-51 (Starlink 2370),Starlink v1.0 L21-52 (Starlink 2371),Starlink v1.0 L21-53 (Starlink 2372),Starlink v1.0 L21-54 (Starlink 2374),Starlink v1.0 L21-55 (Starlink 2375),Starlink v1.0 L21-56 (Starlink 2376),Starlink v1.0 L21-57 (Starlink 2378),Starlink v1.0 L21-58 (Starlink 2397),Starlink v1.0 L21-59 (Starlink 2398),Starlink v1.0 L21-60 (Starlink 2405)",
+    "payload": [
+        "Starlink v1.0 L21-1 (Starlink 2258)",
+        "Starlink v1.0 L21-2 (Starlink 2280)",
+        "Starlink v1.0 L21-3 (Starlink 2291)",
+        "Starlink v1.0 L21-4 (Starlink 2293)",
+        "Starlink v1.0 L21-5 (Starlink 2304)",
+        "Starlink v1.0 L21-6 (Starlink 2310)",
+        "Starlink v1.0 L21-7 (Starlink 2320)",
+        "Starlink v1.0 L21-8 (Starlink 2321)",
+        "Starlink v1.0 L21-9 (Starlink 2323)",
+        "Starlink v1.0 L21-10 (Starlink 2324)",
+        "Starlink v1.0 L21-11 (Starlink 2326)",
+        "Starlink v1.0 L21-12 (Starlink 2327)",
+        "Starlink v1.0 L21-13 (Starlink 2328)",
+        "Starlink v1.0 L21-14 (Starlink 2329)",
+        "Starlink v1.0 L21-15 (Starlink 2330)",
+        "Starlink v1.0 L21-16 (Starlink 2331)",
+        "Starlink v1.0 L21-17 (Starlink 2332)",
+        "Starlink v1.0 L21-18 (Starlink 2333)",
+        "Starlink v1.0 L21-19 (Starlink 2335)",
+        "Starlink v1.0 L21-20 (Starlink 2336)",
+        "Starlink v1.0 L21-21 (Starlink 2337)",
+        "Starlink v1.0 L21-22 (Starlink 2339)",
+        "Starlink v1.0 L21-23 (Starlink 2340)",
+        "Starlink v1.0 L21-24 (Starlink 2342)",
+        "Starlink v1.0 L21-25 (Starlink 2343)",
+        "Starlink v1.0 L21-26 (Starlink 2344)",
+        "Starlink v1.0 L21-27 (Starlink 2345)",
+        "Starlink v1.0 L21-28 (Starlink 2346)",
+        "Starlink v1.0 L21-29 (Starlink 2348)",
+        "Starlink v1.0 L21-30 (Starlink 2349)",
+        "Starlink v1.0 L21-31 (Starlink 2350)",
+        "Starlink v1.0 L21-32 (Starlink 2351)",
+        "Starlink v1.0 L21-33 (Starlink 2352)",
+        "Starlink v1.0 L21-34 (Starlink 2353)",
+        "Starlink v1.0 L21-35 (Starlink 2354)",
+        "Starlink v1.0 L21-36 (Starlink 2355)",
+        "Starlink v1.0 L21-37 (Starlink 2356)",
+        "Starlink v1.0 L21-38 (Starlink 2357)",
+        "Starlink v1.0 L21-39 (Starlink 2358)",
+        "Starlink v1.0 L21-40 (Starlink 2359)",
+        "Starlink v1.0 L21-41 (Starlink 2360)",
+        "Starlink v1.0 L21-42 (Starlink 2361)",
+        "Starlink v1.0 L21-43 (Starlink 2362)",
+        "Starlink v1.0 L21-44 (Starlink 2363)",
+        "Starlink v1.0 L21-45 (Starlink 2364)",
+        "Starlink v1.0 L21-46 (Starlink 2365)",
+        "Starlink v1.0 L21-47 (Starlink 2366)",
+        "Starlink v1.0 L21-48 (Starlink 2367)",
+        "Starlink v1.0 L21-49 (Starlink 2368)",
+        "Starlink v1.0 L21-50 (Starlink 2369)",
+        "Starlink v1.0 L21-51 (Starlink 2370)",
+        "Starlink v1.0 L21-52 (Starlink 2371)",
+        "Starlink v1.0 L21-53 (Starlink 2372)",
+        "Starlink v1.0 L21-54 (Starlink 2374)",
+        "Starlink v1.0 L21-55 (Starlink 2375)",
+        "Starlink v1.0 L21-56 (Starlink 2376)",
+        "Starlink v1.0 L21-57 (Starlink 2378)",
+        "Starlink v1.0 L21-58 (Starlink 2397)",
+        "Starlink v1.0 L21-59 (Starlink 2398)",
+        "Starlink v1.0 L21-60 (Starlink 2405)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -177,7 +776,46 @@
 "2021-022": {
     "id": "2021-022",
     "date": "22.03.2021",
-    "payload": "CAS500 1,ELSA-d Chaser,ELSA-d Target,GRUS 1B,GRUS 1C,GRUS 1D (FSTRA, Fukui Prefectural Satellite, Suisen),GRUS 1E,Najm 1 (Shaheen Sat),DMSat 1,UniSat 7,BCCSAT 1,FEES,DIY 1 (ArduiQube, DO 111, DIY-OSCAR 111),SMOG 1 (MO 110, Magyar-OSCAR 110),STECCO,SAMSON 1,SAMSON 2,SAMSON 3,Kepler 6 (Rocinante),Kepler 7 (C3PO),NanoSatC-Br 2 (NCBR 2),KMSL,CANYVAL-C 1 (Pumbaa),CANYVAL-C 2 (Timon),BeeSat 5 (Tubsat 23),BeeSat 6 (Tubsat 24),BeeSat 7 (Tubsat 25),BeeSat 8 (Tubsat 26),Hiber 3,CubeSX-HSE (MIEM 3U, NRU HSE-DZZ),CubeSX-Sirius-HSE (SiriusSat 3U, Sirius-DZZ),Orbicraft-Zorkiy,WildTrackCube-SIMBA (IKUNS 3),GRBAlpha (CAMELOT Demo),3B5GSAT (Sateliot 1),LacunaSat 2b,ChallengeOne,KSU-Cubesat",
+    "payload": [
+        "CAS500 1",
+        "ELSA-d Chaser",
+        "ELSA-d Target",
+        "GRUS 1B",
+        "GRUS 1C",
+        "GRUS 1D (FSTRA, Fukui Prefectural Satellite, Suisen)",
+        "GRUS 1E",
+        "Najm 1 (Shaheen Sat)",
+        "DMSat 1",
+        "UniSat 7",
+        "BCCSAT 1",
+        "FEES",
+        "DIY 1 (ArduiQube, DO 111, DIY-OSCAR 111)",
+        "SMOG 1 (MO 110, Magyar-OSCAR 110)",
+        "STECCO",
+        "SAMSON 1",
+        "SAMSON 2",
+        "SAMSON 3",
+        "Kepler 6 (Rocinante)",
+        "Kepler 7 (C3PO)",
+        "NanoSatC-Br 2 (NCBR 2)",
+        "KMSL",
+        "CANYVAL-C 1 (Pumbaa)",
+        "CANYVAL-C 2 (Timon)",
+        "BeeSat 5 (Tubsat 23)",
+        "BeeSat 6 (Tubsat 24)",
+        "BeeSat 7 (Tubsat 25)",
+        "BeeSat 8 (Tubsat 26)",
+        "Hiber 3",
+        "CubeSX-HSE (MIEM 3U, NRU HSE-DZZ)",
+        "CubeSX-Sirius-HSE (SiriusSat 3U, Sirius-DZZ)",
+        "Orbicraft-Zorkiy",
+        "WildTrackCube-SIMBA (IKUNS 3)",
+        "GRBAlpha (CAMELOT Demo)",
+        "3B5GSAT (Sateliot 1)",
+        "LacunaSat 2b",
+        "ChallengeOne",
+        "KSU-Cubesat"
+    ],
     "lauchVehicle": "Soyuz-2-1a Fregat",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -185,7 +823,16 @@
 "2021-023": {
     "id": "2021-023",
     "date": "22.03.2021",
-    "payload": "BlackSky 7 (BlackSky Global 9),Centauri 3 (Tyvak 0210),Myriota 7 (Tyvak 0152),RAAF-M2 A,RAAF-M2 B,Gunsmoke-J 3 (Jacob's Ladder 3),Veery Hatchling (Veery RL-1),Pathstone (Photon 02)",
+    "payload": [
+        "BlackSky 7 (BlackSky Global 9)",
+        "Centauri 3 (Tyvak 0210)",
+        "Myriota 7 (Tyvak 0152)",
+        "RAAF-M2 A",
+        "RAAF-M2 B",
+        "Gunsmoke-J 3 (Jacob's Ladder 3)",
+        "Veery Hatchling (Veery RL-1)",
+        "Pathstone (Photon 02)"
+    ],
     "lauchVehicle": "Electron Photon-LEO",
     "site": "OnS LC-1A",
     "remark": "success"
@@ -193,7 +840,68 @@
 "2021-024": {
     "id": "2021-024",
     "date": "24.03.2021",
-    "payload": "Starlink v1.0 L22-1 (Starlink 2087),Starlink v1.0 L22-2 (Starlink 1647),Starlink v1.0 L22-3 (Starlink 2325),Starlink v1.0 L22-4 (Starlink 2312),Starlink v1.0 L22-5 (Starlink 2303),Starlink v1.0 L22-6 (Starlink 2317),Starlink v1.0 L22-7 (Starlink 2289),Starlink v1.0 L22-8 (Starlink 2316),Starlink v1.0 L22-9 (Starlink 2308),Starlink v1.0 L22-10 (Starlink 2313),Starlink v1.0 L22-11 (Starlink 2311),Starlink v1.0 L22-12 (Starlink 2306),Starlink v1.0 L22-13 (Starlink 2305),Starlink v1.0 L22-14 (Starlink 2307),Starlink v1.0 L22-15 (Starlink 2279),Starlink v1.0 L22-16 (Starlink 2229),Starlink v1.0 L22-17 (Starlink 2273),Starlink v1.0 L22-18 (Starlink 2290),Starlink v1.0 L22-19 (Starlink 2309),Starlink v1.0 L22-20 (Starlink 2260),Starlink v1.0 L22-21 (Starlink 2266),Starlink v1.0 L22-22 (Starlink 2296),Starlink v1.0 L22-23 (Starlink 2218),Starlink v1.0 L22-24 (Starlink 2270),Starlink v1.0 L22-25 (Starlink 2262),Starlink v1.0 L22-26 (Starlink 2265),Starlink v1.0 L22-27 (Starlink 2263),Starlink v1.0 L22-28 (Starlink 2261),Starlink v1.0 L22-29 (Starlink 2254),Starlink v1.0 L22-30 (Starlink 2277),Starlink v1.0 L22-31 (Starlink 2259),Starlink v1.0 L22-32 (Starlink 2271),Starlink v1.0 L22-33 (Starlink 2153),Starlink v1.0 L22-34 (Starlink 2226),Starlink v1.0 L22-35 (Starlink 2272),Starlink v1.0 L22-36 (Starlink 2216),Starlink v1.0 L22-37 (Starlink 2243),Starlink v1.0 L22-38 (Starlink 2283),Starlink v1.0 L22-39 (Starlink 2281),Starlink v1.0 L22-40 (Starlink 2284),Starlink v1.0 L22-41 (Starlink 2239),Starlink v1.0 L22-42 (Starlink 2282),Starlink v1.0 L22-43 (Starlink 2285),Starlink v1.0 L22-44 (Starlink 2294),Starlink v1.0 L22-45 (Starlink 2301),Starlink v1.0 L22-46 (Starlink 2298),Starlink v1.0 L22-47 (Starlink 2292),Starlink v1.0 L22-48 (Starlink 2302),Starlink v1.0 L22-49 (Starlink 2318),Starlink v1.0 L22-50 (Starlink 2278),Starlink v1.0 L22-51 (Starlink 2300),Starlink v1.0 L22-52 (Starlink 2264),Starlink v1.0 L22-53 (Starlink 2299),Starlink v1.0 L22-54 (Starlink 2268),Starlink v1.0 L22-55 (Starlink 2267),Starlink v1.0 L22-56 (Starlink 2297),Starlink v1.0 L22-57 (Starlink 2286),Starlink v1.0 L22-58 (Starlink 2288),Starlink v1.0 L22-59 (Starlink 2287),Starlink v1.0 L22-60 (Starlink 2295)",
+    "payload": [
+        "Starlink v1.0 L22-1 (Starlink 2087)",
+        "Starlink v1.0 L22-2 (Starlink 1647)",
+        "Starlink v1.0 L22-3 (Starlink 2325)",
+        "Starlink v1.0 L22-4 (Starlink 2312)",
+        "Starlink v1.0 L22-5 (Starlink 2303)",
+        "Starlink v1.0 L22-6 (Starlink 2317)",
+        "Starlink v1.0 L22-7 (Starlink 2289)",
+        "Starlink v1.0 L22-8 (Starlink 2316)",
+        "Starlink v1.0 L22-9 (Starlink 2308)",
+        "Starlink v1.0 L22-10 (Starlink 2313)",
+        "Starlink v1.0 L22-11 (Starlink 2311)",
+        "Starlink v1.0 L22-12 (Starlink 2306)",
+        "Starlink v1.0 L22-13 (Starlink 2305)",
+        "Starlink v1.0 L22-14 (Starlink 2307)",
+        "Starlink v1.0 L22-15 (Starlink 2279)",
+        "Starlink v1.0 L22-16 (Starlink 2229)",
+        "Starlink v1.0 L22-17 (Starlink 2273)",
+        "Starlink v1.0 L22-18 (Starlink 2290)",
+        "Starlink v1.0 L22-19 (Starlink 2309)",
+        "Starlink v1.0 L22-20 (Starlink 2260)",
+        "Starlink v1.0 L22-21 (Starlink 2266)",
+        "Starlink v1.0 L22-22 (Starlink 2296)",
+        "Starlink v1.0 L22-23 (Starlink 2218)",
+        "Starlink v1.0 L22-24 (Starlink 2270)",
+        "Starlink v1.0 L22-25 (Starlink 2262)",
+        "Starlink v1.0 L22-26 (Starlink 2265)",
+        "Starlink v1.0 L22-27 (Starlink 2263)",
+        "Starlink v1.0 L22-28 (Starlink 2261)",
+        "Starlink v1.0 L22-29 (Starlink 2254)",
+        "Starlink v1.0 L22-30 (Starlink 2277)",
+        "Starlink v1.0 L22-31 (Starlink 2259)",
+        "Starlink v1.0 L22-32 (Starlink 2271)",
+        "Starlink v1.0 L22-33 (Starlink 2153)",
+        "Starlink v1.0 L22-34 (Starlink 2226)",
+        "Starlink v1.0 L22-35 (Starlink 2272)",
+        "Starlink v1.0 L22-36 (Starlink 2216)",
+        "Starlink v1.0 L22-37 (Starlink 2243)",
+        "Starlink v1.0 L22-38 (Starlink 2283)",
+        "Starlink v1.0 L22-39 (Starlink 2281)",
+        "Starlink v1.0 L22-40 (Starlink 2284)",
+        "Starlink v1.0 L22-41 (Starlink 2239)",
+        "Starlink v1.0 L22-42 (Starlink 2282)",
+        "Starlink v1.0 L22-43 (Starlink 2285)",
+        "Starlink v1.0 L22-44 (Starlink 2294)",
+        "Starlink v1.0 L22-45 (Starlink 2301)",
+        "Starlink v1.0 L22-46 (Starlink 2298)",
+        "Starlink v1.0 L22-47 (Starlink 2292)",
+        "Starlink v1.0 L22-48 (Starlink 2302)",
+        "Starlink v1.0 L22-49 (Starlink 2318)",
+        "Starlink v1.0 L22-50 (Starlink 2278)",
+        "Starlink v1.0 L22-51 (Starlink 2300)",
+        "Starlink v1.0 L22-52 (Starlink 2264)",
+        "Starlink v1.0 L22-53 (Starlink 2299)",
+        "Starlink v1.0 L22-54 (Starlink 2268)",
+        "Starlink v1.0 L22-55 (Starlink 2267)",
+        "Starlink v1.0 L22-56 (Starlink 2297)",
+        "Starlink v1.0 L22-57 (Starlink 2286)",
+        "Starlink v1.0 L22-58 (Starlink 2288)",
+        "Starlink v1.0 L22-59 (Starlink 2287)",
+        "Starlink v1.0 L22-60 (Starlink 2295)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -201,7 +909,44 @@
 "2021-025": {
     "id": "2021-025",
     "date": "25.03.2021",
-    "payload": "OneWeb L5-1 (OneWeb 0115),OneWeb L5-2 (OneWeb 0152),OneWeb L5-3 (OneWeb 0153),OneWeb L5-4 (OneWeb 0154),OneWeb L5-5 (OneWeb 0116),OneWeb L5-6 (OneWeb 0150),OneWeb L5-7 (OneWeb 0107),OneWeb L5-8 (OneWeb 0101),OneWeb L5-9 (OneWeb 0113),OneWeb L5-10 (OneWeb 0112),OneWeb L5-11 (OneWeb 0156),OneWeb L5-12 (OneWeb 0161),OneWeb L5-13 (OneWeb 0158),OneWeb L5-14 (OneWeb 0157),OneWeb L5-15 (OneWeb 0162),OneWeb L5-16 (OneWeb 0155),OneWeb L5-17 (OneWeb 0149),OneWeb L5-18 (OneWeb 0148),OneWeb L5-19 (OneWeb 0160),OneWeb L5-20 (OneWeb 0163),OneWeb L5-21 (OneWeb 0159),OneWeb L5-22 (OneWeb 0164),OneWeb L5-23 (OneWeb 0167),OneWeb L5-24 (OneWeb 0166),OneWeb L5-25 (OneWeb 0151),OneWeb L5-26 (OneWeb 0170),OneWeb L5-27 (OneWeb 0168),OneWeb L5-28 (OneWeb 0173),OneWeb L5-29 (OneWeb 0171),OneWeb L5-30 (OneWeb 0172),OneWeb L5-31 (OneWeb 0174),OneWeb L5-32 (OneWeb 0175),OneWeb L5-33 (OneWeb 0177),OneWeb L5-34 (OneWeb 0178),OneWeb L5-35 (OneWeb 0108),OneWeb L5-36 (OneWeb 0169)",
+    "payload": [
+        "OneWeb L5-1 (OneWeb 0115)",
+        "OneWeb L5-2 (OneWeb 0152)",
+        "OneWeb L5-3 (OneWeb 0153)",
+        "OneWeb L5-4 (OneWeb 0154)",
+        "OneWeb L5-5 (OneWeb 0116)",
+        "OneWeb L5-6 (OneWeb 0150)",
+        "OneWeb L5-7 (OneWeb 0107)",
+        "OneWeb L5-8 (OneWeb 0101)",
+        "OneWeb L5-9 (OneWeb 0113)",
+        "OneWeb L5-10 (OneWeb 0112)",
+        "OneWeb L5-11 (OneWeb 0156)",
+        "OneWeb L5-12 (OneWeb 0161)",
+        "OneWeb L5-13 (OneWeb 0158)",
+        "OneWeb L5-14 (OneWeb 0157)",
+        "OneWeb L5-15 (OneWeb 0162)",
+        "OneWeb L5-16 (OneWeb 0155)",
+        "OneWeb L5-17 (OneWeb 0149)",
+        "OneWeb L5-18 (OneWeb 0148)",
+        "OneWeb L5-19 (OneWeb 0160)",
+        "OneWeb L5-20 (OneWeb 0163)",
+        "OneWeb L5-21 (OneWeb 0159)",
+        "OneWeb L5-22 (OneWeb 0164)",
+        "OneWeb L5-23 (OneWeb 0167)",
+        "OneWeb L5-24 (OneWeb 0166)",
+        "OneWeb L5-25 (OneWeb 0151)",
+        "OneWeb L5-26 (OneWeb 0170)",
+        "OneWeb L5-27 (OneWeb 0168)",
+        "OneWeb L5-28 (OneWeb 0173)",
+        "OneWeb L5-29 (OneWeb 0171)",
+        "OneWeb L5-30 (OneWeb 0172)",
+        "OneWeb L5-31 (OneWeb 0174)",
+        "OneWeb L5-32 (OneWeb 0175)",
+        "OneWeb L5-33 (OneWeb 0177)",
+        "OneWeb L5-34 (OneWeb 0178)",
+        "OneWeb L5-35 (OneWeb 0108)",
+        "OneWeb L5-36 (OneWeb 0169)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
     "remark": "success"
@@ -209,7 +954,9 @@
 "2021-026": {
     "id": "2021-026",
     "date": "30.03.2021",
-    "payload": "Gaofen 12-02",
+    "payload": [
+        "Gaofen 12-02"
+    ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -217,7 +964,68 @@
 "2021-027": {
     "id": "2021-027",
     "date": "07.04.2021",
-    "payload": "Starlink v1.0 L23-1 (Starlink 2048),Starlink v1.0 L23-2 (Starlink 2404),Starlink v1.0 L23-3 (Starlink 2412),Starlink v1.0 L23-4 (Starlink 2414),Starlink v1.0 L23-5 (Starlink 2417),Starlink v1.0 L23-6 (Starlink 2418),Starlink v1.0 L23-7 (Starlink 2421),Starlink v1.0 L23-8 (Starlink 2428),Starlink v1.0 L23-9 (Starlink 2430),Starlink v1.0 L23-10 (Starlink 2436),Starlink v1.0 L23-11 (Starlink 2437),Starlink v1.0 L23-12 (Starlink 2438),Starlink v1.0 L23-13 (Starlink 2439),Starlink v1.0 L23-14 (Starlink 2440),Starlink v1.0 L23-15 (Starlink 2442),Starlink v1.0 L23-16 (Starlink 2443),Starlink v1.0 L23-17 (Starlink 2444),Starlink v1.0 L23-18 (Starlink 2445),Starlink v1.0 L23-19 (Starlink 2447),Starlink v1.0 L23-20 (Starlink 2448),Starlink v1.0 L23-21 (Starlink 2449),Starlink v1.0 L23-22 (Starlink 2450),Starlink v1.0 L23-23 (Starlink 2451),Starlink v1.0 L23-24 (Starlink 2452),Starlink v1.0 L23-25 (Starlink 2454),Starlink v1.0 L23-26 (Starlink 2455),Starlink v1.0 L23-27 (Starlink 2458),Starlink v1.0 L23-28 (Starlink 2459),Starlink v1.0 L23-29 (Starlink 2460),Starlink v1.0 L23-30 (Starlink 2462),Starlink v1.0 L23-31 (Starlink 2463),Starlink v1.0 L23-32 (Starlink 2464),Starlink v1.0 L23-33 (Starlink 2465),Starlink v1.0 L23-34 (Starlink 2466),Starlink v1.0 L23-35 (Starlink 2467),Starlink v1.0 L23-36 (Starlink 2468),Starlink v1.0 L23-37 (Starlink 2469),Starlink v1.0 L23-38 (Starlink 2471),Starlink v1.0 L23-39 (Starlink 2472),Starlink v1.0 L23-40 (Starlink 2473),Starlink v1.0 L23-41 (Starlink 2474),Starlink v1.0 L23-42 (Starlink 2475),Starlink v1.0 L23-43 (Starlink 2476),Starlink v1.0 L23-44 (Starlink 2478),Starlink v1.0 L23-45 (Starlink 2479),Starlink v1.0 L23-46 (Starlink 2480),Starlink v1.0 L23-47 (Starlink 2481),Starlink v1.0 L23-48 (Starlink 2482),Starlink v1.0 L23-49 (Starlink 2483),Starlink v1.0 L23-50 (Starlink 2484),Starlink v1.0 L23-51 (Starlink 2485),Starlink v1.0 L23-52 (Starlink 2486),Starlink v1.0 L23-53 (Starlink 2487),Starlink v1.0 L23-54 (Starlink 2488),Starlink v1.0 L23-55 (Starlink 2489),Starlink v1.0 L23-56 (Starlink 2490),Starlink v1.0 L23-57 (Starlink 2491),Starlink v1.0 L23-58 (Starlink 2492),Starlink v1.0 L23-59 (Starlink 2493),Starlink v1.0 L23-60 (Starlink 2503)",
+    "payload": [
+        "Starlink v1.0 L23-1 (Starlink 2048)",
+        "Starlink v1.0 L23-2 (Starlink 2404)",
+        "Starlink v1.0 L23-3 (Starlink 2412)",
+        "Starlink v1.0 L23-4 (Starlink 2414)",
+        "Starlink v1.0 L23-5 (Starlink 2417)",
+        "Starlink v1.0 L23-6 (Starlink 2418)",
+        "Starlink v1.0 L23-7 (Starlink 2421)",
+        "Starlink v1.0 L23-8 (Starlink 2428)",
+        "Starlink v1.0 L23-9 (Starlink 2430)",
+        "Starlink v1.0 L23-10 (Starlink 2436)",
+        "Starlink v1.0 L23-11 (Starlink 2437)",
+        "Starlink v1.0 L23-12 (Starlink 2438)",
+        "Starlink v1.0 L23-13 (Starlink 2439)",
+        "Starlink v1.0 L23-14 (Starlink 2440)",
+        "Starlink v1.0 L23-15 (Starlink 2442)",
+        "Starlink v1.0 L23-16 (Starlink 2443)",
+        "Starlink v1.0 L23-17 (Starlink 2444)",
+        "Starlink v1.0 L23-18 (Starlink 2445)",
+        "Starlink v1.0 L23-19 (Starlink 2447)",
+        "Starlink v1.0 L23-20 (Starlink 2448)",
+        "Starlink v1.0 L23-21 (Starlink 2449)",
+        "Starlink v1.0 L23-22 (Starlink 2450)",
+        "Starlink v1.0 L23-23 (Starlink 2451)",
+        "Starlink v1.0 L23-24 (Starlink 2452)",
+        "Starlink v1.0 L23-25 (Starlink 2454)",
+        "Starlink v1.0 L23-26 (Starlink 2455)",
+        "Starlink v1.0 L23-27 (Starlink 2458)",
+        "Starlink v1.0 L23-28 (Starlink 2459)",
+        "Starlink v1.0 L23-29 (Starlink 2460)",
+        "Starlink v1.0 L23-30 (Starlink 2462)",
+        "Starlink v1.0 L23-31 (Starlink 2463)",
+        "Starlink v1.0 L23-32 (Starlink 2464)",
+        "Starlink v1.0 L23-33 (Starlink 2465)",
+        "Starlink v1.0 L23-34 (Starlink 2466)",
+        "Starlink v1.0 L23-35 (Starlink 2467)",
+        "Starlink v1.0 L23-36 (Starlink 2468)",
+        "Starlink v1.0 L23-37 (Starlink 2469)",
+        "Starlink v1.0 L23-38 (Starlink 2471)",
+        "Starlink v1.0 L23-39 (Starlink 2472)",
+        "Starlink v1.0 L23-40 (Starlink 2473)",
+        "Starlink v1.0 L23-41 (Starlink 2474)",
+        "Starlink v1.0 L23-42 (Starlink 2475)",
+        "Starlink v1.0 L23-43 (Starlink 2476)",
+        "Starlink v1.0 L23-44 (Starlink 2478)",
+        "Starlink v1.0 L23-45 (Starlink 2479)",
+        "Starlink v1.0 L23-46 (Starlink 2480)",
+        "Starlink v1.0 L23-47 (Starlink 2481)",
+        "Starlink v1.0 L23-48 (Starlink 2482)",
+        "Starlink v1.0 L23-49 (Starlink 2483)",
+        "Starlink v1.0 L23-50 (Starlink 2484)",
+        "Starlink v1.0 L23-51 (Starlink 2485)",
+        "Starlink v1.0 L23-52 (Starlink 2486)",
+        "Starlink v1.0 L23-53 (Starlink 2487)",
+        "Starlink v1.0 L23-54 (Starlink 2488)",
+        "Starlink v1.0 L23-55 (Starlink 2489)",
+        "Starlink v1.0 L23-56 (Starlink 2490)",
+        "Starlink v1.0 L23-57 (Starlink 2491)",
+        "Starlink v1.0 L23-58 (Starlink 2492)",
+        "Starlink v1.0 L23-59 (Starlink 2493)",
+        "Starlink v1.0 L23-60 (Starlink 2503)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -225,7 +1033,9 @@
 "2021-028": {
     "id": "2021-028",
     "date": "08.04.2021",
-    "payload": "SY 6-03 (TS 6-03, CX 3A-03)",
+    "payload": [
+        "SY 6-03 (TS 6-03, CX 3A-03)"
+    ],
     "lauchVehicle": "CZ-4B",
     "site": "TY LC-9",
     "remark": "success"
@@ -233,7 +1043,9 @@
 "2021-029": {
     "id": "2021-029",
     "date": "09.04.2021",
-    "payload": "Soyuz-MS 18",
+    "payload": [
+        "Soyuz-MS 18"
+    ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -241,7 +1053,9 @@
 "2021-030": {
     "id": "2021-030",
     "date": "23.04.2021",
-    "payload": "Crew Dragon 2 (Dragon C206-F2, Endeavour F2, USCV 2)",
+    "payload": [
+        "Crew Dragon 2 (Dragon C206-F2, Endeavour F2, USCV 2)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -249,7 +1063,44 @@
 "2021-031": {
     "id": "2021-031",
     "date": "25.04.2021",
-    "payload": "OneWeb L6-1 (OneWeb 0176),OneWeb L6-2 (OneWeb 0184),OneWeb L6-3 (OneWeb 0179),OneWeb L6-4 (OneWeb 0180),OneWeb L6-5 (OneWeb 0218),OneWeb L6-6 (OneWeb 0209),OneWeb L6-7 (OneWeb 0198),OneWeb L6-8 (OneWeb 0189),OneWeb L6-9 (OneWeb 0196),OneWeb L6-10 (OneWeb 0183),OneWeb L6-11 (OneWeb 0185),OneWeb L6-12 (OneWeb 0187),OneWeb L6-13 (OneWeb 0192),OneWeb L6-14 (OneWeb 0219),OneWeb L6-15 (OneWeb 0202),OneWeb L6-16 (OneWeb 0204),OneWeb L6-17 (OneWeb 0205),OneWeb L6-18 (OneWeb 0206),OneWeb L6-19 (OneWeb 0182),OneWeb L6-20 (OneWeb 0186),OneWeb L6-21 (OneWeb 0181),OneWeb L6-22 (OneWeb 0188),OneWeb L6-23 (OneWeb 0220),OneWeb L6-24 (OneWeb 0165),OneWeb L6-25 (OneWeb 0199),OneWeb L6-26 (OneWeb 0203),OneWeb L6-27 (OneWeb 0197),OneWeb L6-28 (OneWeb 0194),OneWeb L6-29 (OneWeb 0193),OneWeb L6-30 (OneWeb 0191),OneWeb L6-31 (OneWeb 0195),OneWeb L6-32 (OneWeb 0201),OneWeb L6-33 (OneWeb 0207),OneWeb L6-34 (OneWeb 0208),OneWeb L6-35 (OneWeb 0200),OneWeb L6-36 (OneWeb 0217)",
+    "payload": [
+        "OneWeb L6-1 (OneWeb 0176)",
+        "OneWeb L6-2 (OneWeb 0184)",
+        "OneWeb L6-3 (OneWeb 0179)",
+        "OneWeb L6-4 (OneWeb 0180)",
+        "OneWeb L6-5 (OneWeb 0218)",
+        "OneWeb L6-6 (OneWeb 0209)",
+        "OneWeb L6-7 (OneWeb 0198)",
+        "OneWeb L6-8 (OneWeb 0189)",
+        "OneWeb L6-9 (OneWeb 0196)",
+        "OneWeb L6-10 (OneWeb 0183)",
+        "OneWeb L6-11 (OneWeb 0185)",
+        "OneWeb L6-12 (OneWeb 0187)",
+        "OneWeb L6-13 (OneWeb 0192)",
+        "OneWeb L6-14 (OneWeb 0219)",
+        "OneWeb L6-15 (OneWeb 0202)",
+        "OneWeb L6-16 (OneWeb 0204)",
+        "OneWeb L6-17 (OneWeb 0205)",
+        "OneWeb L6-18 (OneWeb 0206)",
+        "OneWeb L6-19 (OneWeb 0182)",
+        "OneWeb L6-20 (OneWeb 0186)",
+        "OneWeb L6-21 (OneWeb 0181)",
+        "OneWeb L6-22 (OneWeb 0188)",
+        "OneWeb L6-23 (OneWeb 0220)",
+        "OneWeb L6-24 (OneWeb 0165)",
+        "OneWeb L6-25 (OneWeb 0199)",
+        "OneWeb L6-26 (OneWeb 0203)",
+        "OneWeb L6-27 (OneWeb 0197)",
+        "OneWeb L6-28 (OneWeb 0194)",
+        "OneWeb L6-29 (OneWeb 0193)",
+        "OneWeb L6-30 (OneWeb 0191)",
+        "OneWeb L6-31 (OneWeb 0195)",
+        "OneWeb L6-32 (OneWeb 0201)",
+        "OneWeb L6-33 (OneWeb 0207)",
+        "OneWeb L6-34 (OneWeb 0208)",
+        "OneWeb L6-35 (OneWeb 0200)",
+        "OneWeb L6-36 (OneWeb 0217)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
     "remark": "success"
@@ -257,7 +1108,9 @@
 "2021-032": {
     "id": "2021-032",
     "date": "26.04.2021",
-    "payload": "KH-11 18 (Crystal 18, USA 314, NROL 82)",
+    "payload": [
+        "KH-11 18 (Crystal 18, USA 314, NROL 82)"
+    ],
     "lauchVehicle": "Delta-4H (upg.)",
     "site": "Va SLC-6",
     "remark": "success"
@@ -265,7 +1118,17 @@
 "2021-033": {
     "id": "2021-033",
     "date": "27.04.2021",
-    "payload": "Qilu 1,Qilu 4,Foshan 1,Zhongan Guotong 1 (Hangsheng 1, HS 1),Tianqi 9 (TQ 9),NEO 1,Taijing-2 01,Jinzijing 1-01 (Golden Bauhinia 1-01),Jinzijing 1-02 (Golden Bauhinia 1-02)",
+    "payload": [
+        "Qilu 1",
+        "Qilu 4",
+        "Foshan 1",
+        "Zhongan Guotong 1 (Hangsheng 1, HS 1)",
+        "Tianqi 9 (TQ 9)",
+        "NEO 1",
+        "Taijing-2 01",
+        "Jinzijing 1-01 (Golden Bauhinia 1-01)",
+        "Jinzijing 1-02 (Golden Bauhinia 1-02)"
+    ],
     "lauchVehicle": "CZ-6",
     "site": "TY LC-16",
     "remark": "success"
@@ -273,7 +1136,14 @@
 "2021-034": {
     "id": "2021-034",
     "date": "29.04.2021",
-    "payload": "Pléiades-Neo 3 (VHR-2020 1),NORSAT 3,AII-Bravo,ELO Alpha (Tyvak 182A),Lemur-2 138 (Lemur-2 SpecialK, Lemur 2161),Lemur-2 139 (Lemur-2 Svante-Amanda, Lemur 2162)",
+    "payload": [
+        "Pléiades-Neo 3 (VHR-2020 1)",
+        "NORSAT 3",
+        "AII-Bravo",
+        "ELO Alpha (Tyvak 182A)",
+        "Lemur-2 138 (Lemur-2 SpecialK, Lemur 2161)",
+        "Lemur-2 139 (Lemur-2 Svante-Amanda, Lemur 2162)"
+    ],
     "lauchVehicle": "Vega",
     "site": "Ko ELV",
     "remark": "success"
@@ -281,7 +1151,9 @@
 "2021-035": {
     "id": "2021-035",
     "date": "29.04.2021",
-    "payload": "Tianhe",
+    "payload": [
+        "Tianhe"
+    ],
     "lauchVehicle": "CZ-5B",
     "site": "We LC-101",
     "remark": "success"
@@ -289,7 +1161,68 @@
 "2021-036": {
     "id": "2021-036",
     "date": "29.04.2021",
-    "payload": "Starlink v1.0 L24-1 (Starlink 2567),Starlink v1.0 L24-2 (Starlink 2569),Starlink v1.0 L24-3 (Starlink 2543),Starlink v1.0 L24-4 (Starlink 2580),Starlink v1.0 L24-5 (Starlink 2565),Starlink v1.0 L24-6 (Starlink 2520),Starlink v1.0 L24-7 (Starlink 2558),Starlink v1.0 L24-8 (Starlink 2516),Starlink v1.0 L24-9 (Starlink 2564),Starlink v1.0 L24-10 (Starlink 2548),Starlink v1.0 L24-11 (Starlink 2547),Starlink v1.0 L24-12 (Starlink 2566),Starlink v1.0 L24-13 (Starlink 2562),Starlink v1.0 L24-14 (Starlink 2545),Starlink v1.0 L24-15 (Starlink 2540),Starlink v1.0 L24-16 (Starlink 2555),Starlink v1.0 L24-17 (Starlink 2542),Starlink v1.0 L24-18 (Starlink 2550),Starlink v1.0 L24-19 (Starlink 2533),Starlink v1.0 L24-20 (Starlink 2535),Starlink v1.0 L24-21 (Starlink 2546),Starlink v1.0 L24-22 (Starlink 2544),Starlink v1.0 L24-23 (Starlink 2559),Starlink v1.0 L24-24 (Starlink 2557),Starlink v1.0 L24-25 (Starlink 2538),Starlink v1.0 L24-26 (Starlink 2537),Starlink v1.0 L24-27 (Starlink 2556),Starlink v1.0 L24-28 (Starlink 2530),Starlink v1.0 L24-29 (Starlink 2524),Starlink v1.0 L24-30 (Starlink 2519),Starlink v1.0 L24-31 (Starlink 2523),Starlink v1.0 L24-32 (Starlink 2528),Starlink v1.0 L24-33 (Starlink 2532),Starlink v1.0 L24-34 (Starlink 2517),Starlink v1.0 L24-35 (Starlink 2536),Starlink v1.0 L24-36 (Starlink 2534),Starlink v1.0 L24-37 (Starlink 2061),Starlink v1.0 L24-38 (Starlink 2541),Starlink v1.0 L24-39 (Starlink 2549),Starlink v1.0 L24-40 (Starlink 2506),Starlink v1.0 L24-41 (Starlink 2507),Starlink v1.0 L24-42 (Starlink 2513),Starlink v1.0 L24-43 (Starlink 2509),Starlink v1.0 L24-44 (Starlink 2512),Starlink v1.0 L24-45 (Starlink 2029),Starlink v1.0 L24-46 (Starlink 2457),Starlink v1.0 L24-47 (Starlink 2477),Starlink v1.0 L24-48 (Starlink 2515),Starlink v1.0 L24-49 (Starlink 2527),Starlink v1.0 L24-50 (Starlink 2495),Starlink v1.0 L24-51 (Starlink 2498),Starlink v1.0 L24-52 (Starlink 2502),Starlink v1.0 L24-53 (Starlink 2504),Starlink v1.0 L24-54 (Starlink 2510),Starlink v1.0 L24-55 (Starlink 2501),Starlink v1.0 L24-56 (Starlink 2514),Starlink v1.0 L24-57 (Starlink 2511),Starlink v1.0 L24-58 (Starlink 2518),Starlink v1.0 L24-59 (Starlink 2470),Starlink v1.0 L24-60 (Starlink 2441)",
+    "payload": [
+        "Starlink v1.0 L24-1 (Starlink 2567)",
+        "Starlink v1.0 L24-2 (Starlink 2569)",
+        "Starlink v1.0 L24-3 (Starlink 2543)",
+        "Starlink v1.0 L24-4 (Starlink 2580)",
+        "Starlink v1.0 L24-5 (Starlink 2565)",
+        "Starlink v1.0 L24-6 (Starlink 2520)",
+        "Starlink v1.0 L24-7 (Starlink 2558)",
+        "Starlink v1.0 L24-8 (Starlink 2516)",
+        "Starlink v1.0 L24-9 (Starlink 2564)",
+        "Starlink v1.0 L24-10 (Starlink 2548)",
+        "Starlink v1.0 L24-11 (Starlink 2547)",
+        "Starlink v1.0 L24-12 (Starlink 2566)",
+        "Starlink v1.0 L24-13 (Starlink 2562)",
+        "Starlink v1.0 L24-14 (Starlink 2545)",
+        "Starlink v1.0 L24-15 (Starlink 2540)",
+        "Starlink v1.0 L24-16 (Starlink 2555)",
+        "Starlink v1.0 L24-17 (Starlink 2542)",
+        "Starlink v1.0 L24-18 (Starlink 2550)",
+        "Starlink v1.0 L24-19 (Starlink 2533)",
+        "Starlink v1.0 L24-20 (Starlink 2535)",
+        "Starlink v1.0 L24-21 (Starlink 2546)",
+        "Starlink v1.0 L24-22 (Starlink 2544)",
+        "Starlink v1.0 L24-23 (Starlink 2559)",
+        "Starlink v1.0 L24-24 (Starlink 2557)",
+        "Starlink v1.0 L24-25 (Starlink 2538)",
+        "Starlink v1.0 L24-26 (Starlink 2537)",
+        "Starlink v1.0 L24-27 (Starlink 2556)",
+        "Starlink v1.0 L24-28 (Starlink 2530)",
+        "Starlink v1.0 L24-29 (Starlink 2524)",
+        "Starlink v1.0 L24-30 (Starlink 2519)",
+        "Starlink v1.0 L24-31 (Starlink 2523)",
+        "Starlink v1.0 L24-32 (Starlink 2528)",
+        "Starlink v1.0 L24-33 (Starlink 2532)",
+        "Starlink v1.0 L24-34 (Starlink 2517)",
+        "Starlink v1.0 L24-35 (Starlink 2536)",
+        "Starlink v1.0 L24-36 (Starlink 2534)",
+        "Starlink v1.0 L24-37 (Starlink 2061)",
+        "Starlink v1.0 L24-38 (Starlink 2541)",
+        "Starlink v1.0 L24-39 (Starlink 2549)",
+        "Starlink v1.0 L24-40 (Starlink 2506)",
+        "Starlink v1.0 L24-41 (Starlink 2507)",
+        "Starlink v1.0 L24-42 (Starlink 2513)",
+        "Starlink v1.0 L24-43 (Starlink 2509)",
+        "Starlink v1.0 L24-44 (Starlink 2512)",
+        "Starlink v1.0 L24-45 (Starlink 2029)",
+        "Starlink v1.0 L24-46 (Starlink 2457)",
+        "Starlink v1.0 L24-47 (Starlink 2477)",
+        "Starlink v1.0 L24-48 (Starlink 2515)",
+        "Starlink v1.0 L24-49 (Starlink 2527)",
+        "Starlink v1.0 L24-50 (Starlink 2495)",
+        "Starlink v1.0 L24-51 (Starlink 2498)",
+        "Starlink v1.0 L24-52 (Starlink 2502)",
+        "Starlink v1.0 L24-53 (Starlink 2504)",
+        "Starlink v1.0 L24-54 (Starlink 2510)",
+        "Starlink v1.0 L24-55 (Starlink 2501)",
+        "Starlink v1.0 L24-56 (Starlink 2514)",
+        "Starlink v1.0 L24-57 (Starlink 2511)",
+        "Starlink v1.0 L24-58 (Starlink 2518)",
+        "Starlink v1.0 L24-59 (Starlink 2470)",
+        "Starlink v1.0 L24-60 (Starlink 2441)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -297,7 +1230,9 @@
 "2021-037": {
     "id": "2021-037",
     "date": "30.04.2021",
-    "payload": "Yaogan 34",
+    "payload": [
+        "Yaogan 34"
+    ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -305,7 +1240,68 @@
 "2021-038": {
     "id": "2021-038",
     "date": "04.05.2021",
-    "payload": "Starlink v1.0 L25-1 (Starlink 2613),Starlink v1.0 L25-2 (Starlink 2674),Starlink v1.0 L25-3 (Starlink 2635),Starlink v1.0 L25-4 (Starlink 2637),Starlink v1.0 L25-5 (Starlink 2636),Starlink v1.0 L25-6 (Starlink 2624),Starlink v1.0 L25-7 (Starlink 2628),Starlink v1.0 L25-8 (Starlink 2622),Starlink v1.0 L25-9 (Starlink 2591),Starlink v1.0 L25-10 (Starlink 2578),Starlink v1.0 L25-11 (Starlink 2626),Starlink v1.0 L25-12 (Starlink 2611),Starlink v1.0 L25-13 (Starlink 2608),Starlink v1.0 L25-14 (Starlink 2631),Starlink v1.0 L25-15 (Starlink 2643),Starlink v1.0 L25-16 (Starlink 2623),Starlink v1.0 L25-17 (Starlink 2641),Starlink v1.0 L25-18 (Starlink 2621),Starlink v1.0 L25-19 (Starlink 2589),Starlink v1.0 L25-20 (Starlink 2572),Starlink v1.0 L25-21 (Starlink 2609),Starlink v1.0 L25-22 (Starlink 2604),Starlink v1.0 L25-23 (Starlink 2603),Starlink v1.0 L25-24 (Starlink 2610),Starlink v1.0 L25-25 (Starlink 2499),Starlink v1.0 L25-26 (Starlink 2526),Starlink v1.0 L25-27 (Starlink 2612),Starlink v1.0 L25-28 (Starlink 2614),Starlink v1.0 L25-29 (Starlink 2630),Starlink v1.0 L25-30 (Starlink 2585),Starlink v1.0 L25-31 (Starlink 2599),Starlink v1.0 L25-32 (Starlink 2601),Starlink v1.0 L25-33 (Starlink 2598),Starlink v1.0 L25-34 (Starlink 2606),Starlink v1.0 L25-35 (Starlink 2600),Starlink v1.0 L25-36 (Starlink 2594),Starlink v1.0 L25-37 (Starlink 1904),Starlink v1.0 L25-38 (Starlink 2586),Starlink v1.0 L25-39 (Starlink 2607),Starlink v1.0 L25-40 (Starlink 2605),Starlink v1.0 L25-41 (Starlink 2602),Starlink v1.0 L25-42 (Starlink 2573),Starlink v1.0 L25-43 (Starlink 2574),Starlink v1.0 L25-44 (Starlink 2575),Starlink v1.0 L25-45 (Starlink 2590),Starlink v1.0 L25-46 (Starlink 2588),Starlink v1.0 L25-47 (Starlink 2587),Starlink v1.0 L25-48 (Starlink 2576),Starlink v1.0 L25-49 (Starlink 2571),Starlink v1.0 L25-50 (Starlink 2560),Starlink v1.0 L25-51 (Starlink 2561),Starlink v1.0 L25-52 (Starlink 2593),Starlink v1.0 L25-53 (Starlink 2570),Starlink v1.0 L25-54 (Starlink 2568),Starlink v1.0 L25-55 (Starlink 2595),Starlink v1.0 L25-56 (Starlink 2592),Starlink v1.0 L25-57 (Starlink 2596),Starlink v1.0 L25-58 (Starlink 2563),Starlink v1.0 L25-59 (Starlink 2505),Starlink v1.0 L25-60 (Starlink 2581)",
+    "payload": [
+        "Starlink v1.0 L25-1 (Starlink 2613)",
+        "Starlink v1.0 L25-2 (Starlink 2674)",
+        "Starlink v1.0 L25-3 (Starlink 2635)",
+        "Starlink v1.0 L25-4 (Starlink 2637)",
+        "Starlink v1.0 L25-5 (Starlink 2636)",
+        "Starlink v1.0 L25-6 (Starlink 2624)",
+        "Starlink v1.0 L25-7 (Starlink 2628)",
+        "Starlink v1.0 L25-8 (Starlink 2622)",
+        "Starlink v1.0 L25-9 (Starlink 2591)",
+        "Starlink v1.0 L25-10 (Starlink 2578)",
+        "Starlink v1.0 L25-11 (Starlink 2626)",
+        "Starlink v1.0 L25-12 (Starlink 2611)",
+        "Starlink v1.0 L25-13 (Starlink 2608)",
+        "Starlink v1.0 L25-14 (Starlink 2631)",
+        "Starlink v1.0 L25-15 (Starlink 2643)",
+        "Starlink v1.0 L25-16 (Starlink 2623)",
+        "Starlink v1.0 L25-17 (Starlink 2641)",
+        "Starlink v1.0 L25-18 (Starlink 2621)",
+        "Starlink v1.0 L25-19 (Starlink 2589)",
+        "Starlink v1.0 L25-20 (Starlink 2572)",
+        "Starlink v1.0 L25-21 (Starlink 2609)",
+        "Starlink v1.0 L25-22 (Starlink 2604)",
+        "Starlink v1.0 L25-23 (Starlink 2603)",
+        "Starlink v1.0 L25-24 (Starlink 2610)",
+        "Starlink v1.0 L25-25 (Starlink 2499)",
+        "Starlink v1.0 L25-26 (Starlink 2526)",
+        "Starlink v1.0 L25-27 (Starlink 2612)",
+        "Starlink v1.0 L25-28 (Starlink 2614)",
+        "Starlink v1.0 L25-29 (Starlink 2630)",
+        "Starlink v1.0 L25-30 (Starlink 2585)",
+        "Starlink v1.0 L25-31 (Starlink 2599)",
+        "Starlink v1.0 L25-32 (Starlink 2601)",
+        "Starlink v1.0 L25-33 (Starlink 2598)",
+        "Starlink v1.0 L25-34 (Starlink 2606)",
+        "Starlink v1.0 L25-35 (Starlink 2600)",
+        "Starlink v1.0 L25-36 (Starlink 2594)",
+        "Starlink v1.0 L25-37 (Starlink 1904)",
+        "Starlink v1.0 L25-38 (Starlink 2586)",
+        "Starlink v1.0 L25-39 (Starlink 2607)",
+        "Starlink v1.0 L25-40 (Starlink 2605)",
+        "Starlink v1.0 L25-41 (Starlink 2602)",
+        "Starlink v1.0 L25-42 (Starlink 2573)",
+        "Starlink v1.0 L25-43 (Starlink 2574)",
+        "Starlink v1.0 L25-44 (Starlink 2575)",
+        "Starlink v1.0 L25-45 (Starlink 2590)",
+        "Starlink v1.0 L25-46 (Starlink 2588)",
+        "Starlink v1.0 L25-47 (Starlink 2587)",
+        "Starlink v1.0 L25-48 (Starlink 2576)",
+        "Starlink v1.0 L25-49 (Starlink 2571)",
+        "Starlink v1.0 L25-50 (Starlink 2560)",
+        "Starlink v1.0 L25-51 (Starlink 2561)",
+        "Starlink v1.0 L25-52 (Starlink 2593)",
+        "Starlink v1.0 L25-53 (Starlink 2570)",
+        "Starlink v1.0 L25-54 (Starlink 2568)",
+        "Starlink v1.0 L25-55 (Starlink 2595)",
+        "Starlink v1.0 L25-56 (Starlink 2592)",
+        "Starlink v1.0 L25-57 (Starlink 2596)",
+        "Starlink v1.0 L25-58 (Starlink 2563)",
+        "Starlink v1.0 L25-59 (Starlink 2505)",
+        "Starlink v1.0 L25-60 (Starlink 2581)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -313,7 +1309,12 @@
 "2021-039": {
     "id": "2021-039",
     "date": "06.05.2021",
-    "payload": "Yaogan 30-08-01 (CX 5-22),Yaogan 30-08-02 (CX 5-23),Yaogan 30-08-03 (CX 5-24),Tianqi 12 (TQ 12)",
+    "payload": [
+        "Yaogan 30-08-01 (CX 5-22)",
+        "Yaogan 30-08-02 (CX 5-23)",
+        "Yaogan 30-08-03 (CX 5-24)",
+        "Tianqi 12 (TQ 12)"
+    ],
     "lauchVehicle": "CZ-2C (3)",
     "site": "Xi LC-3",
     "remark": "success"
@@ -321,7 +1322,68 @@
 "2021-040": {
     "id": "2021-040",
     "date": "09.05.2021",
-    "payload": "Starlink v1.0 L27-1 (Starlink 2461),Starlink v1.0 L27-2 (Starlink 2749),Starlink v1.0 L27-3 (Starlink 2729),Starlink v1.0 L27-4 (Starlink 2700),Starlink v1.0 L27-5 (Starlink 2680),Starlink v1.0 L27-6 (Starlink 2699),Starlink v1.0 L27-7 (Starlink 2692),Starlink v1.0 L27-8 (Starlink 2633),Starlink v1.0 L27-9 (Starlink 2639),Starlink v1.0 L27-10 (Starlink 2642),Starlink v1.0 L27-11 (Starlink 2640),Starlink v1.0 L27-12 (Starlink 2583),Starlink v1.0 L27-13 (Starlink 2682),Starlink v1.0 L27-14 (Starlink 2702),Starlink v1.0 L27-15 (Starlink 2644),Starlink v1.0 L27-16 (Starlink 2663),Starlink v1.0 L27-17 (Starlink 2645),Starlink v1.0 L27-18 (Starlink 2634),Starlink v1.0 L27-19 (Starlink 2247),Starlink v1.0 L27-20 (Starlink 2269),Starlink v1.0 L27-21 (Starlink 2632),Starlink v1.0 L27-22 (Starlink 2655),Starlink v1.0 L27-23 (Starlink 2660),Starlink v1.0 L27-24 (Starlink 2652),Starlink v1.0 L27-25 (Starlink 2703),Starlink v1.0 L27-26 (Starlink 2620),Starlink v1.0 L27-27 (Starlink 2654),Starlink v1.0 L27-28 (Starlink 2497),Starlink v1.0 L27-29 (Starlink 2508),Starlink v1.0 L27-30 (Starlink 2529),Starlink v1.0 L27-31 (Starlink 2698),Starlink v1.0 L27-32 (Starlink 2579),Starlink v1.0 L27-33 (Starlink 2582),Starlink v1.0 L27-34 (Starlink 2693),Starlink v1.0 L27-35 (Starlink 2683),Starlink v1.0 L27-36 (Starlink 2689),Starlink v1.0 L27-37 (Starlink 2686),Starlink v1.0 L27-38 (Starlink 2681),Starlink v1.0 L27-39 (Starlink 2687),Starlink v1.0 L27-40 (Starlink 2659),Starlink v1.0 L27-41 (Starlink 2685),Starlink v1.0 L27-42 (Starlink 2661),Starlink v1.0 L27-43 (Starlink 2675),Starlink v1.0 L27-44 (Starlink 2684),Starlink v1.0 L27-45 (Starlink 2722),Starlink v1.0 L27-46 (Starlink 2658),Starlink v1.0 L27-47 (Starlink 2697),Starlink v1.0 L27-48 (Starlink 2619),Starlink v1.0 L27-49 (Starlink 2723),Starlink v1.0 L27-50 (Starlink 2638),Starlink v1.0 L27-51 (Starlink 2728),Starlink v1.0 L27-52 (Starlink 2755),Starlink v1.0 L27-53 (Starlink 2690),Starlink v1.0 L27-54 (Starlink 2706),Starlink v1.0 L27-55 (Starlink 2525),Starlink v1.0 L27-56 (Starlink 2531),Starlink v1.0 L27-57 (Starlink 2696),Starlink v1.0 L27-58 (Starlink 2500),Starlink v1.0 L27-59 (Starlink 2496),Starlink v1.0 L27-60 (Starlink 2494)",
+    "payload": [
+        "Starlink v1.0 L27-1 (Starlink 2461)",
+        "Starlink v1.0 L27-2 (Starlink 2749)",
+        "Starlink v1.0 L27-3 (Starlink 2729)",
+        "Starlink v1.0 L27-4 (Starlink 2700)",
+        "Starlink v1.0 L27-5 (Starlink 2680)",
+        "Starlink v1.0 L27-6 (Starlink 2699)",
+        "Starlink v1.0 L27-7 (Starlink 2692)",
+        "Starlink v1.0 L27-8 (Starlink 2633)",
+        "Starlink v1.0 L27-9 (Starlink 2639)",
+        "Starlink v1.0 L27-10 (Starlink 2642)",
+        "Starlink v1.0 L27-11 (Starlink 2640)",
+        "Starlink v1.0 L27-12 (Starlink 2583)",
+        "Starlink v1.0 L27-13 (Starlink 2682)",
+        "Starlink v1.0 L27-14 (Starlink 2702)",
+        "Starlink v1.0 L27-15 (Starlink 2644)",
+        "Starlink v1.0 L27-16 (Starlink 2663)",
+        "Starlink v1.0 L27-17 (Starlink 2645)",
+        "Starlink v1.0 L27-18 (Starlink 2634)",
+        "Starlink v1.0 L27-19 (Starlink 2247)",
+        "Starlink v1.0 L27-20 (Starlink 2269)",
+        "Starlink v1.0 L27-21 (Starlink 2632)",
+        "Starlink v1.0 L27-22 (Starlink 2655)",
+        "Starlink v1.0 L27-23 (Starlink 2660)",
+        "Starlink v1.0 L27-24 (Starlink 2652)",
+        "Starlink v1.0 L27-25 (Starlink 2703)",
+        "Starlink v1.0 L27-26 (Starlink 2620)",
+        "Starlink v1.0 L27-27 (Starlink 2654)",
+        "Starlink v1.0 L27-28 (Starlink 2497)",
+        "Starlink v1.0 L27-29 (Starlink 2508)",
+        "Starlink v1.0 L27-30 (Starlink 2529)",
+        "Starlink v1.0 L27-31 (Starlink 2698)",
+        "Starlink v1.0 L27-32 (Starlink 2579)",
+        "Starlink v1.0 L27-33 (Starlink 2582)",
+        "Starlink v1.0 L27-34 (Starlink 2693)",
+        "Starlink v1.0 L27-35 (Starlink 2683)",
+        "Starlink v1.0 L27-36 (Starlink 2689)",
+        "Starlink v1.0 L27-37 (Starlink 2686)",
+        "Starlink v1.0 L27-38 (Starlink 2681)",
+        "Starlink v1.0 L27-39 (Starlink 2687)",
+        "Starlink v1.0 L27-40 (Starlink 2659)",
+        "Starlink v1.0 L27-41 (Starlink 2685)",
+        "Starlink v1.0 L27-42 (Starlink 2661)",
+        "Starlink v1.0 L27-43 (Starlink 2675)",
+        "Starlink v1.0 L27-44 (Starlink 2684)",
+        "Starlink v1.0 L27-45 (Starlink 2722)",
+        "Starlink v1.0 L27-46 (Starlink 2658)",
+        "Starlink v1.0 L27-47 (Starlink 2697)",
+        "Starlink v1.0 L27-48 (Starlink 2619)",
+        "Starlink v1.0 L27-49 (Starlink 2723)",
+        "Starlink v1.0 L27-50 (Starlink 2638)",
+        "Starlink v1.0 L27-51 (Starlink 2728)",
+        "Starlink v1.0 L27-52 (Starlink 2755)",
+        "Starlink v1.0 L27-53 (Starlink 2690)",
+        "Starlink v1.0 L27-54 (Starlink 2706)",
+        "Starlink v1.0 L27-55 (Starlink 2525)",
+        "Starlink v1.0 L27-56 (Starlink 2531)",
+        "Starlink v1.0 L27-57 (Starlink 2696)",
+        "Starlink v1.0 L27-58 (Starlink 2500)",
+        "Starlink v1.0 L27-59 (Starlink 2496)",
+        "Starlink v1.0 L27-60 (Starlink 2494)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -329,7 +1391,10 @@
 "2021-F02": {
     "id": "2021-F02",
     "date": "15.05.2021",
-    "payload": "BlackSky 8 (BlackSky Global w1),BlackSky 9 (BlackSky Global w2)",
+    "payload": [
+        "BlackSky 8 (BlackSky Global w1)",
+        "BlackSky 9 (BlackSky Global w2)"
+    ],
     "lauchVehicle": "Electron KS (R)",
     "site": "OnS LC-1A",
     "remark": "Failed"
@@ -337,7 +1402,62 @@
 "2021-041": {
     "id": "2021-041",
     "date": "15.05.2021",
-    "payload": "Starlink v1.0 L26-1 (Starlink 2063),Starlink v1.0 L26-2 (Starlink 2139),Starlink v1.0 L26-3 (Starlink 2145),Starlink v1.0 L26-4 (Starlink 2151),Starlink v1.0 L26-5 (Starlink 2155),Starlink v1.0 L26-6 (Starlink 2166),Starlink v1.0 L26-7 (Starlink 2167),Starlink v1.0 L26-8 (Starlink 2173),Starlink v1.0 L26-9 (Starlink 2186),Starlink v1.0 L26-10 (Starlink 2187),Starlink v1.0 L26-11 (Starlink 2188),Starlink v1.0 L26-12 (Starlink 2190),Starlink v1.0 L26-13 (Starlink 2191),Starlink v1.0 L26-14 (Starlink 2214),Starlink v1.0 L26-15 (Starlink 2215),Starlink v1.0 L26-16 (Starlink 2217),Starlink v1.0 L26-17 (Starlink 2219),Starlink v1.0 L26-18 (Starlink 2220),Starlink v1.0 L26-19 (Starlink 2221),Starlink v1.0 L26-20 (Starlink 2222),Starlink v1.0 L26-21 (Starlink 2224),Starlink v1.0 L26-22 (Starlink 2225),Starlink v1.0 L26-23 (Starlink 2227),Starlink v1.0 L26-24 (Starlink 2228),Starlink v1.0 L26-25 (Starlink 2231),Starlink v1.0 L26-26 (Starlink 2232),Starlink v1.0 L26-27 (Starlink 2233),Starlink v1.0 L26-28 (Starlink 2334),Starlink v1.0 L26-29 (Starlink 2335),Starlink v1.0 L26-30 (Starlink 2336),Starlink v1.0 L26-31 (Starlink 2337),Starlink v1.0 L26-32 (Starlink 2338),Starlink v1.0 L26-33 (Starlink 2240),Starlink v1.0 L26-34 (Starlink 2241),Starlink v1.0 L26-35 (Starlink 2242),Starlink v1.0 L26-36 (Starlink 2244),Starlink v1.0 L26-37 (Starlink 2245),Starlink v1.0 L26-38 (Starlink 2246),Starlink v1.0 L26-39 (Starlink 2248),Starlink v1.0 L26-40 (Starlink 2249),Starlink v1.0 L26-41 (Starlink 2250),Starlink v1.0 L26-42 (Starlink 2251),Starlink v1.0 L26-43 (Starlink 2252),Starlink v1.0 L26-44 (Starlink 2253),Starlink v1.0 L26-45 (Starlink 2255),Starlink v1.0 L26-46 (Starlink 2256),Starlink v1.0 L26-47 (Starlink 2274),Starlink v1.0 L26-48 (Starlink 2275),Starlink v1.0 L26-49 (Starlink 2276),Starlink v1.0 L26-50 (Starlink 2713),Starlink v1.0 L26-51 (Starlink 2714),Starlink v1.0 L26-52 (Starlink 2757),Capella 6 (Capella Whitney 4),Tyvak 0130",
+    "payload": [
+        "Starlink v1.0 L26-1 (Starlink 2063)",
+        "Starlink v1.0 L26-2 (Starlink 2139)",
+        "Starlink v1.0 L26-3 (Starlink 2145)",
+        "Starlink v1.0 L26-4 (Starlink 2151)",
+        "Starlink v1.0 L26-5 (Starlink 2155)",
+        "Starlink v1.0 L26-6 (Starlink 2166)",
+        "Starlink v1.0 L26-7 (Starlink 2167)",
+        "Starlink v1.0 L26-8 (Starlink 2173)",
+        "Starlink v1.0 L26-9 (Starlink 2186)",
+        "Starlink v1.0 L26-10 (Starlink 2187)",
+        "Starlink v1.0 L26-11 (Starlink 2188)",
+        "Starlink v1.0 L26-12 (Starlink 2190)",
+        "Starlink v1.0 L26-13 (Starlink 2191)",
+        "Starlink v1.0 L26-14 (Starlink 2214)",
+        "Starlink v1.0 L26-15 (Starlink 2215)",
+        "Starlink v1.0 L26-16 (Starlink 2217)",
+        "Starlink v1.0 L26-17 (Starlink 2219)",
+        "Starlink v1.0 L26-18 (Starlink 2220)",
+        "Starlink v1.0 L26-19 (Starlink 2221)",
+        "Starlink v1.0 L26-20 (Starlink 2222)",
+        "Starlink v1.0 L26-21 (Starlink 2224)",
+        "Starlink v1.0 L26-22 (Starlink 2225)",
+        "Starlink v1.0 L26-23 (Starlink 2227)",
+        "Starlink v1.0 L26-24 (Starlink 2228)",
+        "Starlink v1.0 L26-25 (Starlink 2231)",
+        "Starlink v1.0 L26-26 (Starlink 2232)",
+        "Starlink v1.0 L26-27 (Starlink 2233)",
+        "Starlink v1.0 L26-28 (Starlink 2334)",
+        "Starlink v1.0 L26-29 (Starlink 2335)",
+        "Starlink v1.0 L26-30 (Starlink 2336)",
+        "Starlink v1.0 L26-31 (Starlink 2337)",
+        "Starlink v1.0 L26-32 (Starlink 2338)",
+        "Starlink v1.0 L26-33 (Starlink 2240)",
+        "Starlink v1.0 L26-34 (Starlink 2241)",
+        "Starlink v1.0 L26-35 (Starlink 2242)",
+        "Starlink v1.0 L26-36 (Starlink 2244)",
+        "Starlink v1.0 L26-37 (Starlink 2245)",
+        "Starlink v1.0 L26-38 (Starlink 2246)",
+        "Starlink v1.0 L26-39 (Starlink 2248)",
+        "Starlink v1.0 L26-40 (Starlink 2249)",
+        "Starlink v1.0 L26-41 (Starlink 2250)",
+        "Starlink v1.0 L26-42 (Starlink 2251)",
+        "Starlink v1.0 L26-43 (Starlink 2252)",
+        "Starlink v1.0 L26-44 (Starlink 2253)",
+        "Starlink v1.0 L26-45 (Starlink 2255)",
+        "Starlink v1.0 L26-46 (Starlink 2256)",
+        "Starlink v1.0 L26-47 (Starlink 2274)",
+        "Starlink v1.0 L26-48 (Starlink 2275)",
+        "Starlink v1.0 L26-49 (Starlink 2276)",
+        "Starlink v1.0 L26-50 (Starlink 2713)",
+        "Starlink v1.0 L26-51 (Starlink 2714)",
+        "Starlink v1.0 L26-52 (Starlink 2757)",
+        "Capella 6 (Capella Whitney 4)",
+        "Tyvak 0130"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -345,7 +1465,11 @@
 "2021-042": {
     "id": "2021-042",
     "date": "18.05.2021",
-    "payload": "SBIRS-GEO 5,TDO 3 (EZ 3),TDO 4 (EZ 4)",
+    "payload": [
+        "SBIRS-GEO 5",
+        "TDO 3 (EZ 3)",
+        "TDO 4 (EZ 4)"
+    ],
     "lauchVehicle": "Atlas-5(421)¹",
     "site": "CC SLC-41",
     "remark": "success"
@@ -353,7 +1477,9 @@
 "2021-043": {
     "id": "2021-043",
     "date": "19.05.2021",
-    "payload": "HY 2D",
+    "payload": [
+        "HY 2D"
+    ],
     "lauchVehicle": "CZ-4B",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -361,7 +1487,68 @@
 "2021-044": {
     "id": "2021-044",
     "date": "26.05.2021",
-    "payload": "Starlink v1.0 L28-1 (Starlink 2758),Starlink v1.0 L28-2 (Starlink 2739),Starlink v1.0 L28-3 (Starlink 2736),Starlink v1.0 L28-4 (Starlink 2754),Starlink v1.0 L28-5 (Starlink 2646),Starlink v1.0 L28-6 (Starlink 2704),Starlink v1.0 L28-7 (Starlink 2695),Starlink v1.0 L28-8 (Starlink 2733),Starlink v1.0 L28-9 (Starlink 2732),Starlink v1.0 L28-10 (Starlink 2691),Starlink v1.0 L28-11 (Starlink 2521),Starlink v1.0 L28-12 (Starlink 2673),Starlink v1.0 L28-13 (Starlink 2672),Starlink v1.0 L28-14 (Starlink 2731),Starlink v1.0 L28-15 (Starlink 2727),Starlink v1.0 L28-16 (Starlink 2720),Starlink v1.0 L28-17 (Starlink 2651),Starlink v1.0 L28-18 (Starlink 2657),Starlink v1.0 L28-19 (Starlink 2701),Starlink v1.0 L28-20 (Starlink 2734),Starlink v1.0 L28-21 (Starlink 2647),Starlink v1.0 L28-22 (Starlink 2717),Starlink v1.0 L28-23 (Starlink 2688),Starlink v1.0 L28-24 (Starlink 2708),Starlink v1.0 L28-25 (Starlink 2726),Starlink v1.0 L28-26 (Starlink 2667),Starlink v1.0 L28-27 (Starlink 2709),Starlink v1.0 L28-28 (Starlink 2653),Starlink v1.0 L28-29 (Starlink 2666),Starlink v1.0 L28-30 (Starlink 2735),Starlink v1.0 L28-31 (Starlink 2738),Starlink v1.0 L28-32 (Starlink 2707),Starlink v1.0 L28-33 (Starlink 2763),Starlink v1.0 L28-34 (Starlink 2745),Starlink v1.0 L28-35 (Starlink 2705),Starlink v1.0 L28-36 (Starlink 2711),Starlink v1.0 L28-37 (Starlink 2712),Starlink v1.0 L28-38 (Starlink 2737),Starlink v1.0 L28-39 (Starlink 2746),Starlink v1.0 L28-40 (Starlink 2719),Starlink v1.0 L28-41 (Starlink 2615),Starlink v1.0 L28-42 (Starlink 2648),Starlink v1.0 L28-43 (Starlink 2649),Starlink v1.0 L28-44 (Starlink 2725),Starlink v1.0 L28-45 (Starlink 2743),Starlink v1.0 L28-46 (Starlink 2756),Starlink v1.0 L28-47 (Starlink 2741),Starlink v1.0 L28-48 (Starlink 2751),Starlink v1.0 L28-49 (Starlink 2629),Starlink v1.0 L28-50 (Starlink 2627),Starlink v1.0 L28-51 (Starlink 2742),Starlink v1.0 L28-52 (Starlink 2617),Starlink v1.0 L28-53 (Starlink 2740),Starlink v1.0 L28-54 (Starlink 2750),Starlink v1.0 L28-55 (Starlink 2752),Starlink v1.0 L28-56 (Starlink 2618),Starlink v1.0 L28-57 (Starlink 2748),Starlink v1.0 L28-58 (Starlink 2616),Starlink v1.0 L28-59 (Starlink 2753),Starlink v1.0 L28-60 (Starlink 2715)",
+    "payload": [
+        "Starlink v1.0 L28-1 (Starlink 2758)",
+        "Starlink v1.0 L28-2 (Starlink 2739)",
+        "Starlink v1.0 L28-3 (Starlink 2736)",
+        "Starlink v1.0 L28-4 (Starlink 2754)",
+        "Starlink v1.0 L28-5 (Starlink 2646)",
+        "Starlink v1.0 L28-6 (Starlink 2704)",
+        "Starlink v1.0 L28-7 (Starlink 2695)",
+        "Starlink v1.0 L28-8 (Starlink 2733)",
+        "Starlink v1.0 L28-9 (Starlink 2732)",
+        "Starlink v1.0 L28-10 (Starlink 2691)",
+        "Starlink v1.0 L28-11 (Starlink 2521)",
+        "Starlink v1.0 L28-12 (Starlink 2673)",
+        "Starlink v1.0 L28-13 (Starlink 2672)",
+        "Starlink v1.0 L28-14 (Starlink 2731)",
+        "Starlink v1.0 L28-15 (Starlink 2727)",
+        "Starlink v1.0 L28-16 (Starlink 2720)",
+        "Starlink v1.0 L28-17 (Starlink 2651)",
+        "Starlink v1.0 L28-18 (Starlink 2657)",
+        "Starlink v1.0 L28-19 (Starlink 2701)",
+        "Starlink v1.0 L28-20 (Starlink 2734)",
+        "Starlink v1.0 L28-21 (Starlink 2647)",
+        "Starlink v1.0 L28-22 (Starlink 2717)",
+        "Starlink v1.0 L28-23 (Starlink 2688)",
+        "Starlink v1.0 L28-24 (Starlink 2708)",
+        "Starlink v1.0 L28-25 (Starlink 2726)",
+        "Starlink v1.0 L28-26 (Starlink 2667)",
+        "Starlink v1.0 L28-27 (Starlink 2709)",
+        "Starlink v1.0 L28-28 (Starlink 2653)",
+        "Starlink v1.0 L28-29 (Starlink 2666)",
+        "Starlink v1.0 L28-30 (Starlink 2735)",
+        "Starlink v1.0 L28-31 (Starlink 2738)",
+        "Starlink v1.0 L28-32 (Starlink 2707)",
+        "Starlink v1.0 L28-33 (Starlink 2763)",
+        "Starlink v1.0 L28-34 (Starlink 2745)",
+        "Starlink v1.0 L28-35 (Starlink 2705)",
+        "Starlink v1.0 L28-36 (Starlink 2711)",
+        "Starlink v1.0 L28-37 (Starlink 2712)",
+        "Starlink v1.0 L28-38 (Starlink 2737)",
+        "Starlink v1.0 L28-39 (Starlink 2746)",
+        "Starlink v1.0 L28-40 (Starlink 2719)",
+        "Starlink v1.0 L28-41 (Starlink 2615)",
+        "Starlink v1.0 L28-42 (Starlink 2648)",
+        "Starlink v1.0 L28-43 (Starlink 2649)",
+        "Starlink v1.0 L28-44 (Starlink 2725)",
+        "Starlink v1.0 L28-45 (Starlink 2743)",
+        "Starlink v1.0 L28-46 (Starlink 2756)",
+        "Starlink v1.0 L28-47 (Starlink 2741)",
+        "Starlink v1.0 L28-48 (Starlink 2751)",
+        "Starlink v1.0 L28-49 (Starlink 2629)",
+        "Starlink v1.0 L28-50 (Starlink 2627)",
+        "Starlink v1.0 L28-51 (Starlink 2742)",
+        "Starlink v1.0 L28-52 (Starlink 2617)",
+        "Starlink v1.0 L28-53 (Starlink 2740)",
+        "Starlink v1.0 L28-54 (Starlink 2750)",
+        "Starlink v1.0 L28-55 (Starlink 2752)",
+        "Starlink v1.0 L28-56 (Starlink 2618)",
+        "Starlink v1.0 L28-57 (Starlink 2748)",
+        "Starlink v1.0 L28-58 (Starlink 2616)",
+        "Starlink v1.0 L28-59 (Starlink 2753)",
+        "Starlink v1.0 L28-60 (Starlink 2715)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -369,7 +1556,44 @@
 "2021-045": {
     "id": "2021-045",
     "date": "28.05.2021",
-    "payload": "OneWeb L7-1 (OneWeb 0211),OneWeb L7-2 (OneWeb 0223),OneWeb L7-3 (OneWeb 0230),OneWeb L7-4 (OneWeb 0237),OneWeb L7-5 (OneWeb 0235),OneWeb L7-6 (OneWeb 0242),OneWeb L7-7 (OneWeb 0241),OneWeb L7-8 (OneWeb 0243),OneWeb L7-9 (OneWeb 0222),OneWeb L7-10 (OneWeb 0244),OneWeb L7-11 (OneWeb 0247),OneWeb L7-12 (OneWeb 0245),OneWeb L7-13 (OneWeb 0229),OneWeb L7-14 (OneWeb 0228),OneWeb L7-15 (OneWeb 0232),OneWeb L7-16 (OneWeb 0231),OneWeb L7-17 (OneWeb 0234),OneWeb L7-18 (OneWeb 0238),OneWeb L7-19 (OneWeb 0240),OneWeb L7-20 (OneWeb 0246),OneWeb L7-21 (OneWeb 0210),OneWeb L7-22 (OneWeb 0214),OneWeb L7-23 (OneWeb 0221),OneWeb L7-24 (OneWeb 0213),OneWeb L7-25 (OneWeb 0212),OneWeb L7-26 (OneWeb 0227),OneWeb L7-27 (OneWeb 0226),OneWeb L7-28 (OneWeb 0224),OneWeb L7-29 (OneWeb 0233),OneWeb L7-30 (OneWeb 0190),OneWeb L7-31 (OneWeb 0236),OneWeb L7-32 (OneWeb 0248),OneWeb L7-33 (OneWeb 0225),OneWeb L7-34 (OneWeb 0215),OneWeb L7-35 (OneWeb 0216),OneWeb L7-36 (OneWeb 0239)",
+    "payload": [
+        "OneWeb L7-1 (OneWeb 0211)",
+        "OneWeb L7-2 (OneWeb 0223)",
+        "OneWeb L7-3 (OneWeb 0230)",
+        "OneWeb L7-4 (OneWeb 0237)",
+        "OneWeb L7-5 (OneWeb 0235)",
+        "OneWeb L7-6 (OneWeb 0242)",
+        "OneWeb L7-7 (OneWeb 0241)",
+        "OneWeb L7-8 (OneWeb 0243)",
+        "OneWeb L7-9 (OneWeb 0222)",
+        "OneWeb L7-10 (OneWeb 0244)",
+        "OneWeb L7-11 (OneWeb 0247)",
+        "OneWeb L7-12 (OneWeb 0245)",
+        "OneWeb L7-13 (OneWeb 0229)",
+        "OneWeb L7-14 (OneWeb 0228)",
+        "OneWeb L7-15 (OneWeb 0232)",
+        "OneWeb L7-16 (OneWeb 0231)",
+        "OneWeb L7-17 (OneWeb 0234)",
+        "OneWeb L7-18 (OneWeb 0238)",
+        "OneWeb L7-19 (OneWeb 0240)",
+        "OneWeb L7-20 (OneWeb 0246)",
+        "OneWeb L7-21 (OneWeb 0210)",
+        "OneWeb L7-22 (OneWeb 0214)",
+        "OneWeb L7-23 (OneWeb 0221)",
+        "OneWeb L7-24 (OneWeb 0213)",
+        "OneWeb L7-25 (OneWeb 0212)",
+        "OneWeb L7-26 (OneWeb 0227)",
+        "OneWeb L7-27 (OneWeb 0226)",
+        "OneWeb L7-28 (OneWeb 0224)",
+        "OneWeb L7-29 (OneWeb 0233)",
+        "OneWeb L7-30 (OneWeb 0190)",
+        "OneWeb L7-31 (OneWeb 0236)",
+        "OneWeb L7-32 (OneWeb 0248)",
+        "OneWeb L7-33 (OneWeb 0225)",
+        "OneWeb L7-34 (OneWeb 0215)",
+        "OneWeb L7-35 (OneWeb 0216)",
+        "OneWeb L7-36 (OneWeb 0239)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
     "remark": "success"
@@ -377,7 +1601,9 @@
 "2021-046": {
     "id": "2021-046",
     "date": "29.05.2021",
-    "payload": "Tianzhou 2 (TZ 2)",
+    "payload": [
+        "Tianzhou 2 (TZ 2)"
+    ],
     "lauchVehicle": "CZ-7",
     "site": "We LC-201",
     "remark": "success"
@@ -385,7 +1611,9 @@
 "2021-047": {
     "id": "2021-047",
     "date": "02.06.2021",
-    "payload": "FY 4B",
+    "payload": [
+        "FY 4B"
+    ],
     "lauchVehicle": "CZ-3B/G3",
     "site": "Xi LC-2",
     "remark": "success"
@@ -393,7 +1621,15 @@
 "2021-048": {
     "id": "2021-048",
     "date": "03.06.2021",
-    "payload": "Dragon CRS-22 (SpX 22, Dragon C209-F1),iROSA 2B ⇑,iROSA 4B ⇑,SOAR ↑,RamSat ↑,MIR-Sat 1 ↑,G-Satellite 2 (BD-28) ↑",
+    "payload": [
+        "Dragon CRS-22 (SpX 22, Dragon C209-F1)",
+        "iROSA 2B ⇑",
+        "iROSA 4B ⇑",
+        "SOAR ↑",
+        "RamSat ↑",
+        "MIR-Sat 1 ↑",
+        "G-Satellite 2 (BD-28) ↑"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -401,7 +1637,9 @@
 "2021-049": {
     "id": "2021-049",
     "date": "06.06.2021",
-    "payload": "SXM 8",
+    "payload": [
+        "SXM 8"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -409,7 +1647,12 @@
 "2021-050": {
     "id": "2021-050",
     "date": "11.06.2021",
-    "payload": "Beijing 3,Haisi 2,Yangwang 1,Taikong Shiyan 1",
+    "payload": [
+        "Beijing 3",
+        "Haisi 2",
+        "Yangwang 1",
+        "Taikong Shiyan 1"
+    ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "TY LC-9",
     "remark": "success"
@@ -417,7 +1660,9 @@
 "2021-F03": {
     "id": "2021-F03",
     "date": "12.06.2021",
-    "payload": "?",
+    "payload": [
+        "?"
+    ],
     "lauchVehicle": "Simorgh ?",
     "site": "Sem LP-2",
     "remark": "failed"
@@ -425,7 +1670,9 @@
 "2021-051": {
     "id": "2021-051",
     "date": "13.06.2021",
-    "payload": "Odyssey (TacRL-2)",
+    "payload": [
+        "Odyssey (TacRL-2)"
+    ],
     "lauchVehicle": "Pegasus-XL",
     "site": "Va, L-1011, RW30/12",
     "remark": "success"
@@ -433,7 +1680,11 @@
 "2021-052": {
     "id": "2021-052",
     "date": "15.06.2021",
-    "payload": "USA 316 (NROL 111 PL 1),USA 317 (NROL 111 PL 2),USA 318 (NROL 111 PL 3)",
+    "payload": [
+        "USA 316 (NROL 111 PL 1)",
+        "USA 317 (NROL 111 PL 2)",
+        "USA 318 (NROL 111 PL 3)"
+    ],
     "lauchVehicle": "Minotaur-1",
     "site": "WI LA-0B",
     "remark": "success"
@@ -441,7 +1692,9 @@
 "2021-053": {
     "id": "2021-053",
     "date": "17.06.2021",
-    "payload": "Shenzhou 12 (SZ 12)",
+    "payload": [
+        "Shenzhou 12 (SZ 12)"
+    ],
     "lauchVehicle": "CZ-2F/G",
     "site": "Jq LC-43/91",
     "remark": "success"
@@ -449,7 +1702,9 @@
 "2021-054": {
     "id": "2021-054",
     "date": "17.06.2021",
-    "payload": "GPS-3 5 (Navstar 78, USA 319, Neil Armstrong)",
+    "payload": [
+        "GPS-3 5 (Navstar 78, USA 319, Neil Armstrong)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -457,7 +1712,12 @@
 "2021-055": {
     "id": "2021-055",
     "date": "18.06.2021",
-    "payload": "Yaogan 30-09-01 (CX 5-25),Yaogan 30-09-02 (CX 5-26),Yaogan 30-09-03 (CX 5-27),Tianqi 14 (TQ 14)",
+    "payload": [
+        "Yaogan 30-09-01 (CX 5-25)",
+        "Yaogan 30-09-02 (CX 5-26)",
+        "Yaogan 30-09-03 (CX 5-27)",
+        "Tianqi 14 (TQ 14)"
+    ],
     "lauchVehicle": "CZ-2C (3)",
     "site": "Xi LC-3",
     "remark": "success"
@@ -465,7 +1725,9 @@
 "2021-F04": {
     "id": "2021-F04",
     "date": "23.06.2021",
-    "payload": "?",
+    "payload": [
+        "?"
+    ],
     "lauchVehicle": "Simorgh ?",
     "site": "Sem LP-2",
     "remark": "failed / not confirmed"
@@ -473,7 +1735,9 @@
 "2021-056": {
     "id": "2021-056",
     "date": "25.06.2021",
-    "payload": "Kosmos 2550 (Pion-NKS #1)",
+    "payload": [
+        "Kosmos 2550 (Pion-NKS #1)"
+    ],
     "lauchVehicle": "Soyuz-2-1b",
     "site": "Pl LC-43/4",
     "remark": "success"
@@ -481,7 +1745,9 @@
 "2021-057": {
     "id": "2021-057",
     "date": "29.06.2021",
-    "payload": "Progress-MS 17",
+    "payload": [
+        "Progress-MS 17"
+    ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -489,7 +1755,15 @@
 "2021-058": {
     "id": "2021-058",
     "date": "30.06.2021",
-    "payload": "HALO-Net FFS,Gunsmoke-J 4 (Jacob's Ladder 4),CNCE 1,CNCE 3,Brik-2,STORK 4,STORK 5 (MARTA)",
+    "payload": [
+        "HALO-Net FFS",
+        "Gunsmoke-J 4 (Jacob's Ladder 4)",
+        "CNCE 1",
+        "CNCE 3",
+        "Brik-2",
+        "STORK 4",
+        "STORK 5 (MARTA)"
+    ],
     "lauchVehicle": "LauncherOne",
     "site": "Mo, B-747-400, RW12/30",
     "remark": "success"
@@ -497,7 +1771,96 @@
 "2021-059": {
     "id": "2021-059",
     "date": "30.06.2021",
-    "payload": "Starlink v1.0 R2-1 (Starlink 3003),Starlink v1.0 R2-2 (Starlink 3004),Starlink v1.0 R2-3 (Starlink 3005),Umbra-SAR 2001,YAM 2,YAM 3,ÑuSat 19 (NewSat 19, Aleph-1 19, Rosalind),ÑuSat 20 (NewSat 20, Aleph-1 20, Grace),ÑuSat 21 (NewSat 21, Aleph-1 21, Elisa),ÑuSat 22 (NewSat 22, Aleph-1 22, Sofya),ICEYE X11,ICEYE X12,ICEYE X13,ICEYE X15,TUBIN (Tubsat 27),Mandrake 2A (Able),Mandrake 2B (Baker),Capella 5 (Whitney 3),GNOMES 2,LINCS 1,LINCS 2,PACE 1,TROPICS Pathfinder,D2/AtlaCom 1,EG 3 (Tyvak 0173),Centauri 4 (Tyvak 0210),Lemur-2 140 (Lemur-2 Jackson),Lemur-2 141 (Lemur-2 AnnaBanana),SpaceBEE 100,SpaceBEE 101,SpaceBEE 102,SpaceBEE 103,SpaceBEE 104,SpaceBEE 105,SpaceBEE 106,SpaceBEE 107,SpaceBEE 108,SpaceBEE 109,SpaceBEE 110,SpaceBEE 111,SpaceBEE NZ-7,SpaceBEE NZ-8,SpaceBEE NZ-9,SpaceBEE NZ-10,Sherpa-FX 2,Lynk 06 (Shannon),Hawk 3A,Hawk 3B,Hawk 3C,Astrocast 0201,Astrocast 0202,Astrocast 0203,Astrocast 0204,Astrocast 0205,Lemur-2 142 (Lemur-2 John-Treires),Lemur-2 143 (Lemur-2 AC-Cubed),Lemur-2 144 (Lemur-2 Merima),Painani 2,SpaceBEE 88,SpaceBEE 89,SpaceBEE 90,SpaceBEE 91,SpaceBEE 92,SpaceBEE 93,SpaceBEE 94,SpaceBEE 95,SpaceBEE 96,SpaceBEE 97,SpaceBEE 98,SpaceBEE 99,Sherpa-LTE 1,Tenzing (Tanker 001, Astro Digital Demo 8),Shasta (Astro Digital Demo 9),ARTHUR 1,Faraday Phoenix,KSF 1A (PVM 1A),KSF 1B (PVM 1B),KSF 1C (PVM 1C),KSF 1D (PVM 1D),Lemur-2 145 (Lemur-2 CarlSantaMari),Tiger 2 (Ayan-21),ION-SCV 003 (ION-SCV 003 Dauntless David, Wild Ride),NAPA 2 (RTAF-SAT 2),Spartan,Neptuno (NEPT 1),W-Cube,Ghalib,QMR-KWT",
+    "payload": [
+        "Starlink v1.0 R2-1 (Starlink 3003)",
+        "Starlink v1.0 R2-2 (Starlink 3004)",
+        "Starlink v1.0 R2-3 (Starlink 3005)",
+        "Umbra-SAR 2001",
+        "YAM 2",
+        "YAM 3",
+        "ÑuSat 19 (NewSat 19, Aleph-1 19, Rosalind)",
+        "ÑuSat 20 (NewSat 20, Aleph-1 20, Grace)",
+        "ÑuSat 21 (NewSat 21, Aleph-1 21, Elisa)",
+        "ÑuSat 22 (NewSat 22, Aleph-1 22, Sofya)",
+        "ICEYE X11",
+        "ICEYE X12",
+        "ICEYE X13",
+        "ICEYE X15",
+        "TUBIN (Tubsat 27)",
+        "Mandrake 2A (Able)",
+        "Mandrake 2B (Baker)",
+        "Capella 5 (Whitney 3)",
+        "GNOMES 2",
+        "LINCS 1",
+        "LINCS 2",
+        "PACE 1",
+        "TROPICS Pathfinder",
+        "D2/AtlaCom 1",
+        "EG 3 (Tyvak 0173)",
+        "Centauri 4 (Tyvak 0210)",
+        "Lemur-2 140 (Lemur-2 Jackson)",
+        "Lemur-2 141 (Lemur-2 AnnaBanana)",
+        "SpaceBEE 100",
+        "SpaceBEE 101",
+        "SpaceBEE 102",
+        "SpaceBEE 103",
+        "SpaceBEE 104",
+        "SpaceBEE 105",
+        "SpaceBEE 106",
+        "SpaceBEE 107",
+        "SpaceBEE 108",
+        "SpaceBEE 109",
+        "SpaceBEE 110",
+        "SpaceBEE 111",
+        "SpaceBEE NZ-7",
+        "SpaceBEE NZ-8",
+        "SpaceBEE NZ-9",
+        "SpaceBEE NZ-10",
+        "Sherpa-FX 2",
+        "Lynk 06 (Shannon)",
+        "Hawk 3A",
+        "Hawk 3B",
+        "Hawk 3C",
+        "Astrocast 0201",
+        "Astrocast 0202",
+        "Astrocast 0203",
+        "Astrocast 0204",
+        "Astrocast 0205",
+        "Lemur-2 142 (Lemur-2 John-Treires)",
+        "Lemur-2 143 (Lemur-2 AC-Cubed)",
+        "Lemur-2 144 (Lemur-2 Merima)",
+        "Painani 2",
+        "SpaceBEE 88",
+        "SpaceBEE 89",
+        "SpaceBEE 90",
+        "SpaceBEE 91",
+        "SpaceBEE 92",
+        "SpaceBEE 93",
+        "SpaceBEE 94",
+        "SpaceBEE 95",
+        "SpaceBEE 96",
+        "SpaceBEE 97",
+        "SpaceBEE 98",
+        "SpaceBEE 99",
+        "Sherpa-LTE 1",
+        "Tenzing (Tanker 001, Astro Digital Demo 8)",
+        "Shasta (Astro Digital Demo 9)",
+        "ARTHUR 1",
+        "Faraday Phoenix",
+        "KSF 1A (PVM 1A)",
+        "KSF 1B (PVM 1B)",
+        "KSF 1C (PVM 1C)",
+        "KSF 1D (PVM 1D)",
+        "Lemur-2 145 (Lemur-2 CarlSantaMari)",
+        "Tiger 2 (Ayan-21)",
+        "ION-SCV 003 (ION-SCV 003 Dauntless David, Wild Ride)",
+        "NAPA 2 (RTAF-SAT 2)",
+        "Spartan",
+        "Neptuno (NEPT 1)",
+        "W-Cube",
+        "Ghalib",
+        "QMR-KWT"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
     "remark": "success"
@@ -505,7 +1868,44 @@
 "2021-060": {
     "id": "2021-060",
     "date": "01.07.2021",
-    "payload": "OneWeb L8-1 (OneWeb 0249),OneWeb L8-2 (OneWeb 0250),OneWeb L8-3 (OneWeb 0251),OneWeb L8-4 (OneWeb 0252),OneWeb L8-5 (OneWeb 0253),OneWeb L8-6 (OneWeb 0254),OneWeb L8-7 (OneWeb 0255),OneWeb L8-8 (OneWeb 0256),OneWeb L8-9 (OneWeb 0257),OneWeb L8-10 (OneWeb 0258),OneWeb L8-11 (OneWeb 0259),OneWeb L8-12 (OneWeb 0260),OneWeb L8-13 (OneWeb 0261),OneWeb L8-14 (OneWeb 0262),OneWeb L8-15 (OneWeb 0263),OneWeb L8-16 (OneWeb 0264),OneWeb L8-17 (OneWeb 0265),OneWeb L8-18 (OneWeb 0266),OneWeb L8-19 (OneWeb 0267),OneWeb L8-20 (OneWeb 0268),OneWeb L8-21 (OneWeb 0269),OneWeb L8-22 (OneWeb 0270),OneWeb L8-23 (OneWeb 0271),OneWeb L8-24 (OneWeb 0272),OneWeb L8-25 (OneWeb 0273),OneWeb L8-26 (OneWeb 0274),OneWeb L8-27 (OneWeb 0275),OneWeb L8-28 (OneWeb 0276),OneWeb L8-29 (OneWeb 0277),OneWeb L8-30 (OneWeb 0278),OneWeb L8-31 (OneWeb 0279),OneWeb L8-32 (OneWeb 0280),OneWeb L8-33 (OneWeb 0281),OneWeb L8-34 (OneWeb 0282),OneWeb L8-35 (OneWeb 0283),OneWeb L8-36 (OneWeb 0284)",
+    "payload": [
+        "OneWeb L8-1 (OneWeb 0249)",
+        "OneWeb L8-2 (OneWeb 0250)",
+        "OneWeb L8-3 (OneWeb 0251)",
+        "OneWeb L8-4 (OneWeb 0252)",
+        "OneWeb L8-5 (OneWeb 0253)",
+        "OneWeb L8-6 (OneWeb 0254)",
+        "OneWeb L8-7 (OneWeb 0255)",
+        "OneWeb L8-8 (OneWeb 0256)",
+        "OneWeb L8-9 (OneWeb 0257)",
+        "OneWeb L8-10 (OneWeb 0258)",
+        "OneWeb L8-11 (OneWeb 0259)",
+        "OneWeb L8-12 (OneWeb 0260)",
+        "OneWeb L8-13 (OneWeb 0261)",
+        "OneWeb L8-14 (OneWeb 0262)",
+        "OneWeb L8-15 (OneWeb 0263)",
+        "OneWeb L8-16 (OneWeb 0264)",
+        "OneWeb L8-17 (OneWeb 0265)",
+        "OneWeb L8-18 (OneWeb 0266)",
+        "OneWeb L8-19 (OneWeb 0267)",
+        "OneWeb L8-20 (OneWeb 0268)",
+        "OneWeb L8-21 (OneWeb 0269)",
+        "OneWeb L8-22 (OneWeb 0270)",
+        "OneWeb L8-23 (OneWeb 0271)",
+        "OneWeb L8-24 (OneWeb 0272)",
+        "OneWeb L8-25 (OneWeb 0273)",
+        "OneWeb L8-26 (OneWeb 0274)",
+        "OneWeb L8-27 (OneWeb 0275)",
+        "OneWeb L8-28 (OneWeb 0276)",
+        "OneWeb L8-29 (OneWeb 0277)",
+        "OneWeb L8-30 (OneWeb 0278)",
+        "OneWeb L8-31 (OneWeb 0279)",
+        "OneWeb L8-32 (OneWeb 0280)",
+        "OneWeb L8-33 (OneWeb 0281)",
+        "OneWeb L8-34 (OneWeb 0282)",
+        "OneWeb L8-35 (OneWeb 0283)",
+        "OneWeb L8-36 (OneWeb 0284)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
     "remark": "success"
@@ -513,7 +1913,13 @@
 "2021-061": {
     "id": "2021-061",
     "date": "03.07.2021",
-    "payload": "Jilin-1 Kuanfu-01B (Jilin-1 Wideband-01B, Neimenggu 1),Jilin-1 Gaofen-03D-01 (Jilin-1 High Resolution-03D-01),Jilin-1 Gaofen-03D-02 (Jilin-1 High Resolution-03D-02),Jilin-1 Gaofen-03D-03 (Jilin-1 High Resolution-03D-03),Xingshidai 10",
+    "payload": [
+        "Jilin-1 Kuanfu-01B (Jilin-1 Wideband-01B, Neimenggu 1)",
+        "Jilin-1 Gaofen-03D-01 (Jilin-1 High Resolution-03D-01)",
+        "Jilin-1 Gaofen-03D-02 (Jilin-1 High Resolution-03D-02)",
+        "Jilin-1 Gaofen-03D-03 (Jilin-1 High Resolution-03D-03)",
+        "Xingshidai 10"
+    ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "TY LC-9",
     "remark": "success"
@@ -521,7 +1927,9 @@
 "2021-062": {
     "id": "2021-062",
     "date": "04.07.2021",
-    "payload": "FY 3E",
+    "payload": [
+        "FY 3E"
+    ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -529,7 +1937,9 @@
 "2021-063": {
     "id": "2021-063",
     "date": "06.07.2021",
-    "payload": "TL 1E",
+    "payload": [
+        "TL 1E"
+    ],
     "lauchVehicle": "CZ-3C/G2",
     "site": "Xi LC-2",
     "remark": "success"
@@ -537,7 +1947,13 @@
 "2021-064": {
     "id": "2021-064",
     "date": "09.07.2021",
-    "payload": "Zhongzi 2-01 (Zhuzhou-1 01),Zhongzi 2-02 (Zhuzhou-1 02),Zhongzi 2-03 (Zhuzhou-1 03),Zhongzi 2-04 (Zhuzhou-1 04),Zhongzi 2-05 (Zhuzhou-1 05)",
+    "payload": [
+        "Zhongzi 2-01 (Zhuzhou-1 01)",
+        "Zhongzi 2-02 (Zhuzhou-1 02)",
+        "Zhongzi 2-03 (Zhuzhou-1 03)",
+        "Zhongzi 2-04 (Zhuzhou-1 04)",
+        "Zhongzi 2-05 (Zhuzhou-1 05)"
+    ],
     "lauchVehicle": "CZ-6",
     "site": "TY LC-16",
     "remark": "success"
@@ -545,7 +1961,12 @@
 "2021-065": {
     "id": "2021-065",
     "date": "19.07.2021",
-    "payload": "Yaogan 30-10-01 (CX 5-28),Yaogan 30-10-02 (CX 5-29),Yaogan 30-10-03 (CX 5-30),Tianqi 15 (TQ 15, Ruijin)",
+    "payload": [
+        "Yaogan 30-10-01 (CX 5-28)",
+        "Yaogan 30-10-02 (CX 5-29)",
+        "Yaogan 30-10-03 (CX 5-30)",
+        "Tianqi 15 (TQ 15, Ruijin)"
+    ],
     "lauchVehicle": "CZ-2C (3)",
     "site": "Xi LC-3",
     "remark": "success"
@@ -553,7 +1974,9 @@
 "2021-066": {
     "id": "2021-066",
     "date": "21.07.2021",
-    "payload": "MLM-U (Nauka)",
+    "payload": [
+        "MLM-U (Nauka)"
+    ],
     "lauchVehicle": "Proton-M",
     "site": "Ba LC-200/39",
     "remark": "success"
@@ -561,7 +1984,9 @@
 "2021-067": {
     "id": "2021-067",
     "date": "29.07.2021",
-    "payload": "Tianhui 1-04 (TH 1-04)",
+    "payload": [
+        "Tianhui 1-04 (TH 1-04)"
+    ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -569,7 +1994,9 @@
 "2021-068": {
     "id": "2021-068",
     "date": "29.07.2021",
-    "payload": "Monolith (STP-27RM)",
+    "payload": [
+        "Monolith (STP-27RM)"
+    ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1A",
     "remark": "success"
@@ -577,7 +2004,10 @@
 "2021-069": {
     "id": "2021-069",
     "date": "30.07.2021",
-    "payload": "Star One D2,Eutelsat Quantum",
+    "payload": [
+        "Star One D2",
+        "Eutelsat Quantum"
+    ],
     "lauchVehicle": "Ariane-5ECA+",
     "site": "Ko ELA-3",
     "remark": "success"
@@ -585,7 +2015,9 @@
 "2021-F05": {
     "id": "2021-F05",
     "date": "03.08.2021",
-    "payload": "Jilin-1 Mofang-01A",
+    "payload": [
+        "Jilin-1 Mofang-01A"
+    ],
     "lauchVehicle": "Hyperbola-1(2) (Shian Quxian-1(2))",
     "site": "Jq LC-43/95A",
     "remark": "Failed"
@@ -593,7 +2025,10 @@
 "2021-070": {
     "id": "2021-070",
     "date": "05.08.2021",
-    "payload": "KL-Beta A,KL-Beta B",
+    "payload": [
+        "KL-Beta A",
+        "KL-Beta B"
+    ],
     "lauchVehicle": "CZ-6",
     "site": "TY LC-16",
     "remark": "success"
@@ -601,7 +2036,9 @@
 "2021-071": {
     "id": "2021-071",
     "date": "05.08.2021",
-    "payload": "ST 2E (ZX 2E, ChinaSat 2E) ?",
+    "payload": [
+        "ST 2E (ZX 2E, ChinaSat 2E) ?"
+    ],
     "lauchVehicle": "CZ-3B/G3",
     "site": "Xi LC-2",
     "remark": "success"
@@ -609,7 +2046,10 @@
 "2021-072": {
     "id": "2021-072",
     "date": "10.08.2021",
-    "payload": "Cygnus CRS-16 (NG 16, SS Ellison Onizuka),PIRPL ↑",
+    "payload": [
+        "Cygnus CRS-16 (NG 16, SS Ellison Onizuka)",
+        "PIRPL ↑"
+    ],
     "lauchVehicle": "Antares-230+",
     "site": "WI LA-0A",
     "remark": "success"
@@ -617,7 +2057,9 @@
 "2021-F06": {
     "id": "2021-F06",
     "date": "11.08.2021",
-    "payload": "GISAT 1 (EOS 03)",
+    "payload": [
+        "GISAT 1 (EOS 03)"
+    ],
     "lauchVehicle": "GSLV Mk.2(4)",
     "site": "Sr SLP",
     "remark": "Version 1st flight / failure"
@@ -625,7 +2067,13 @@
 "2021-073": {
     "id": "2021-073",
     "date": "17.08.2021",
-    "payload": "Pléiades-Neo 4 (VHR-2020 2),BRO 4,RADCUBE,Sunstorm (XFM Cube, XFM CubeSat),LEDSAT",
+    "payload": [
+        "Pléiades-Neo 4 (VHR-2020 2)",
+        "BRO 4",
+        "RADCUBE",
+        "Sunstorm (XFM Cube, XFM CubeSat)",
+        "LEDSAT"
+    ],
     "lauchVehicle": "Vega",
     "site": "Ko ELV",
     "remark": "success"
@@ -633,7 +2081,10 @@
 "2021-074": {
     "id": "2021-074",
     "date": "18.08.2021",
-    "payload": "Tianhui 2-02A (TH 2-02A),Tianhui 2-02B (TH 2-02B)",
+    "payload": [
+        "Tianhui 2-02A (TH 2-02A)",
+        "Tianhui 2-02B (TH 2-02B)"
+    ],
     "lauchVehicle": "CZ-4B",
     "site": "TY LC-9",
     "remark": "success"
@@ -641,7 +2092,42 @@
 "2021-075": {
     "id": "2021-075",
     "date": "21.08.2021",
-    "payload": "OneWeb L9-1 (OneWeb 0285),OneWeb L9-2 (OneWeb 0286),OneWeb L9-3 (OneWeb 0287),OneWeb L9-4 (OneWeb 0288),OneWeb L9-5 (OneWeb 0289),OneWeb L9-6 (OneWeb 0290),OneWeb L9-7 (OneWeb 0291),OneWeb L9-8 (OneWeb 0293),OneWeb L9-9 (OneWeb 0294),OneWeb L9-10 (OneWeb 0295),OneWeb L9-11 (OneWeb 0296),OneWeb L9-12 (OneWeb 0297),OneWeb L9-13 (OneWeb 0298),OneWeb L9-14 (OneWeb 0299),OneWeb L9-15 (OneWeb 0300),OneWeb L9-16 (OneWeb 0301),OneWeb L9-17 (OneWeb 0302),OneWeb L9-18 (OneWeb 0304),OneWeb L9-19 (OneWeb 0305),OneWeb L9-20 (OneWeb 0308),OneWeb L9-21 (OneWeb 0309),OneWeb L9-22 (OneWeb 0310),OneWeb L9-23 (OneWeb 0311),OneWeb L9-24 (OneWeb 0312),OneWeb L9-25 (OneWeb 0313),OneWeb L9-26 (OneWeb 0314),OneWeb L9-27 (OneWeb 0315),OneWeb L9-28 (OneWeb 0316),OneWeb L9-29 (OneWeb 0317),OneWeb L9-30 (OneWeb 0318),OneWeb L9-31 (OneWeb 0319),OneWeb L9-32 (OneWeb 0323),OneWeb L9-33 (OneWeb 0329),OneWeb L9-34 (OneWeb 0330)",
+    "payload": [
+        "OneWeb L9-1 (OneWeb 0285)",
+        "OneWeb L9-2 (OneWeb 0286)",
+        "OneWeb L9-3 (OneWeb 0287)",
+        "OneWeb L9-4 (OneWeb 0288)",
+        "OneWeb L9-5 (OneWeb 0289)",
+        "OneWeb L9-6 (OneWeb 0290)",
+        "OneWeb L9-7 (OneWeb 0291)",
+        "OneWeb L9-8 (OneWeb 0293)",
+        "OneWeb L9-9 (OneWeb 0294)",
+        "OneWeb L9-10 (OneWeb 0295)",
+        "OneWeb L9-11 (OneWeb 0296)",
+        "OneWeb L9-12 (OneWeb 0297)",
+        "OneWeb L9-13 (OneWeb 0298)",
+        "OneWeb L9-14 (OneWeb 0299)",
+        "OneWeb L9-15 (OneWeb 0300)",
+        "OneWeb L9-16 (OneWeb 0301)",
+        "OneWeb L9-17 (OneWeb 0302)",
+        "OneWeb L9-18 (OneWeb 0304)",
+        "OneWeb L9-19 (OneWeb 0305)",
+        "OneWeb L9-20 (OneWeb 0308)",
+        "OneWeb L9-21 (OneWeb 0309)",
+        "OneWeb L9-22 (OneWeb 0310)",
+        "OneWeb L9-23 (OneWeb 0311)",
+        "OneWeb L9-24 (OneWeb 0312)",
+        "OneWeb L9-25 (OneWeb 0313)",
+        "OneWeb L9-26 (OneWeb 0314)",
+        "OneWeb L9-27 (OneWeb 0315)",
+        "OneWeb L9-28 (OneWeb 0316)",
+        "OneWeb L9-29 (OneWeb 0317)",
+        "OneWeb L9-30 (OneWeb 0318)",
+        "OneWeb L9-31 (OneWeb 0319)",
+        "OneWeb L9-32 (OneWeb 0323)",
+        "OneWeb L9-33 (OneWeb 0329)",
+        "OneWeb L9-34 (OneWeb 0330)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -649,7 +2135,11 @@
 "2021-076": {
     "id": "2021-076",
     "date": "24.08.2021",
-    "payload": "RSW 01,RSW 02,?",
+    "payload": [
+        "RSW 01",
+        "RSW 02",
+        "?"
+    ],
     "lauchVehicle": "CZ-2C (3) YZ-1S",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -657,7 +2147,9 @@
 "2021-077": {
     "id": "2021-077",
     "date": "24.08.2021",
-    "payload": "TJS 7",
+    "payload": [
+        "TJS 7"
+    ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-3",
     "remark": "success"
@@ -665,15 +2157,27 @@
 "2021-F07": {
     "id": "2021-F07",
     "date": "28.08.2021",
-    "payload": "STP-27AD1",
+    "payload": [
+        "STP-27AD1"
+    ],
     "lauchVehicle": "Astra Rocket-3.3",
     "site": "Kd LP-3B",
-    "remark": "success"
+    "remark": "Failed"
 },
 "2021-078": {
     "id": "2021-078",
     "date": "29.08.2021",
-    "payload": "Dragon CRS-23 (SpX 23, Dragon C208-F2),CAPSat ↑,PR_CuNaR 2 ↑,SPACE-HAUC ↑,IOD-AMBER (IOD 3) ↑,CUAVA 1 ↑,Binar 1 ↑,Maya 3 ↑,Maya 4 ↑",
+    "payload": [
+        "Dragon CRS-23 (SpX 23, Dragon C208-F2)",
+        "CAPSat ↑",
+        "PR_CuNaR 2 ↑",
+        "SPACE-HAUC ↑",
+        "IOD-AMBER (IOD 3) ↑",
+        "CUAVA 1 ↑",
+        "Binar 1 ↑",
+        "Maya 3 ↑",
+        "Maya 4 ↑"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -681,7 +2185,9 @@
 "2021-U01": {
     "id": "2021-U01",
     "date": "xx.10.2021",
-    "payload": "(Chinese FOBS Test #1) ?",
+    "payload": [
+        "(Chinese FOBS Test #1) ?"
+    ],
     "lauchVehicle": "CZ-2C (3) ?",
     "site": "TY or Jq",
     "remark": "Note: Unclear if this launch is real"
@@ -689,7 +2195,18 @@
 "2021-F08": {
     "id": "2021-F08",
     "date": "02.09.2021",
-    "payload": "Serenity,Hiapo,BSS 1,FossaSat 1b,FossaSat 2,GENESIS-L,GENESIS-N,Qubik 1,Qubik 2,Spinnaker-3/Firefly Capsule 1",
+    "payload": [
+        "Serenity",
+        "Hiapo",
+        "BSS 1",
+        "FossaSat 1b",
+        "FossaSat 2",
+        "GENESIS-L",
+        "GENESIS-N",
+        "Qubik 1",
+        "Qubik 2",
+        "Spinnaker-3/Firefly Capsule 1"
+    ],
     "lauchVehicle": "Firefly-Alpha",
     "site": "Va SLC-2W",
     "remark": "Version 1st flight / failed"
@@ -697,7 +2214,9 @@
 "2021-079": {
     "id": "2021-079",
     "date": "07.09.2021",
-    "payload": "Gaofen 5-02 (GF 5-02)",
+    "payload": [
+        "Gaofen 5-02 (GF 5-02)"
+    ],
     "lauchVehicle": "CZ-4C",
     "site": "TY LC-9",
     "remark": "success"
@@ -705,7 +2224,9 @@
 "2021-080": {
     "id": "2021-080",
     "date": "09.09.2021",
-    "payload": "ZX 9B (ChinaSat 9B)",
+    "payload": [
+        "ZX 9B (ChinaSat 9B)"
+    ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-3",
     "remark": "success"
@@ -713,7 +2234,9 @@
 "2021-081": {
     "id": "2021-081",
     "date": "09.09.2021",
-    "payload": "Kosmos 2551 (Razbeg #1 ?)",
+    "payload": [
+        "Kosmos 2551 (Razbeg #1 ?)"
+    ],
     "lauchVehicle": "Soyuz-2-1v",
     "site": "Pl LC-43/4",
     "remark": "success"
@@ -721,7 +2244,59 @@
 "2021-082": {
     "id": "2021-082",
     "date": "14.09.2021",
-    "payload": "Starlink v1.5 G2-1-1 (Starlink 3096),Starlink v1.5 G2-1-2 (Starlink 3090),Starlink v1.5 G2-1-3 (Starlink 3077),Starlink v1.5 G2-1-4 (Starlink 3078),Starlink v1.5 G2-1-5 (Starlink 3073),Starlink v1.5 G2-1-6 (Starlink 3084),Starlink v1.5 G2-1-7 (Starlink 3055),Starlink v1.5 G2-1-8 (Starlink 3058),Starlink v1.5 G2-1-9 (Starlink 3057),Starlink v1.5 G2-1-10 (Starlink 3118),Starlink v1.5 G2-1-11 (Starlink 3093),Starlink v1.5 G2-1-12 (Starlink 3042),Starlink v1.5 G2-1-13 (Starlink 3109),Starlink v1.5 G2-1-14 (Starlink 3100),Starlink v1.5 G2-1-15 (Starlink 3119),Starlink v1.5 G2-1-16 (Starlink 3116),Starlink v1.5 G2-1-17 (Starlink 3071),Starlink v1.5 G2-1-18 (Starlink 3048),Starlink v1.5 G2-1-19 (Starlink 3053),Starlink v1.5 G2-1-20 (Starlink 3104),Starlink v1.5 G2-1-21 (Starlink 3102),Starlink v1.5 G2-1-22 (Starlink 3081),Starlink v1.5 G2-1-23 (Starlink 3072),Starlink v1.5 G2-1-24 (Starlink 3068),Starlink v1.5 G2-1-25 (Starlink 3060),Starlink v1.5 G2-1-26 (Starlink 3085),Starlink v1.5 G2-1-27 (Starlink 3051),Starlink v1.5 G2-1-28 (Starlink 3083),Starlink v1.5 G2-1-29 (Starlink 3056),Starlink v1.5 G2-1-30 (Starlink 3095),Starlink v1.5 G2-1-31 (Starlink 3080),Starlink v1.5 G2-1-32 (Starlink 3082),Starlink v1.5 G2-1-33 (Starlink 3088),Starlink v1.5 G2-1-34 (Starlink 3106),Starlink v1.5 G2-1-35 (Starlink 3052),Starlink v1.5 G2-1-36 (Starlink 3089),Starlink v1.5 G2-1-37 (Starlink 3054),Starlink v1.5 G2-1-38 (Starlink 3101),Starlink v1.5 G2-1-39 (Starlink 3046),Starlink v1.5 G2-1-40 (Starlink 3074),Starlink v1.5 G2-1-41 (Starlink 3107),Starlink v1.5 G2-1-42 (Starlink 3091),Starlink v1.5 G2-1-43 (Starlink 3045),Starlink v1.5 G2-1-44 (Starlink 3047),Starlink v1.5 G2-1-45 (Starlink 3087),Starlink v1.5 G2-1-46 (Starlink 3069),Starlink v1.5 G2-1-47 (Starlink 3103),Starlink v1.5 G2-1-48 (Starlink 3086),Starlink v1.5 G2-1-49 (Starlink 3043),Starlink v1.5 G2-1-50 (Starlink 3050),Starlink v1.5 G2-1-51 (Starlink 3059)",
+    "payload": [
+        "Starlink v1.5 G2-1-1 (Starlink 3096)",
+        "Starlink v1.5 G2-1-2 (Starlink 3090)",
+        "Starlink v1.5 G2-1-3 (Starlink 3077)",
+        "Starlink v1.5 G2-1-4 (Starlink 3078)",
+        "Starlink v1.5 G2-1-5 (Starlink 3073)",
+        "Starlink v1.5 G2-1-6 (Starlink 3084)",
+        "Starlink v1.5 G2-1-7 (Starlink 3055)",
+        "Starlink v1.5 G2-1-8 (Starlink 3058)",
+        "Starlink v1.5 G2-1-9 (Starlink 3057)",
+        "Starlink v1.5 G2-1-10 (Starlink 3118)",
+        "Starlink v1.5 G2-1-11 (Starlink 3093)",
+        "Starlink v1.5 G2-1-12 (Starlink 3042)",
+        "Starlink v1.5 G2-1-13 (Starlink 3109)",
+        "Starlink v1.5 G2-1-14 (Starlink 3100)",
+        "Starlink v1.5 G2-1-15 (Starlink 3119)",
+        "Starlink v1.5 G2-1-16 (Starlink 3116)",
+        "Starlink v1.5 G2-1-17 (Starlink 3071)",
+        "Starlink v1.5 G2-1-18 (Starlink 3048)",
+        "Starlink v1.5 G2-1-19 (Starlink 3053)",
+        "Starlink v1.5 G2-1-20 (Starlink 3104)",
+        "Starlink v1.5 G2-1-21 (Starlink 3102)",
+        "Starlink v1.5 G2-1-22 (Starlink 3081)",
+        "Starlink v1.5 G2-1-23 (Starlink 3072)",
+        "Starlink v1.5 G2-1-24 (Starlink 3068)",
+        "Starlink v1.5 G2-1-25 (Starlink 3060)",
+        "Starlink v1.5 G2-1-26 (Starlink 3085)",
+        "Starlink v1.5 G2-1-27 (Starlink 3051)",
+        "Starlink v1.5 G2-1-28 (Starlink 3083)",
+        "Starlink v1.5 G2-1-29 (Starlink 3056)",
+        "Starlink v1.5 G2-1-30 (Starlink 3095)",
+        "Starlink v1.5 G2-1-31 (Starlink 3080)",
+        "Starlink v1.5 G2-1-32 (Starlink 3082)",
+        "Starlink v1.5 G2-1-33 (Starlink 3088)",
+        "Starlink v1.5 G2-1-34 (Starlink 3106)",
+        "Starlink v1.5 G2-1-35 (Starlink 3052)",
+        "Starlink v1.5 G2-1-36 (Starlink 3089)",
+        "Starlink v1.5 G2-1-37 (Starlink 3054)",
+        "Starlink v1.5 G2-1-38 (Starlink 3101)",
+        "Starlink v1.5 G2-1-39 (Starlink 3046)",
+        "Starlink v1.5 G2-1-40 (Starlink 3074)",
+        "Starlink v1.5 G2-1-41 (Starlink 3107)",
+        "Starlink v1.5 G2-1-42 (Starlink 3091)",
+        "Starlink v1.5 G2-1-43 (Starlink 3045)",
+        "Starlink v1.5 G2-1-44 (Starlink 3047)",
+        "Starlink v1.5 G2-1-45 (Starlink 3087)",
+        "Starlink v1.5 G2-1-46 (Starlink 3069)",
+        "Starlink v1.5 G2-1-47 (Starlink 3103)",
+        "Starlink v1.5 G2-1-48 (Starlink 3086)",
+        "Starlink v1.5 G2-1-49 (Starlink 3043)",
+        "Starlink v1.5 G2-1-50 (Starlink 3050)",
+        "Starlink v1.5 G2-1-51 (Starlink 3059)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
     "remark": "success"
@@ -729,7 +2304,42 @@
 "2021-083": {
     "id": "2021-083",
     "date": "14.09.2021",
-    "payload": "OneWeb L10-1 (OneWeb 0292),OneWeb L10-2 (OneWeb 0303),OneWeb L10-3 (OneWeb 0306),OneWeb L10-4 (OneWeb 0307),OneWeb L10-5 (OneWeb 0320),OneWeb L10-6 (OneWeb 0321),OneWeb L10-7 (OneWeb 0322),OneWeb L10-8 (OneWeb 0324),OneWeb L10-9 (OneWeb 0325),OneWeb L10-10 (OneWeb 0326),OneWeb L10-11 (OneWeb 0327),OneWeb L10-12 (OneWeb 0328),OneWeb L10-13 (OneWeb 0331),OneWeb L10-14 (OneWeb 0333),OneWeb L10-15 (OneWeb 0334),OneWeb L10-16 (OneWeb 0335),OneWeb L10-17 (OneWeb 0336),OneWeb L10-18 (OneWeb 0337),OneWeb L10-19 (OneWeb 0338),OneWeb L10-20 (OneWeb 0339),OneWeb L10-21 (OneWeb 0340),OneWeb L10-22 (OneWeb 0341),OneWeb L10-23 (OneWeb 0342),OneWeb L10-24 (OneWeb 0343),OneWeb L10-25 (OneWeb 0344),OneWeb L10-26 (OneWeb 0345),OneWeb L10-27 (OneWeb 0346),OneWeb L10-28 (OneWeb 0348),OneWeb L10-29 (OneWeb 0350),OneWeb L10-30 (OneWeb 0351),OneWeb L10-31 (OneWeb 0352),OneWeb L10-32 (OneWeb 0354),OneWeb L10-33 (OneWeb 0355),OneWeb L10-34 (OneWeb 0357)",
+    "payload": [
+        "OneWeb L10-1 (OneWeb 0292)",
+        "OneWeb L10-2 (OneWeb 0303)",
+        "OneWeb L10-3 (OneWeb 0306)",
+        "OneWeb L10-4 (OneWeb 0307)",
+        "OneWeb L10-5 (OneWeb 0320)",
+        "OneWeb L10-6 (OneWeb 0321)",
+        "OneWeb L10-7 (OneWeb 0322)",
+        "OneWeb L10-8 (OneWeb 0324)",
+        "OneWeb L10-9 (OneWeb 0325)",
+        "OneWeb L10-10 (OneWeb 0326)",
+        "OneWeb L10-11 (OneWeb 0327)",
+        "OneWeb L10-12 (OneWeb 0328)",
+        "OneWeb L10-13 (OneWeb 0331)",
+        "OneWeb L10-14 (OneWeb 0333)",
+        "OneWeb L10-15 (OneWeb 0334)",
+        "OneWeb L10-16 (OneWeb 0335)",
+        "OneWeb L10-17 (OneWeb 0336)",
+        "OneWeb L10-18 (OneWeb 0337)",
+        "OneWeb L10-19 (OneWeb 0338)",
+        "OneWeb L10-20 (OneWeb 0339)",
+        "OneWeb L10-21 (OneWeb 0340)",
+        "OneWeb L10-22 (OneWeb 0341)",
+        "OneWeb L10-23 (OneWeb 0342)",
+        "OneWeb L10-24 (OneWeb 0343)",
+        "OneWeb L10-25 (OneWeb 0344)",
+        "OneWeb L10-26 (OneWeb 0345)",
+        "OneWeb L10-27 (OneWeb 0346)",
+        "OneWeb L10-28 (OneWeb 0348)",
+        "OneWeb L10-29 (OneWeb 0350)",
+        "OneWeb L10-30 (OneWeb 0351)",
+        "OneWeb L10-31 (OneWeb 0352)",
+        "OneWeb L10-32 (OneWeb 0354)",
+        "OneWeb L10-33 (OneWeb 0355)",
+        "OneWeb L10-34 (OneWeb 0357)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -737,7 +2347,9 @@
 "2021-084": {
     "id": "2021-084",
     "date": "15.09.2021",
-    "payload": "Crew Dragon Inspiration4 (Dragon C207-F2, Resilience F2)",
+    "payload": [
+        "Crew Dragon Inspiration4 (Dragon C207-F2, Resilience F2)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -745,7 +2357,9 @@
 "2021-085": {
     "id": "2021-085",
     "date": "20.09.2021",
-    "payload": "Tianzhou 3 (TZ 3)",
+    "payload": [
+        "Tianzhou 3 (TZ 3)"
+    ],
     "lauchVehicle": "CZ-7",
     "site": "We LC-201",
     "remark": "success"
@@ -753,7 +2367,9 @@
 "2021-086": {
     "id": "2021-086",
     "date": "27.09.2021",
-    "payload": "Jilin-1 Gaofen-02D (Jilin-1 High Resolution-02D)",
+    "payload": [
+        "Jilin-1 Gaofen-02D (Jilin-1 High Resolution-02D)"
+    ],
     "lauchVehicle": "Kuaizhou-1A",
     "site": "Jq",
     "remark": "success"
@@ -761,7 +2377,9 @@
 "2021-087": {
     "id": "2021-087",
     "date": "27.09.2021",
-    "payload": "SY 10",
+    "payload": [
+        "SY 10"
+    ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-3",
     "remark": "success"
@@ -769,7 +2387,13 @@
 "2021-088": {
     "id": "2021-088",
     "date": "27.09.2021",
-    "payload": "Landsat 9,CuPID,CUTE,Cesium Satellite 1 (CS 1, Cesium M1A),Cesium Satellite 2 (CS 2, Cesium M1B)",
+    "payload": [
+        "Landsat 9",
+        "CuPID",
+        "CUTE",
+        "Cesium Satellite 1 (CS 1, Cesium M1A)",
+        "Cesium Satellite 2 (CS 2, Cesium M1B)"
+    ],
     "lauchVehicle": "Atlas-5(401)",
     "site": "Va SLC-3E",
     "remark": "success"
@@ -777,7 +2401,9 @@
 "2021-089": {
     "id": "2021-089",
     "date": "05.10.2021",
-    "payload": "Soyuz-MS 19",
+    "payload": [
+        "Soyuz-MS 19"
+    ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -785,7 +2411,44 @@
 "2021-090": {
     "id": "2021-090",
     "date": "14.10.2021",
-    "payload": "OneWeb L11-1 (OneWeb 0332),OneWeb L11-2 (OneWeb 0347),OneWeb L11-3 (OneWeb 0349),OneWeb L11-4 (OneWeb 0353),OneWeb L11-5 (OneWeb 0356),OneWeb L11-6 (OneWeb 0358),OneWeb L11-7 (OneWeb 0359),OneWeb L11-8 (OneWeb 0360),OneWeb L11-9 (OneWeb 0361),OneWeb L11-10 (OneWeb 0362),OneWeb L11-11 (OneWeb 0363),OneWeb L11-12 (OneWeb 0364),OneWeb L11-13 (OneWeb 0365),OneWeb L11-14 (OneWeb 0366),OneWeb L11-15 (OneWeb 0367),OneWeb L11-16 (OneWeb 0368),OneWeb L11-17 (OneWeb 0369),OneWeb L11-18 (OneWeb 0370),OneWeb L11-19 (OneWeb 0371),OneWeb L11-20 (OneWeb 0372),OneWeb L11-21 (OneWeb 0373),OneWeb L11-22 (OneWeb 0374),OneWeb L11-23 (OneWeb 0375),OneWeb L11-24 (OneWeb 0376),OneWeb L11-25 (OneWeb 0377),OneWeb L11-26 (OneWeb 0378),OneWeb L11-27 (OneWeb 0379),OneWeb L11-28 (OneWeb 0380),OneWeb L11-29 (OneWeb 0381),OneWeb L11-30 (OneWeb 0382),OneWeb L11-31 (OneWeb 0383),OneWeb L11-32 (OneWeb 0384),OneWeb L11-33 (OneWeb 0385),OneWeb L11-34 (OneWeb 0386),OneWeb L11-35 (OneWeb 0387),OneWeb L11-36 (OneWeb 0388)",
+    "payload": [
+        "OneWeb L11-1 (OneWeb 0332)",
+        "OneWeb L11-2 (OneWeb 0347)",
+        "OneWeb L11-3 (OneWeb 0349)",
+        "OneWeb L11-4 (OneWeb 0353)",
+        "OneWeb L11-5 (OneWeb 0356)",
+        "OneWeb L11-6 (OneWeb 0358)",
+        "OneWeb L11-7 (OneWeb 0359)",
+        "OneWeb L11-8 (OneWeb 0360)",
+        "OneWeb L11-9 (OneWeb 0361)",
+        "OneWeb L11-10 (OneWeb 0362)",
+        "OneWeb L11-11 (OneWeb 0363)",
+        "OneWeb L11-12 (OneWeb 0364)",
+        "OneWeb L11-13 (OneWeb 0365)",
+        "OneWeb L11-14 (OneWeb 0366)",
+        "OneWeb L11-15 (OneWeb 0367)",
+        "OneWeb L11-16 (OneWeb 0368)",
+        "OneWeb L11-17 (OneWeb 0369)",
+        "OneWeb L11-18 (OneWeb 0370)",
+        "OneWeb L11-19 (OneWeb 0371)",
+        "OneWeb L11-20 (OneWeb 0372)",
+        "OneWeb L11-21 (OneWeb 0373)",
+        "OneWeb L11-22 (OneWeb 0374)",
+        "OneWeb L11-23 (OneWeb 0375)",
+        "OneWeb L11-24 (OneWeb 0376)",
+        "OneWeb L11-25 (OneWeb 0377)",
+        "OneWeb L11-26 (OneWeb 0378)",
+        "OneWeb L11-27 (OneWeb 0379)",
+        "OneWeb L11-28 (OneWeb 0380)",
+        "OneWeb L11-29 (OneWeb 0381)",
+        "OneWeb L11-30 (OneWeb 0382)",
+        "OneWeb L11-31 (OneWeb 0383)",
+        "OneWeb L11-32 (OneWeb 0384)",
+        "OneWeb L11-33 (OneWeb 0385)",
+        "OneWeb L11-34 (OneWeb 0386)",
+        "OneWeb L11-35 (OneWeb 0387)",
+        "OneWeb L11-36 (OneWeb 0388)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
     "remark": "success"
@@ -793,7 +2456,19 @@
 "2021-091": {
     "id": "2021-091",
     "date": "14.10.2021",
-    "payload": "CHASE (Xihe),QX 1,Tianshu 1,JTSY,HEAD 2E (Hede 2E),HEAD 2F (Hede 2F),Guidao Daqi Midu TSW (MD 1),SSS 1,SSS 2A,Tianyuan 1 (TY 1),Jinzijing 2 (Golden Bauhinia 2)",
+    "payload": [
+        "CHASE (Xihe)",
+        "QX 1",
+        "Tianshu 1",
+        "JTSY",
+        "HEAD 2E (Hede 2E)",
+        "HEAD 2F (Hede 2F)",
+        "Guidao Daqi Midu TSW (MD 1)",
+        "SSS 1",
+        "SSS 2A",
+        "Tianyuan 1 (TY 1)",
+        "Jinzijing 2 (Golden Bauhinia 2)"
+    ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "TY LC-9",
     "remark": "success"
@@ -801,7 +2476,9 @@
 "2021-092": {
     "id": "2021-092",
     "date": "16.10.2021",
-    "payload": "Shenzhou 13 (SZ 13)",
+    "payload": [
+        "Shenzhou 13 (SZ 13)"
+    ],
     "lauchVehicle": "CZ-2F/G",
     "site": "Jq LC-43/91",
     "remark": "success"
@@ -809,31 +2486,60 @@
 "2021-093": {
     "id": "2021-093",
     "date": "16.10.2021",
-    "payload": "Lucy (Discovery 13)",
+    "payload": [
+        "Lucy (Discovery 13)"
+    ],
     "lauchVehicle": "Atlas-5(401)",
     "site": "CC SLC-41",
     "remark": "success"
 },
-"-": {
-    "id": "-",
+"2021-F09": {
+    "id": "2021-F09",
     "date": "21.10.2021",
-    "payload": "?",
+    "payload": [
+        "Nuri Test Payload"
+    ],
     "lauchVehicle": "Nuri (KSLV-2)",
     "site": "Na LP-2",
-    "remark": "Version 1st flight"
+    "remark": "Version 1st flight, failed"
+},
+"2021-094": {
+    "id": "2021-094",
+    "date": "24.10.2021",
+    "payload": [
+        "SJ 21"
+    ],
+    "lauchVehicle": "CZ-3B/G2(2)",
+    "site": "Xi LC-2",
+    "remark": "success"
+},
+"2021-095": {
+    "id": "2021-095",
+    "date": "24.10.2021",
+    "payload": [
+        "SES 17",
+        "Syracuse 4A (Comsat-NG 1)"
+    ],
+    "lauchVehicle": "Ariane-5ECA+",
+    "site": "Ko ELA-3",
+    "remark": "success"
 },
 "-": {
     "id": "-",
-    "date": "25.10.2021",
-    "payload": "QZS 1R (Michibiki 1R)",
+    "date": "26.10.2021",
+    "payload": [
+        "QZS 1R (Michibiki 1R)"
+    ],
     "lauchVehicle": "H-2A-202",
     "site": "Ta YLP-1",
     "remark": "success"
 },
 "-": {
     "id": "-",
-    "date": "27.10.2021",
-    "payload": "STP-27AD2",
+    "date": "28.10.2021",
+    "payload": [
+        "STP-27AD2"
+    ],
     "lauchVehicle": "Astra Rocket-3.3",
     "site": "Kd LP-3B",
     "remark": "success"
@@ -841,7 +2547,9 @@
 "-": {
     "id": "-",
     "date": "28.10.2021",
-    "payload": "Progress-MS 18",
+    "payload": [
+        "Progress-MS 18"
+    ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -849,7 +2557,9 @@
 "-": {
     "id": "-",
     "date": "31.10.2021",
-    "payload": "JWST (James Webb Space Telescope)",
+    "payload": [
+        "JWST (James Webb Space Telescope)"
+    ],
     "lauchVehicle": "Ariane-5ECA+",
     "site": "Ko ELA-3",
     "remark": "success"
@@ -857,7 +2567,9 @@
 "-": {
     "id": "-",
     "date": "31.10.2021",
-    "payload": "Crew Dragon 3 (Dragon C210-F1, Endurance F1, USCV-3)",
+    "payload": [
+        "Crew Dragon 3 (Dragon C210-F1, Endurance F1, USCV-3)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -865,7 +2577,9 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Gaofen 11-03 (GF 11-03)",
+    "payload": [
+        "Gaofen 11-03 (GF 11-03)"
+    ],
     "lauchVehicle": "CZ-4B",
     "site": "TY LC-9",
     "remark": "success"
@@ -873,7 +2587,10 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Yaogan 32-02-01,Yaogan 32-02-02",
+    "payload": [
+        "Yaogan 32-02-01",
+        "Yaogan 32-02-02"
+    ],
     "lauchVehicle": "CZ-2C (3) YZ-1S",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -881,7 +2598,10 @@
 "-": {
     "id": "-",
     "date": "xx.10.2020",
-    "payload": "Yizheng 2,Yizheng 3",
+    "payload": [
+        "Yizheng 2",
+        "Yizheng 3"
+    ],
     "lauchVehicle": "Jielong-1",
     "site": "Jq LP-43/95B",
     "remark": "success"
@@ -889,7 +2609,9 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Gaofen 3-02 (GF 3-02)",
+    "payload": [
+        "Gaofen 3-02 (GF 3-02)"
+    ],
     "lauchVehicle": "CZ-4C",
     "site": "TY LC-9",
     "remark": "success"
@@ -897,7 +2619,9 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Jilin-1 Gaofen-02F (Jilin-1 High Resolution-02F)",
+    "payload": [
+        "Jilin-1 Gaofen-02F (Jilin-1 High Resolution-02F)"
+    ],
     "lauchVehicle": "Kuaizhou-1A",
     "site": "Jq",
     "remark": "success"
@@ -905,7 +2629,68 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Starlink v1.0 L29-1,Starlink v1.0 L29-2,Starlink v1.0 L29-3,Starlink v1.0 L29-4,Starlink v1.0 L29-5,Starlink v1.0 L29-6,Starlink v1.0 L29-7,Starlink v1.0 L29-8,Starlink v1.0 L29-9,Starlink v1.0 L29-10,Starlink v1.0 L29-11,Starlink v1.0 L29-12,Starlink v1.0 L29-13,Starlink v1.0 L29-14,Starlink v1.0 L29-15,Starlink v1.0 L29-16,Starlink v1.0 L29-17,Starlink v1.0 L29-18,Starlink v1.0 L29-19,Starlink v1.0 L29-20,Starlink v1.0 L29-21,Starlink v1.0 L29-22,Starlink v1.0 L29-23,Starlink v1.0 L29-24,Starlink v1.0 L29-25,Starlink v1.0 L29-26,Starlink v1.0 L29-27,Starlink v1.0 L29-28,Starlink v1.0 L29-29,Starlink v1.0 L29-30,Starlink v1.0 L29-31,Starlink v1.0 L29-32,Starlink v1.0 L29-33,Starlink v1.0 L29-34,Starlink v1.0 L29-35,Starlink v1.0 L29-36,Starlink v1.0 L29-37,Starlink v1.0 L29-38,Starlink v1.0 L29-39,Starlink v1.0 L29-40,Starlink v1.0 L29-41,Starlink v1.0 L29-42,Starlink v1.0 L29-43,Starlink v1.0 L29-44,Starlink v1.0 L29-45,Starlink v1.0 L29-46,Starlink v1.0 L29-47,Starlink v1.0 L29-48,Starlink v1.0 L29-49,Starlink v1.0 L29-50,Starlink v1.0 L29-51,Starlink v1.0 L29-52,Starlink v1.0 L29-53,Starlink v1.0 L29-54,Starlink v1.0 L29-55,Starlink v1.0 L29-56,Starlink v1.0 L29-57,Starlink v1.0 L29-58,Starlink v1.0 L29-59,Starlink v1.0 L29-60",
+    "payload": [
+        "Starlink v1.0 L29-1",
+        "Starlink v1.0 L29-2",
+        "Starlink v1.0 L29-3",
+        "Starlink v1.0 L29-4",
+        "Starlink v1.0 L29-5",
+        "Starlink v1.0 L29-6",
+        "Starlink v1.0 L29-7",
+        "Starlink v1.0 L29-8",
+        "Starlink v1.0 L29-9",
+        "Starlink v1.0 L29-10",
+        "Starlink v1.0 L29-11",
+        "Starlink v1.0 L29-12",
+        "Starlink v1.0 L29-13",
+        "Starlink v1.0 L29-14",
+        "Starlink v1.0 L29-15",
+        "Starlink v1.0 L29-16",
+        "Starlink v1.0 L29-17",
+        "Starlink v1.0 L29-18",
+        "Starlink v1.0 L29-19",
+        "Starlink v1.0 L29-20",
+        "Starlink v1.0 L29-21",
+        "Starlink v1.0 L29-22",
+        "Starlink v1.0 L29-23",
+        "Starlink v1.0 L29-24",
+        "Starlink v1.0 L29-25",
+        "Starlink v1.0 L29-26",
+        "Starlink v1.0 L29-27",
+        "Starlink v1.0 L29-28",
+        "Starlink v1.0 L29-29",
+        "Starlink v1.0 L29-30",
+        "Starlink v1.0 L29-31",
+        "Starlink v1.0 L29-32",
+        "Starlink v1.0 L29-33",
+        "Starlink v1.0 L29-34",
+        "Starlink v1.0 L29-35",
+        "Starlink v1.0 L29-36",
+        "Starlink v1.0 L29-37",
+        "Starlink v1.0 L29-38",
+        "Starlink v1.0 L29-39",
+        "Starlink v1.0 L29-40",
+        "Starlink v1.0 L29-41",
+        "Starlink v1.0 L29-42",
+        "Starlink v1.0 L29-43",
+        "Starlink v1.0 L29-44",
+        "Starlink v1.0 L29-45",
+        "Starlink v1.0 L29-46",
+        "Starlink v1.0 L29-47",
+        "Starlink v1.0 L29-48",
+        "Starlink v1.0 L29-49",
+        "Starlink v1.0 L29-50",
+        "Starlink v1.0 L29-51",
+        "Starlink v1.0 L29-52",
+        "Starlink v1.0 L29-53",
+        "Starlink v1.0 L29-54",
+        "Starlink v1.0 L29-55",
+        "Starlink v1.0 L29-56",
+        "Starlink v1.0 L29-57",
+        "Starlink v1.0 L29-58",
+        "Starlink v1.0 L29-59",
+        "Starlink v1.0 L29-60"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -913,7 +2698,48 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Starlink v1.5 P2-1,Starlink v1.5 P2-2,Starlink v1.5 P2-3,Starlink v1.5 P2-4,Starlink v1.5 P2-5,Starlink v1.5 P2-6,Starlink v1.5 P2-7,Starlink v1.5 P2-8,Starlink v1.5 P2-9,Starlink v1.5 P2-10,Starlink v1.5 P2-11,Starlink v1.5 P2-12,Starlink v1.5 P2-13,Starlink v1.5 P2-14,Starlink v1.5 P2-15,Starlink v1.5 P2-16,Starlink v1.5 P2-17,Starlink v1.5 P2-18,Starlink v1.5 P2-19,Starlink v1.5 P2-20,Starlink v1.5 P2-21,Starlink v1.5 P2-22,Starlink v1.5 P2-23,Starlink v1.5 P2-24,Starlink v1.5 P2-25,Starlink v1.5 P2-26,Starlink v1.5 P2-27,Starlink v1.5 P2-28,Starlink v1.5 P2-29,Starlink v1.5 P2-30,Starlink v1.5 P2-31,Starlink v1.5 P2-32,Starlink v1.5 P2-33,Starlink v1.5 P2-34,Starlink v1.5 P2-35,Starlink v1.5 P2-36,Starlink v1.5 P2-37,Starlink v1.5 P2-38,Starlink v1.5 P2-39,Starlink v1.5 P2-40?",
+    "payload": [
+        "Starlink v1.5 P2-1",
+        "Starlink v1.5 P2-2",
+        "Starlink v1.5 P2-3",
+        "Starlink v1.5 P2-4",
+        "Starlink v1.5 P2-5",
+        "Starlink v1.5 P2-6",
+        "Starlink v1.5 P2-7",
+        "Starlink v1.5 P2-8",
+        "Starlink v1.5 P2-9",
+        "Starlink v1.5 P2-10",
+        "Starlink v1.5 P2-11",
+        "Starlink v1.5 P2-12",
+        "Starlink v1.5 P2-13",
+        "Starlink v1.5 P2-14",
+        "Starlink v1.5 P2-15",
+        "Starlink v1.5 P2-16",
+        "Starlink v1.5 P2-17",
+        "Starlink v1.5 P2-18",
+        "Starlink v1.5 P2-19",
+        "Starlink v1.5 P2-20",
+        "Starlink v1.5 P2-21",
+        "Starlink v1.5 P2-22",
+        "Starlink v1.5 P2-23",
+        "Starlink v1.5 P2-24",
+        "Starlink v1.5 P2-25",
+        "Starlink v1.5 P2-26",
+        "Starlink v1.5 P2-27",
+        "Starlink v1.5 P2-28",
+        "Starlink v1.5 P2-29",
+        "Starlink v1.5 P2-30",
+        "Starlink v1.5 P2-31",
+        "Starlink v1.5 P2-32",
+        "Starlink v1.5 P2-33",
+        "Starlink v1.5 P2-34",
+        "Starlink v1.5 P2-35",
+        "Starlink v1.5 P2-36",
+        "Starlink v1.5 P2-37",
+        "Starlink v1.5 P2-38",
+        "Starlink v1.5 P2-39",
+        "Starlink v1.5 P2-40?"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
     "remark": "Number of satellites unclear"
@@ -921,7 +2747,68 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Starlink v1.0 L30-1,Starlink v1.0 L30-2,Starlink v1.0 L30-3,Starlink v1.0 L30-4,Starlink v1.0 L30-5,Starlink v1.0 L30-6,Starlink v1.0 L30-7,Starlink v1.0 L30-8,Starlink v1.0 L30-9,Starlink v1.0 L30-10,Starlink v1.0 L30-11,Starlink v1.0 L30-12,Starlink v1.0 L30-13,Starlink v1.0 L30-14,Starlink v1.0 L30-15,Starlink v1.0 L30-16,Starlink v1.0 L30-17,Starlink v1.0 L30-18,Starlink v1.0 L30-19,Starlink v1.0 L30-20,Starlink v1.0 L30-21,Starlink v1.0 L30-22,Starlink v1.0 L30-23,Starlink v1.0 L30-24,Starlink v1.0 L30-25,Starlink v1.0 L30-26,Starlink v1.0 L30-27,Starlink v1.0 L30-28,Starlink v1.0 L30-29,Starlink v1.0 L30-30,Starlink v1.0 L30-31,Starlink v1.0 L30-32,Starlink v1.0 L30-33,Starlink v1.0 L30-34,Starlink v1.0 L30-35,Starlink v1.0 L30-36,Starlink v1.0 L30-37,Starlink v1.0 L30-38,Starlink v1.0 L30-39,Starlink v1.0 L30-40,Starlink v1.0 L30-41,Starlink v1.0 L30-42,Starlink v1.0 L30-43,Starlink v1.0 L30-44,Starlink v1.0 L30-45,Starlink v1.0 L30-46,Starlink v1.0 L30-47,Starlink v1.0 L30-48,Starlink v1.0 L30-49,Starlink v1.0 L30-50,Starlink v1.0 L30-51,Starlink v1.0 L30-52,Starlink v1.0 L30-53,Starlink v1.0 L30-54,Starlink v1.0 L30-55,Starlink v1.0 L30-56,Starlink v1.0 L30-57,Starlink v1.0 L30-58,Starlink v1.0 L30-59,Starlink v1.0 L30-60",
+    "payload": [
+        "Starlink v1.0 L30-1",
+        "Starlink v1.0 L30-2",
+        "Starlink v1.0 L30-3",
+        "Starlink v1.0 L30-4",
+        "Starlink v1.0 L30-5",
+        "Starlink v1.0 L30-6",
+        "Starlink v1.0 L30-7",
+        "Starlink v1.0 L30-8",
+        "Starlink v1.0 L30-9",
+        "Starlink v1.0 L30-10",
+        "Starlink v1.0 L30-11",
+        "Starlink v1.0 L30-12",
+        "Starlink v1.0 L30-13",
+        "Starlink v1.0 L30-14",
+        "Starlink v1.0 L30-15",
+        "Starlink v1.0 L30-16",
+        "Starlink v1.0 L30-17",
+        "Starlink v1.0 L30-18",
+        "Starlink v1.0 L30-19",
+        "Starlink v1.0 L30-20",
+        "Starlink v1.0 L30-21",
+        "Starlink v1.0 L30-22",
+        "Starlink v1.0 L30-23",
+        "Starlink v1.0 L30-24",
+        "Starlink v1.0 L30-25",
+        "Starlink v1.0 L30-26",
+        "Starlink v1.0 L30-27",
+        "Starlink v1.0 L30-28",
+        "Starlink v1.0 L30-29",
+        "Starlink v1.0 L30-30",
+        "Starlink v1.0 L30-31",
+        "Starlink v1.0 L30-32",
+        "Starlink v1.0 L30-33",
+        "Starlink v1.0 L30-34",
+        "Starlink v1.0 L30-35",
+        "Starlink v1.0 L30-36",
+        "Starlink v1.0 L30-37",
+        "Starlink v1.0 L30-38",
+        "Starlink v1.0 L30-39",
+        "Starlink v1.0 L30-40",
+        "Starlink v1.0 L30-41",
+        "Starlink v1.0 L30-42",
+        "Starlink v1.0 L30-43",
+        "Starlink v1.0 L30-44",
+        "Starlink v1.0 L30-45",
+        "Starlink v1.0 L30-46",
+        "Starlink v1.0 L30-47",
+        "Starlink v1.0 L30-48",
+        "Starlink v1.0 L30-49",
+        "Starlink v1.0 L30-50",
+        "Starlink v1.0 L30-51",
+        "Starlink v1.0 L30-52",
+        "Starlink v1.0 L30-53",
+        "Starlink v1.0 L30-54",
+        "Starlink v1.0 L30-55",
+        "Starlink v1.0 L30-56",
+        "Starlink v1.0 L30-57",
+        "Starlink v1.0 L30-58",
+        "Starlink v1.0 L30-59",
+        "Starlink v1.0 L30-60"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -929,7 +2816,68 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Starlink v1.0 L31-1,Starlink v1.0 L31-2,Starlink v1.0 L31-3,Starlink v1.0 L31-4,Starlink v1.0 L31-5,Starlink v1.0 L31-6,Starlink v1.0 L31-7,Starlink v1.0 L31-8,Starlink v1.0 L31-9,Starlink v1.0 L31-10,Starlink v1.0 L31-11,Starlink v1.0 L31-12,Starlink v1.0 L31-13,Starlink v1.0 L31-14,Starlink v1.0 L31-15,Starlink v1.0 L31-16,Starlink v1.0 L31-17,Starlink v1.0 L31-18,Starlink v1.0 L31-19,Starlink v1.0 L31-20,Starlink v1.0 L31-21,Starlink v1.0 L31-22,Starlink v1.0 L31-23,Starlink v1.0 L31-24,Starlink v1.0 L31-25,Starlink v1.0 L31-26,Starlink v1.0 L31-27,Starlink v1.0 L31-28,Starlink v1.0 L31-29,Starlink v1.0 L31-30,Starlink v1.0 L31-31,Starlink v1.0 L31-32,Starlink v1.0 L31-33,Starlink v1.0 L31-34,Starlink v1.0 L31-35,Starlink v1.0 L31-36,Starlink v1.0 L31-37,Starlink v1.0 L31-38,Starlink v1.0 L31-39,Starlink v1.0 L31-40,Starlink v1.0 L31-41,Starlink v1.0 L31-42,Starlink v1.0 L31-43,Starlink v1.0 L31-44,Starlink v1.0 L31-45,Starlink v1.0 L31-46,Starlink v1.0 L31-47,Starlink v1.0 L31-48,Starlink v1.0 L31-49,Starlink v1.0 L31-50,Starlink v1.0 L31-51,Starlink v1.0 L31-52,Starlink v1.0 L31-53,Starlink v1.0 L31-54,Starlink v1.0 L31-55,Starlink v1.0 L31-56,Starlink v1.0 L31-57,Starlink v1.0 L31-58,Starlink v1.0 L31-59,Starlink v1.0 L31-60",
+    "payload": [
+        "Starlink v1.0 L31-1",
+        "Starlink v1.0 L31-2",
+        "Starlink v1.0 L31-3",
+        "Starlink v1.0 L31-4",
+        "Starlink v1.0 L31-5",
+        "Starlink v1.0 L31-6",
+        "Starlink v1.0 L31-7",
+        "Starlink v1.0 L31-8",
+        "Starlink v1.0 L31-9",
+        "Starlink v1.0 L31-10",
+        "Starlink v1.0 L31-11",
+        "Starlink v1.0 L31-12",
+        "Starlink v1.0 L31-13",
+        "Starlink v1.0 L31-14",
+        "Starlink v1.0 L31-15",
+        "Starlink v1.0 L31-16",
+        "Starlink v1.0 L31-17",
+        "Starlink v1.0 L31-18",
+        "Starlink v1.0 L31-19",
+        "Starlink v1.0 L31-20",
+        "Starlink v1.0 L31-21",
+        "Starlink v1.0 L31-22",
+        "Starlink v1.0 L31-23",
+        "Starlink v1.0 L31-24",
+        "Starlink v1.0 L31-25",
+        "Starlink v1.0 L31-26",
+        "Starlink v1.0 L31-27",
+        "Starlink v1.0 L31-28",
+        "Starlink v1.0 L31-29",
+        "Starlink v1.0 L31-30",
+        "Starlink v1.0 L31-31",
+        "Starlink v1.0 L31-32",
+        "Starlink v1.0 L31-33",
+        "Starlink v1.0 L31-34",
+        "Starlink v1.0 L31-35",
+        "Starlink v1.0 L31-36",
+        "Starlink v1.0 L31-37",
+        "Starlink v1.0 L31-38",
+        "Starlink v1.0 L31-39",
+        "Starlink v1.0 L31-40",
+        "Starlink v1.0 L31-41",
+        "Starlink v1.0 L31-42",
+        "Starlink v1.0 L31-43",
+        "Starlink v1.0 L31-44",
+        "Starlink v1.0 L31-45",
+        "Starlink v1.0 L31-46",
+        "Starlink v1.0 L31-47",
+        "Starlink v1.0 L31-48",
+        "Starlink v1.0 L31-49",
+        "Starlink v1.0 L31-50",
+        "Starlink v1.0 L31-51",
+        "Starlink v1.0 L31-52",
+        "Starlink v1.0 L31-53",
+        "Starlink v1.0 L31-54",
+        "Starlink v1.0 L31-55",
+        "Starlink v1.0 L31-56",
+        "Starlink v1.0 L31-57",
+        "Starlink v1.0 L31-58",
+        "Starlink v1.0 L31-59",
+        "Starlink v1.0 L31-60"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -937,7 +2885,68 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Starlink v1.0 L32-1,Starlink v1.0 L32-2,Starlink v1.0 L32-3,Starlink v1.0 L32-4,Starlink v1.0 L32-5,Starlink v1.0 L32-6,Starlink v1.0 L32-7,Starlink v1.0 L32-8,Starlink v1.0 L32-9,Starlink v1.0 L32-10,Starlink v1.0 L32-11,Starlink v1.0 L32-12,Starlink v1.0 L32-13,Starlink v1.0 L32-14,Starlink v1.0 L32-15,Starlink v1.0 L32-16,Starlink v1.0 L32-17,Starlink v1.0 L32-18,Starlink v1.0 L32-19,Starlink v1.0 L32-20,Starlink v1.0 L32-21,Starlink v1.0 L32-22,Starlink v1.0 L32-23,Starlink v1.0 L32-24,Starlink v1.0 L32-25,Starlink v1.0 L32-26,Starlink v1.0 L32-27,Starlink v1.0 L32-28,Starlink v1.0 L32-29,Starlink v1.0 L32-30,Starlink v1.0 L32-31,Starlink v1.0 L32-32,Starlink v1.0 L32-33,Starlink v1.0 L32-34,Starlink v1.0 L32-35,Starlink v1.0 L32-36,Starlink v1.0 L32-37,Starlink v1.0 L32-38,Starlink v1.0 L32-39,Starlink v1.0 L32-40,Starlink v1.0 L32-41,Starlink v1.0 L32-42,Starlink v1.0 L32-43,Starlink v1.0 L32-44,Starlink v1.0 L32-45,Starlink v1.0 L32-46,Starlink v1.0 L32-47,Starlink v1.0 L32-48,Starlink v1.0 L32-49,Starlink v1.0 L32-50,Starlink v1.0 L32-51,Starlink v1.0 L32-52,Starlink v1.0 L32-53,Starlink v1.0 L32-54,Starlink v1.0 L32-55,Starlink v1.0 L32-56,Starlink v1.0 L32-57,Starlink v1.0 L32-58,Starlink v1.0 L32-59,Starlink v1.0 L32-60",
+    "payload": [
+        "Starlink v1.0 L32-1",
+        "Starlink v1.0 L32-2",
+        "Starlink v1.0 L32-3",
+        "Starlink v1.0 L32-4",
+        "Starlink v1.0 L32-5",
+        "Starlink v1.0 L32-6",
+        "Starlink v1.0 L32-7",
+        "Starlink v1.0 L32-8",
+        "Starlink v1.0 L32-9",
+        "Starlink v1.0 L32-10",
+        "Starlink v1.0 L32-11",
+        "Starlink v1.0 L32-12",
+        "Starlink v1.0 L32-13",
+        "Starlink v1.0 L32-14",
+        "Starlink v1.0 L32-15",
+        "Starlink v1.0 L32-16",
+        "Starlink v1.0 L32-17",
+        "Starlink v1.0 L32-18",
+        "Starlink v1.0 L32-19",
+        "Starlink v1.0 L32-20",
+        "Starlink v1.0 L32-21",
+        "Starlink v1.0 L32-22",
+        "Starlink v1.0 L32-23",
+        "Starlink v1.0 L32-24",
+        "Starlink v1.0 L32-25",
+        "Starlink v1.0 L32-26",
+        "Starlink v1.0 L32-27",
+        "Starlink v1.0 L32-28",
+        "Starlink v1.0 L32-29",
+        "Starlink v1.0 L32-30",
+        "Starlink v1.0 L32-31",
+        "Starlink v1.0 L32-32",
+        "Starlink v1.0 L32-33",
+        "Starlink v1.0 L32-34",
+        "Starlink v1.0 L32-35",
+        "Starlink v1.0 L32-36",
+        "Starlink v1.0 L32-37",
+        "Starlink v1.0 L32-38",
+        "Starlink v1.0 L32-39",
+        "Starlink v1.0 L32-40",
+        "Starlink v1.0 L32-41",
+        "Starlink v1.0 L32-42",
+        "Starlink v1.0 L32-43",
+        "Starlink v1.0 L32-44",
+        "Starlink v1.0 L32-45",
+        "Starlink v1.0 L32-46",
+        "Starlink v1.0 L32-47",
+        "Starlink v1.0 L32-48",
+        "Starlink v1.0 L32-49",
+        "Starlink v1.0 L32-50",
+        "Starlink v1.0 L32-51",
+        "Starlink v1.0 L32-52",
+        "Starlink v1.0 L32-53",
+        "Starlink v1.0 L32-54",
+        "Starlink v1.0 L32-55",
+        "Starlink v1.0 L32-56",
+        "Starlink v1.0 L32-57",
+        "Starlink v1.0 L32-58",
+        "Starlink v1.0 L32-59",
+        "Starlink v1.0 L32-60"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -945,7 +2954,48 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Starlink v1.5 P3-1,Starlink v1.5 P3-2,Starlink v1.5 P3-3,Starlink v1.5 P3-4,Starlink v1.5 P3-5,Starlink v1.5 P3-6,Starlink v1.5 P3-7,Starlink v1.5 P3-8,Starlink v1.5 P3-9,Starlink v1.5 P3-10,Starlink v1.5 P3-11,Starlink v1.5 P3-12,Starlink v1.5 P3-13,Starlink v1.5 P3-14,Starlink v1.5 P3-15,Starlink v1.5 P3-16,Starlink v1.5 P3-17,Starlink v1.5 P3-18,Starlink v1.5 P3-19,Starlink v1.5 P3-20,Starlink v1.5 P3-21,Starlink v1.5 P3-22,Starlink v1.5 P3-23,Starlink v1.5 P3-24,Starlink v1.5 P3-25,Starlink v1.5 P3-26,Starlink v1.5 P3-27,Starlink v1.5 P3-28,Starlink v1.5 P3-29,Starlink v1.5 P3-30,Starlink v1.5 P3-31,Starlink v1.5 P3-32,Starlink v1.5 P3-33,Starlink v1.5 P3-34,Starlink v1.5 P3-35,Starlink v1.5 P3-36,Starlink v1.5 P3-37,Starlink v1.5 P3-38,Starlink v1.5 P3-39,Starlink v1.5 P3-40?",
+    "payload": [
+        "Starlink v1.5 P3-1",
+        "Starlink v1.5 P3-2",
+        "Starlink v1.5 P3-3",
+        "Starlink v1.5 P3-4",
+        "Starlink v1.5 P3-5",
+        "Starlink v1.5 P3-6",
+        "Starlink v1.5 P3-7",
+        "Starlink v1.5 P3-8",
+        "Starlink v1.5 P3-9",
+        "Starlink v1.5 P3-10",
+        "Starlink v1.5 P3-11",
+        "Starlink v1.5 P3-12",
+        "Starlink v1.5 P3-13",
+        "Starlink v1.5 P3-14",
+        "Starlink v1.5 P3-15",
+        "Starlink v1.5 P3-16",
+        "Starlink v1.5 P3-17",
+        "Starlink v1.5 P3-18",
+        "Starlink v1.5 P3-19",
+        "Starlink v1.5 P3-20",
+        "Starlink v1.5 P3-21",
+        "Starlink v1.5 P3-22",
+        "Starlink v1.5 P3-23",
+        "Starlink v1.5 P3-24",
+        "Starlink v1.5 P3-25",
+        "Starlink v1.5 P3-26",
+        "Starlink v1.5 P3-27",
+        "Starlink v1.5 P3-28",
+        "Starlink v1.5 P3-29",
+        "Starlink v1.5 P3-30",
+        "Starlink v1.5 P3-31",
+        "Starlink v1.5 P3-32",
+        "Starlink v1.5 P3-33",
+        "Starlink v1.5 P3-34",
+        "Starlink v1.5 P3-35",
+        "Starlink v1.5 P3-36",
+        "Starlink v1.5 P3-37",
+        "Starlink v1.5 P3-38",
+        "Starlink v1.5 P3-39",
+        "Starlink v1.5 P3-40?"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
     "remark": "Number of satellites unclear"
@@ -953,7 +3003,48 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "Starlink v1.5 P4-1,Starlink v1.5 P4-2,Starlink v1.5 P4-3,Starlink v1.5 P4-4,Starlink v1.5 P4-5,Starlink v1.5 P4-6,Starlink v1.5 P4-7,Starlink v1.5 P4-8,Starlink v1.5 P4-9,Starlink v1.5 P4-10,Starlink v1.5 P4-11,Starlink v1.5 P4-12,Starlink v1.5 P4-13,Starlink v1.5 P4-14,Starlink v1.5 P4-15,Starlink v1.5 P4-16,Starlink v1.5 P4-17,Starlink v1.5 P4-18,Starlink v1.5 P4-19,Starlink v1.5 P4-20,Starlink v1.5 P4-21,Starlink v1.5 P4-22,Starlink v1.5 P4-23,Starlink v1.5 P4-24,Starlink v1.5 P4-25,Starlink v1.5 P4-26,Starlink v1.5 P4-27,Starlink v1.5 P4-28,Starlink v1.5 P4-29,Starlink v1.5 P4-30,Starlink v1.5 P4-31,Starlink v1.5 P4-32,Starlink v1.5 P4-33,Starlink v1.5 P4-34,Starlink v1.5 P4-35,Starlink v1.5 P4-36,Starlink v1.5 P4-37,Starlink v1.5 P4-38,Starlink v1.5 P4-39,Starlink v1.5 P4-40?",
+    "payload": [
+        "Starlink v1.5 P4-1",
+        "Starlink v1.5 P4-2",
+        "Starlink v1.5 P4-3",
+        "Starlink v1.5 P4-4",
+        "Starlink v1.5 P4-5",
+        "Starlink v1.5 P4-6",
+        "Starlink v1.5 P4-7",
+        "Starlink v1.5 P4-8",
+        "Starlink v1.5 P4-9",
+        "Starlink v1.5 P4-10",
+        "Starlink v1.5 P4-11",
+        "Starlink v1.5 P4-12",
+        "Starlink v1.5 P4-13",
+        "Starlink v1.5 P4-14",
+        "Starlink v1.5 P4-15",
+        "Starlink v1.5 P4-16",
+        "Starlink v1.5 P4-17",
+        "Starlink v1.5 P4-18",
+        "Starlink v1.5 P4-19",
+        "Starlink v1.5 P4-20",
+        "Starlink v1.5 P4-21",
+        "Starlink v1.5 P4-22",
+        "Starlink v1.5 P4-23",
+        "Starlink v1.5 P4-24",
+        "Starlink v1.5 P4-25",
+        "Starlink v1.5 P4-26",
+        "Starlink v1.5 P4-27",
+        "Starlink v1.5 P4-28",
+        "Starlink v1.5 P4-29",
+        "Starlink v1.5 P4-30",
+        "Starlink v1.5 P4-31",
+        "Starlink v1.5 P4-32",
+        "Starlink v1.5 P4-33",
+        "Starlink v1.5 P4-34",
+        "Starlink v1.5 P4-35",
+        "Starlink v1.5 P4-36",
+        "Starlink v1.5 P4-37",
+        "Starlink v1.5 P4-38",
+        "Starlink v1.5 P4-39",
+        "Starlink v1.5 P4-40?"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
     "remark": "Number of satellites unclear"
@@ -961,7 +3052,9 @@
 "-": {
     "id": "-",
     "date": "xx.10.2021",
-    "payload": "?",
+    "payload": [
+        "?"
+    ],
     "lauchVehicle": "Ceres-1 (Gushenxing-1)",
     "site": "Jq LC-43/95A",
     "remark": "success"
@@ -969,7 +3062,10 @@
 "-": {
     "id": "-",
     "date": "11.11.2021",
-    "payload": "BlackSky 10 (BlackSky Global x1),BlackSky 11 (BlackSky Global x2)",
+    "payload": [
+        "BlackSky 10 (BlackSky Global x1)",
+        "BlackSky 11 (BlackSky Global x2)"
+    ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1B",
     "remark": "success"
@@ -977,7 +3073,16 @@
 "-": {
     "id": "-",
     "date": "22.11.2021",
-    "payload": "STPSat 6,LDPE 1 (ROOSTER 1),\t?,\t?,\t?,\t?,\t?,\t?",
+    "payload": [
+        "STPSat 6",
+        "LDPE 1 (ROOSTER 1)",
+        "\t?",
+        "\t?",
+        "\t?",
+        "\t?",
+        "\t?",
+        "\t?"
+    ],
     "lauchVehicle": "Atlas-5(551)",
     "site": "CC SLC-41",
     "remark": "success"
@@ -985,7 +3090,10 @@
 "-": {
     "id": "-",
     "date": "24.11.2021",
-    "payload": "DART,LICIACube",
+    "payload": [
+        "DART",
+        "LICIACube"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
     "remark": "success"
@@ -993,7 +3101,9 @@
 "-": {
     "id": "-",
     "date": "24.11.2021",
-    "payload": "UM (Prichal, NM, Progress-MS-UM)",
+    "payload": [
+        "UM (Prichal, NM, Progress-MS-UM)"
+    ],
     "lauchVehicle": "Soyuz-2-1b",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -1001,7 +3111,21 @@
 "": {
     "id": "",
     "date": "26.11.2022",
-    "payload": "Orion Artemis-1,BioSentinel,CuSP,LunaH-Map,Lunar-Flashlight,Lunar-IceCube,NEA-Scout,LunIR,EQUULEUS,OMOTENASHI,ArgoMoon,CU-E3,Miles",
+    "payload": [
+        "Orion Artemis-1",
+        "BioSentinel",
+        "CuSP",
+        "LunaH-Map",
+        "Lunar-Flashlight",
+        "Lunar-IceCube",
+        "NEA-Scout",
+        "LunIR",
+        "EQUULEUS",
+        "OMOTENASHI",
+        "ArgoMoon",
+        "CU-E3",
+        "Miles"
+    ],
     "lauchVehicle": "SLS (Block 1) iCPS",
     "site": "CCK LC-39B",
     "remark": "Version 1st flight"
@@ -1009,7 +3133,10 @@
 "-": {
     "id": "-",
     "date": "27.11.2021",
-    "payload": "BlackSky 12 (BlackSky Global y1),BlackSky 13 (BlackSky Global y2)",
+    "payload": [
+        "BlackSky 12 (BlackSky Global y1)",
+        "BlackSky 13 (BlackSky Global y2)"
+    ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1",
     "remark": "success"
@@ -1017,7 +3144,11 @@
 "-": {
     "id": "-",
     "date": "xx.11.2021",
-    "payload": "CERES 1,CERES 2,CERES 3",
+    "payload": [
+        "CERES 1",
+        "CERES 2",
+        "CERES 3"
+    ],
     "lauchVehicle": "Vega",
     "site": "Ko ELV",
     "remark": "success"
@@ -1025,7 +3156,9 @@
 "-": {
     "id": "-",
     "date": "xx.11.2021",
-    "payload": "CSG 2",
+    "payload": [
+        "CSG 2"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -1033,7 +3166,10 @@
 "-": {
     "id": "-",
     "date": "xx.11.2021",
-    "payload": "GSSAP 5 (Hornet 5, USSF 8, AFSPC 8),\tGSSAP 6 (Hornet 6, USSF 8, AFSPC 8)",
+    "payload": [
+        "GSSAP 5 (Hornet 5, USSF 8, AFSPC 8)",
+        "\tGSSAP 6 (Hornet 6, USSF 8, AFSPC 8)"
+    ],
     "lauchVehicle": "Atlas-5(511)",
     "site": "CC SLC-41",
     "remark": "Version 1st flight"
@@ -1041,7 +3177,9 @@
 "-": {
     "id": "-",
     "date": "xx.11.2021",
-    "payload": "Starliner CFT (Starliner SC-3 F2, Calypso F2)",
+    "payload": [
+        "Starliner CFT (Starliner SC-3 F2, Calypso F2)"
+    ],
     "lauchVehicle": "Atlas-5(N22)",
     "site": "CC SLC-41",
     "remark": "success"
@@ -1049,7 +3187,68 @@
 "-": {
     "id": "-",
     "date": "xx.11.2021",
-    "payload": "Starlink v1.0 L33-1,Starlink v1.0 L33-2,Starlink v1.0 L33-3,Starlink v1.0 L33-4,Starlink v1.0 L33-5,Starlink v1.0 L33-6,Starlink v1.0 L33-7,Starlink v1.0 L33-8,Starlink v1.0 L33-9,Starlink v1.0 L33-10,Starlink v1.0 L33-11,Starlink v1.0 L33-12,Starlink v1.0 L33-13,Starlink v1.0 L33-14,Starlink v1.0 L33-15,Starlink v1.0 L33-16,Starlink v1.0 L33-17,Starlink v1.0 L33-18,Starlink v1.0 L33-19,Starlink v1.0 L33-20,Starlink v1.0 L33-21,Starlink v1.0 L33-22,Starlink v1.0 L33-23,Starlink v1.0 L33-24,Starlink v1.0 L33-25,Starlink v1.0 L33-26,Starlink v1.0 L33-27,Starlink v1.0 L33-28,Starlink v1.0 L33-29,Starlink v1.0 L33-30,Starlink v1.0 L33-31,Starlink v1.0 L33-32,Starlink v1.0 L33-33,Starlink v1.0 L33-34,Starlink v1.0 L33-35,Starlink v1.0 L33-36,Starlink v1.0 L33-37,Starlink v1.0 L33-38,Starlink v1.0 L33-39,Starlink v1.0 L33-40,Starlink v1.0 L33-41,Starlink v1.0 L33-42,Starlink v1.0 L33-43,Starlink v1.0 L33-44,Starlink v1.0 L33-45,Starlink v1.0 L33-46,Starlink v1.0 L33-47,Starlink v1.0 L33-48,Starlink v1.0 L33-49,Starlink v1.0 L33-50,Starlink v1.0 L33-51,Starlink v1.0 L33-52,Starlink v1.0 L33-53,Starlink v1.0 L33-54,Starlink v1.0 L33-55,Starlink v1.0 L33-56,Starlink v1.0 L33-57,Starlink v1.0 L33-58,Starlink v1.0 L33-59,Starlink v1.0 L33-60",
+    "payload": [
+        "Starlink v1.0 L33-1",
+        "Starlink v1.0 L33-2",
+        "Starlink v1.0 L33-3",
+        "Starlink v1.0 L33-4",
+        "Starlink v1.0 L33-5",
+        "Starlink v1.0 L33-6",
+        "Starlink v1.0 L33-7",
+        "Starlink v1.0 L33-8",
+        "Starlink v1.0 L33-9",
+        "Starlink v1.0 L33-10",
+        "Starlink v1.0 L33-11",
+        "Starlink v1.0 L33-12",
+        "Starlink v1.0 L33-13",
+        "Starlink v1.0 L33-14",
+        "Starlink v1.0 L33-15",
+        "Starlink v1.0 L33-16",
+        "Starlink v1.0 L33-17",
+        "Starlink v1.0 L33-18",
+        "Starlink v1.0 L33-19",
+        "Starlink v1.0 L33-20",
+        "Starlink v1.0 L33-21",
+        "Starlink v1.0 L33-22",
+        "Starlink v1.0 L33-23",
+        "Starlink v1.0 L33-24",
+        "Starlink v1.0 L33-25",
+        "Starlink v1.0 L33-26",
+        "Starlink v1.0 L33-27",
+        "Starlink v1.0 L33-28",
+        "Starlink v1.0 L33-29",
+        "Starlink v1.0 L33-30",
+        "Starlink v1.0 L33-31",
+        "Starlink v1.0 L33-32",
+        "Starlink v1.0 L33-33",
+        "Starlink v1.0 L33-34",
+        "Starlink v1.0 L33-35",
+        "Starlink v1.0 L33-36",
+        "Starlink v1.0 L33-37",
+        "Starlink v1.0 L33-38",
+        "Starlink v1.0 L33-39",
+        "Starlink v1.0 L33-40",
+        "Starlink v1.0 L33-41",
+        "Starlink v1.0 L33-42",
+        "Starlink v1.0 L33-43",
+        "Starlink v1.0 L33-44",
+        "Starlink v1.0 L33-45",
+        "Starlink v1.0 L33-46",
+        "Starlink v1.0 L33-47",
+        "Starlink v1.0 L33-48",
+        "Starlink v1.0 L33-49",
+        "Starlink v1.0 L33-50",
+        "Starlink v1.0 L33-51",
+        "Starlink v1.0 L33-52",
+        "Starlink v1.0 L33-53",
+        "Starlink v1.0 L33-54",
+        "Starlink v1.0 L33-55",
+        "Starlink v1.0 L33-56",
+        "Starlink v1.0 L33-57",
+        "Starlink v1.0 L33-58",
+        "Starlink v1.0 L33-59",
+        "Starlink v1.0 L33-60"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -1057,7 +3256,48 @@
 "-": {
     "id": "-",
     "date": "xx.11.2021",
-    "payload": "Starlink v1.5 P5-1,Starlink v1.5 P5-2,Starlink v1.5 P5-3,Starlink v1.5 P5-4,Starlink v1.5 P5-5,Starlink v1.5 P5-6,Starlink v1.5 P5-7,Starlink v1.5 P5-8,Starlink v1.5 P5-9,Starlink v1.5 P5-10,Starlink v1.5 P5-11,Starlink v1.5 P5-12,Starlink v1.5 P5-13,Starlink v1.5 P5-14,Starlink v1.5 P5-15,Starlink v1.5 P5-16,Starlink v1.5 P5-17,Starlink v1.5 P5-18,Starlink v1.5 P5-19,Starlink v1.5 P5-20,Starlink v1.5 P5-21,Starlink v1.5 P5-22,Starlink v1.5 P5-23,Starlink v1.5 P5-24,Starlink v1.5 P5-25,Starlink v1.5 P5-26,Starlink v1.5 P5-27,Starlink v1.5 P5-28,Starlink v1.5 P5-29,Starlink v1.5 P5-30,Starlink v1.5 P5-31,Starlink v1.5 P5-32,Starlink v1.5 P5-33,Starlink v1.5 P5-34,Starlink v1.5 P5-35,Starlink v1.5 P5-36,Starlink v1.5 P5-37,Starlink v1.5 P5-38,Starlink v1.5 P5-39,Starlink v1.5 P5-40?",
+    "payload": [
+        "Starlink v1.5 P5-1",
+        "Starlink v1.5 P5-2",
+        "Starlink v1.5 P5-3",
+        "Starlink v1.5 P5-4",
+        "Starlink v1.5 P5-5",
+        "Starlink v1.5 P5-6",
+        "Starlink v1.5 P5-7",
+        "Starlink v1.5 P5-8",
+        "Starlink v1.5 P5-9",
+        "Starlink v1.5 P5-10",
+        "Starlink v1.5 P5-11",
+        "Starlink v1.5 P5-12",
+        "Starlink v1.5 P5-13",
+        "Starlink v1.5 P5-14",
+        "Starlink v1.5 P5-15",
+        "Starlink v1.5 P5-16",
+        "Starlink v1.5 P5-17",
+        "Starlink v1.5 P5-18",
+        "Starlink v1.5 P5-19",
+        "Starlink v1.5 P5-20",
+        "Starlink v1.5 P5-21",
+        "Starlink v1.5 P5-22",
+        "Starlink v1.5 P5-23",
+        "Starlink v1.5 P5-24",
+        "Starlink v1.5 P5-25",
+        "Starlink v1.5 P5-26",
+        "Starlink v1.5 P5-27",
+        "Starlink v1.5 P5-28",
+        "Starlink v1.5 P5-29",
+        "Starlink v1.5 P5-30",
+        "Starlink v1.5 P5-31",
+        "Starlink v1.5 P5-32",
+        "Starlink v1.5 P5-33",
+        "Starlink v1.5 P5-34",
+        "Starlink v1.5 P5-35",
+        "Starlink v1.5 P5-36",
+        "Starlink v1.5 P5-37",
+        "Starlink v1.5 P5-38",
+        "Starlink v1.5 P5-39",
+        "Starlink v1.5 P5-40?"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
     "remark": "Number of satellites unclear"
@@ -1065,7 +3305,10 @@
 "-": {
     "id": "-",
     "date": "01.12.2021",
-    "payload": "Galileo 27 (Galileo-FOC FM23, Patrick),\tGalileo 28 (Galileo-FOC FM23, Shriya)",
+    "payload": [
+        "Galileo 27 (Galileo-FOC FM23, Patrick)",
+        "\tGalileo 28 (Galileo-FOC FM23, Shriya)"
+    ],
     "lauchVehicle": "Soyuz-ST-B Fregat-MT",
     "site": "Ko ELS",
     "remark": "success"
@@ -1073,7 +3316,10 @@
 "-": {
     "id": "-",
     "date": "06.12.2021",
-    "payload": "Ekspress-AMU 3,Ekspress-AMU 7",
+    "payload": [
+        "Ekspress-AMU 3",
+        "Ekspress-AMU 7"
+    ],
     "lauchVehicle": "Proton-M Briz-M (Ph.3)",
     "site": "Ba LC-200/39",
     "remark": "success"
@@ -1081,7 +3327,9 @@
 "-": {
     "id": "-",
     "date": "08.12.2021",
-    "payload": "Soyuz-MS 20",
+    "payload": [
+        "Soyuz-MS 20"
+    ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -1089,7 +3337,9 @@
 "-": {
     "id": "-",
     "date": "09.12.2021",
-    "payload": "IPM 3 ?",
+    "payload": [
+        "IPM 3 ?"
+    ],
     "lauchVehicle": "Angara-A5 Persey",
     "site": "Pl LC-35/1",
     "remark": "Version 1st flight"
@@ -1097,7 +3347,9 @@
 "-": {
     "id": "-",
     "date": "10.12.2021",
-    "payload": "Inmarsat-6 F1 (GX 6A)",
+    "payload": [
+        "Inmarsat-6 F1 (GX 6A)"
+    ],
     "lauchVehicle": "H-2A-204",
     "site": "Ta YLP-1",
     "remark": "success"
@@ -1105,7 +3357,9 @@
 "-": {
     "id": "-",
     "date": "13.12.2021",
-    "payload": "IXPE (SMEX 14)",
+    "payload": [
+        "IXPE (SMEX 14)"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -1113,7 +3367,9 @@
 "-": {
     "id": "-",
     "date": "20.12.2021",
-    "payload": "Kosmos 25xx (MKA-R #1)",
+    "payload": [
+        "Kosmos 25xx (MKA-R #1)"
+    ],
     "lauchVehicle": "Angara-1.2",
     "site": "Pl LC-35/1",
     "remark": "Version 1st flight"
@@ -1121,7 +3377,11 @@
 "-": {
     "id": "-",
     "date": "21.12.2021",
-    "payload": "Dragon CRS-24 (SpX 24, Dragon C209-F2),STP-H7 ⇑,STP-H8 ⇑",
+    "payload": [
+        "Dragon CRS-24 (SpX 24, Dragon C209-F2)",
+        "STP-H7 ⇑",
+        "STP-H8 ⇑"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
     "remark": "success"
@@ -1129,7 +3389,42 @@
 "-": {
     "id": "-",
     "date": "27.12.2021",
-    "payload": "OneWeb LSB5 1 (OneWeb xxxx),OneWeb LSB5 2 (OneWeb xxxx),OneWeb LSB5 3 (OneWeb xxxx),OneWeb LSB5 4 (OneWeb xxxx),OneWeb LSB5 5 (OneWeb xxxx),OneWeb LSB5 6 (OneWeb xxxx),OneWeb LSB5 7 (OneWeb xxxx),OneWeb LSB5 8 (OneWeb xxxx),OneWeb LSB5 9 (OneWeb xxxx),OneWeb LSB5 10 (OneWeb xxxx),OneWeb LSB5 11 (OneWeb xxxx),OneWeb LSB5 12 (OneWeb xxxx),OneWeb LSB5 13 (OneWeb xxxx),OneWeb LSB5 14 (OneWeb xxxx),OneWeb LSB5 15 (OneWeb xxxx),OneWeb LSB5 16 (OneWeb xxxx),OneWeb LSB5 17 (OneWeb xxxx),OneWeb LSB5 18 (OneWeb xxxx),OneWeb LSB5 19 (OneWeb xxxx),OneWeb LSB5 20 (OneWeb xxxx),OneWeb LSB5 21 (OneWeb xxxx),OneWeb LSB5 22 (OneWeb xxxx),OneWeb LSB5 23 (OneWeb xxxx),OneWeb LSB5 24 (OneWeb xxxx),OneWeb LSB5 25 (OneWeb xxxx),OneWeb LSB5 26 (OneWeb xxxx),OneWeb LSB5 27 (OneWeb xxxx),OneWeb LSB5 28 (OneWeb xxxx),OneWeb LSB5 29 (OneWeb xxxx),OneWeb LSB5 30 (OneWeb xxxx),OneWeb LSB5 31 (OneWeb xxxx),OneWeb LSB5 32 (OneWeb xxxx),OneWeb LSB5 33 (OneWeb xxxx),OneWeb LSB5 34 (OneWeb xxxx)",
+    "payload": [
+        "OneWeb LSB5 1 (OneWeb xxxx)",
+        "OneWeb LSB5 2 (OneWeb xxxx)",
+        "OneWeb LSB5 3 (OneWeb xxxx)",
+        "OneWeb LSB5 4 (OneWeb xxxx)",
+        "OneWeb LSB5 5 (OneWeb xxxx)",
+        "OneWeb LSB5 6 (OneWeb xxxx)",
+        "OneWeb LSB5 7 (OneWeb xxxx)",
+        "OneWeb LSB5 8 (OneWeb xxxx)",
+        "OneWeb LSB5 9 (OneWeb xxxx)",
+        "OneWeb LSB5 10 (OneWeb xxxx)",
+        "OneWeb LSB5 11 (OneWeb xxxx)",
+        "OneWeb LSB5 12 (OneWeb xxxx)",
+        "OneWeb LSB5 13 (OneWeb xxxx)",
+        "OneWeb LSB5 14 (OneWeb xxxx)",
+        "OneWeb LSB5 15 (OneWeb xxxx)",
+        "OneWeb LSB5 16 (OneWeb xxxx)",
+        "OneWeb LSB5 17 (OneWeb xxxx)",
+        "OneWeb LSB5 18 (OneWeb xxxx)",
+        "OneWeb LSB5 19 (OneWeb xxxx)",
+        "OneWeb LSB5 20 (OneWeb xxxx)",
+        "OneWeb LSB5 21 (OneWeb xxxx)",
+        "OneWeb LSB5 22 (OneWeb xxxx)",
+        "OneWeb LSB5 23 (OneWeb xxxx)",
+        "OneWeb LSB5 24 (OneWeb xxxx)",
+        "OneWeb LSB5 25 (OneWeb xxxx)",
+        "OneWeb LSB5 26 (OneWeb xxxx)",
+        "OneWeb LSB5 27 (OneWeb xxxx)",
+        "OneWeb LSB5 28 (OneWeb xxxx)",
+        "OneWeb LSB5 29 (OneWeb xxxx)",
+        "OneWeb LSB5 30 (OneWeb xxxx)",
+        "OneWeb LSB5 31 (OneWeb xxxx)",
+        "OneWeb LSB5 32 (OneWeb xxxx)",
+        "OneWeb LSB5 33 (OneWeb xxxx)",
+        "OneWeb LSB5 34 (OneWeb xxxx)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Ba LC-31/6",
     "remark": "success"
@@ -1137,7 +3432,9 @@
 "-": {
     "id": "-",
     "date": "24.12.2021",
-    "payload": "HOTS",
+    "payload": [
+        "HOTS"
+    ],
     "lauchVehicle": "CZ-7A",
     "site": "We LC-201",
     "remark": "success"
@@ -1145,7 +3442,42 @@
 "-": {
     "id": "-",
     "date": "29.12.2021",
-    "payload": "OneWeb LSK2 1 (OneWeb xxxx),OneWeb LSK2 2 (OneWeb xxxx),OneWeb LSK2 3 (OneWeb xxxx),OneWeb LSK2 4 (OneWeb xxxx),OneWeb LSK2 5 (OneWeb xxxx),OneWeb LSK2 6 (OneWeb xxxx),OneWeb LSK2 7 (OneWeb xxxx),OneWeb LSK2 8 (OneWeb xxxx),OneWeb LSK2 9 (OneWeb xxxx),OneWeb LSK2 10 (OneWeb xxxx),OneWeb LSK2 11 (OneWeb xxxx),OneWeb LSK2 12 (OneWeb xxxx),OneWeb LSK2 13 (OneWeb xxxx),OneWeb LSK2 14 (OneWeb xxxx),OneWeb LSK2 15 (OneWeb xxxx),OneWeb LSK2 16 (OneWeb xxxx),OneWeb LSK2 17 (OneWeb xxxx),OneWeb LSK2 18 (OneWeb xxxx),OneWeb LSK2 19 (OneWeb xxxx),OneWeb LSK2 20 (OneWeb xxxx),OneWeb LSK2 21 (OneWeb xxxx),OneWeb LSK2 22 (OneWeb xxxx),OneWeb LSK2 23 (OneWeb xxxx),OneWeb LSK2 24 (OneWeb xxxx),OneWeb LSK2 25 (OneWeb xxxx),OneWeb LSK2 26 (OneWeb xxxx),OneWeb LSK2 27 (OneWeb xxxx),OneWeb LSK2 28 (OneWeb xxxx),OneWeb LSK2 29 (OneWeb xxxx),OneWeb LSK2 30 (OneWeb xxxx),OneWeb LSK2 31 (OneWeb xxxx),OneWeb LSK2 32 (OneWeb xxxx),OneWeb LSK2 33 (OneWeb xxxx),OneWeb LSK2 34 (OneWeb xxxx)",
+    "payload": [
+        "OneWeb LSK2 1 (OneWeb xxxx)",
+        "OneWeb LSK2 2 (OneWeb xxxx)",
+        "OneWeb LSK2 3 (OneWeb xxxx)",
+        "OneWeb LSK2 4 (OneWeb xxxx)",
+        "OneWeb LSK2 5 (OneWeb xxxx)",
+        "OneWeb LSK2 6 (OneWeb xxxx)",
+        "OneWeb LSK2 7 (OneWeb xxxx)",
+        "OneWeb LSK2 8 (OneWeb xxxx)",
+        "OneWeb LSK2 9 (OneWeb xxxx)",
+        "OneWeb LSK2 10 (OneWeb xxxx)",
+        "OneWeb LSK2 11 (OneWeb xxxx)",
+        "OneWeb LSK2 12 (OneWeb xxxx)",
+        "OneWeb LSK2 13 (OneWeb xxxx)",
+        "OneWeb LSK2 14 (OneWeb xxxx)",
+        "OneWeb LSK2 15 (OneWeb xxxx)",
+        "OneWeb LSK2 16 (OneWeb xxxx)",
+        "OneWeb LSK2 17 (OneWeb xxxx)",
+        "OneWeb LSK2 18 (OneWeb xxxx)",
+        "OneWeb LSK2 19 (OneWeb xxxx)",
+        "OneWeb LSK2 20 (OneWeb xxxx)",
+        "OneWeb LSK2 21 (OneWeb xxxx)",
+        "OneWeb LSK2 22 (OneWeb xxxx)",
+        "OneWeb LSK2 23 (OneWeb xxxx)",
+        "OneWeb LSK2 24 (OneWeb xxxx)",
+        "OneWeb LSK2 25 (OneWeb xxxx)",
+        "OneWeb LSK2 26 (OneWeb xxxx)",
+        "OneWeb LSK2 27 (OneWeb xxxx)",
+        "OneWeb LSK2 28 (OneWeb xxxx)",
+        "OneWeb LSK2 29 (OneWeb xxxx)",
+        "OneWeb LSK2 30 (OneWeb xxxx)",
+        "OneWeb LSK2 31 (OneWeb xxxx)",
+        "OneWeb LSK2 32 (OneWeb xxxx)",
+        "OneWeb LSK2 33 (OneWeb xxxx)",
+        "OneWeb LSK2 34 (OneWeb xxxx)"
+    ],
     "lauchVehicle": "Soyuz-ST-B Fregat-MT",
     "site": "Ko ELS",
     "remark": "success"
@@ -1153,7 +3485,10 @@
 "-": {
     "id": "-",
     "date": "xx.12.2021",
-    "payload": "BlackSky 14 (BlackSky Global z1),BlackSky 15 (BlackSky Global z2)",
+    "payload": [
+        "BlackSky 14 (BlackSky Global z1)",
+        "BlackSky 15 (BlackSky Global z2)"
+    ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1",
     "remark": "success"
@@ -1161,7 +3496,68 @@
 "-": {
     "id": "-",
     "date": "xx.12.2021",
-    "payload": "Starlink v1.0 L34-1,Starlink v1.0 L34-2,Starlink v1.0 L34-3,Starlink v1.0 L34-4,Starlink v1.0 L34-5,Starlink v1.0 L34-6,Starlink v1.0 L34-7,Starlink v1.0 L34-8,Starlink v1.0 L34-9,Starlink v1.0 L34-10,Starlink v1.0 L34-11,Starlink v1.0 L34-12,Starlink v1.0 L34-13,Starlink v1.0 L34-14,Starlink v1.0 L34-15,Starlink v1.0 L34-16,Starlink v1.0 L34-17,Starlink v1.0 L34-18,Starlink v1.0 L34-19,Starlink v1.0 L34-20,Starlink v1.0 L34-21,Starlink v1.0 L34-22,Starlink v1.0 L34-23,Starlink v1.0 L34-24,Starlink v1.0 L34-25,Starlink v1.0 L34-26,Starlink v1.0 L34-27,Starlink v1.0 L34-28,Starlink v1.0 L34-29,Starlink v1.0 L34-30,Starlink v1.0 L34-31,Starlink v1.0 L34-32,Starlink v1.0 L34-33,Starlink v1.0 L34-34,Starlink v1.0 L34-35,Starlink v1.0 L34-36,Starlink v1.0 L34-37,Starlink v1.0 L34-38,Starlink v1.0 L34-39,Starlink v1.0 L34-40,Starlink v1.0 L34-41,Starlink v1.0 L34-42,Starlink v1.0 L34-43,Starlink v1.0 L34-44,Starlink v1.0 L34-45,Starlink v1.0 L34-46,Starlink v1.0 L34-47,Starlink v1.0 L34-48,Starlink v1.0 L34-49,Starlink v1.0 L34-50,Starlink v1.0 L34-51,Starlink v1.0 L34-52,Starlink v1.0 L34-53,Starlink v1.0 L34-54,Starlink v1.0 L34-55,Starlink v1.0 L34-56,Starlink v1.0 L34-57,Starlink v1.0 L34-58,Starlink v1.0 L34-59,Starlink v1.0 L34-60",
+    "payload": [
+        "Starlink v1.0 L34-1",
+        "Starlink v1.0 L34-2",
+        "Starlink v1.0 L34-3",
+        "Starlink v1.0 L34-4",
+        "Starlink v1.0 L34-5",
+        "Starlink v1.0 L34-6",
+        "Starlink v1.0 L34-7",
+        "Starlink v1.0 L34-8",
+        "Starlink v1.0 L34-9",
+        "Starlink v1.0 L34-10",
+        "Starlink v1.0 L34-11",
+        "Starlink v1.0 L34-12",
+        "Starlink v1.0 L34-13",
+        "Starlink v1.0 L34-14",
+        "Starlink v1.0 L34-15",
+        "Starlink v1.0 L34-16",
+        "Starlink v1.0 L34-17",
+        "Starlink v1.0 L34-18",
+        "Starlink v1.0 L34-19",
+        "Starlink v1.0 L34-20",
+        "Starlink v1.0 L34-21",
+        "Starlink v1.0 L34-22",
+        "Starlink v1.0 L34-23",
+        "Starlink v1.0 L34-24",
+        "Starlink v1.0 L34-25",
+        "Starlink v1.0 L34-26",
+        "Starlink v1.0 L34-27",
+        "Starlink v1.0 L34-28",
+        "Starlink v1.0 L34-29",
+        "Starlink v1.0 L34-30",
+        "Starlink v1.0 L34-31",
+        "Starlink v1.0 L34-32",
+        "Starlink v1.0 L34-33",
+        "Starlink v1.0 L34-34",
+        "Starlink v1.0 L34-35",
+        "Starlink v1.0 L34-36",
+        "Starlink v1.0 L34-37",
+        "Starlink v1.0 L34-38",
+        "Starlink v1.0 L34-39",
+        "Starlink v1.0 L34-40",
+        "Starlink v1.0 L34-41",
+        "Starlink v1.0 L34-42",
+        "Starlink v1.0 L34-43",
+        "Starlink v1.0 L34-44",
+        "Starlink v1.0 L34-45",
+        "Starlink v1.0 L34-46",
+        "Starlink v1.0 L34-47",
+        "Starlink v1.0 L34-48",
+        "Starlink v1.0 L34-49",
+        "Starlink v1.0 L34-50",
+        "Starlink v1.0 L34-51",
+        "Starlink v1.0 L34-52",
+        "Starlink v1.0 L34-53",
+        "Starlink v1.0 L34-54",
+        "Starlink v1.0 L34-55",
+        "Starlink v1.0 L34-56",
+        "Starlink v1.0 L34-57",
+        "Starlink v1.0 L34-58",
+        "Starlink v1.0 L34-59",
+        "Starlink v1.0 L34-60"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -1169,7 +3565,100 @@
 "-": {
     "id": "-",
     "date": "xx.12.2021",
-    "payload": "Umbra 02,Capella 7 (Capella Whitney 5),Capella 8 (Capella Whitney 6),Sich 2-1,Flock-4x 1,Flock-4x 2,Flock-4x 3,Flock-4x 4,Flock-4x 5,Flock-4x 6,Flock-4x 7,Flock-4x 8,Flock-4x 9,Flock-4x 10,Flock-4x 11,Flock-4x 12,Flock-4x 13,Flock-4x 14,Flock-4x 15,Flock-4x 16,Flock-4x 17,Flock-4x 18,Flock-4x 19,Flock-4x 20,Flock-4x 21,Flock-4x 22,Flock-4x 23,Flock-4x 24,Flock-4x 25,Flock-4x 26,Flock-4x 27,Flock-4x 28,Flock-4x 29,Flock-4x 30,Flock-4x 31,Flock-4x 32,Flock-4x 33,Flock-4x 34,Flock-4x 35,Flock-4x 36,Flock-4x 37,Flock-4x 38,Flock-4x 39,Flock-4x 40,Flock-4x 41,Flock-4x 42,Flock-4x 43,Flock-4x 44,,\tCShark Pilot 1,\tWISeSAT 1,\tWISeSAT 2,\t?,\t?,\tMDQube-SAT 1,\tSATTLA 2,\tPION-BR 1,DelfiPQ 1,\tGrizu-263a,\tUnicorn 2D,\tUnicorn 2E,\tHades,\tEASat 2,Unicorn 1,\tPyCubed 1,\tTartan Artibeus,ION-SCV 004,Guardian,Sherpa-FX 3,Lynk 05,Hawk 4A,Hawk 4B,Hawk 4C,WVSat A,WVSat B,WVSat C,WVSat D,\tSherpa-LTC 1,Hawk 5A,Hawk 5B,Hawk 5C,KSF 2A (PPM 1A),KSF 2B (PPM 1B),KSF 2C (PPM 1C),KSF 2D (PPM 1D),LLITED 1,LLITED 2,MA61C,OreSat 0,VZLUsat 2,GT 1,Mars Outpost Demo",
+    "payload": [
+        "Umbra 02",
+        "Capella 7 (Capella Whitney 5)",
+        "Capella 8 (Capella Whitney 6)",
+        "Sich 2-1",
+        "Flock-4x 1",
+        "Flock-4x 2",
+        "Flock-4x 3",
+        "Flock-4x 4",
+        "Flock-4x 5",
+        "Flock-4x 6",
+        "Flock-4x 7",
+        "Flock-4x 8",
+        "Flock-4x 9",
+        "Flock-4x 10",
+        "Flock-4x 11",
+        "Flock-4x 12",
+        "Flock-4x 13",
+        "Flock-4x 14",
+        "Flock-4x 15",
+        "Flock-4x 16",
+        "Flock-4x 17",
+        "Flock-4x 18",
+        "Flock-4x 19",
+        "Flock-4x 20",
+        "Flock-4x 21",
+        "Flock-4x 22",
+        "Flock-4x 23",
+        "Flock-4x 24",
+        "Flock-4x 25",
+        "Flock-4x 26",
+        "Flock-4x 27",
+        "Flock-4x 28",
+        "Flock-4x 29",
+        "Flock-4x 30",
+        "Flock-4x 31",
+        "Flock-4x 32",
+        "Flock-4x 33",
+        "Flock-4x 34",
+        "Flock-4x 35",
+        "Flock-4x 36",
+        "Flock-4x 37",
+        "Flock-4x 38",
+        "Flock-4x 39",
+        "Flock-4x 40",
+        "Flock-4x 41",
+        "Flock-4x 42",
+        "Flock-4x 43",
+        "Flock-4x 44",
+        "",
+        "\tCShark Pilot 1",
+        "\tWISeSAT 1",
+        "\tWISeSAT 2",
+        "\t?",
+        "\t?",
+        "\tMDQube-SAT 1",
+        "\tSATTLA 2",
+        "\tPION-BR 1",
+        "DelfiPQ 1",
+        "\tGrizu-263a",
+        "\tUnicorn 2D",
+        "\tUnicorn 2E",
+        "\tHades",
+        "\tEASat 2",
+        "Unicorn 1",
+        "\tPyCubed 1",
+        "\tTartan Artibeus",
+        "ION-SCV 004",
+        "Guardian",
+        "Sherpa-FX 3",
+        "Lynk 05",
+        "Hawk 4A",
+        "Hawk 4B",
+        "Hawk 4C",
+        "WVSat A",
+        "WVSat B",
+        "WVSat C",
+        "WVSat D",
+        "\tSherpa-LTC 1",
+        "Hawk 5A",
+        "Hawk 5B",
+        "Hawk 5C",
+        "KSF 2A (PPM 1A)",
+        "KSF 2B (PPM 1B)",
+        "KSF 2C (PPM 1C)",
+        "KSF 2D (PPM 1D)",
+        "LLITED 1",
+        "LLITED 2",
+        "MA61C",
+        "OreSat 0",
+        "VZLUsat 2",
+        "GT 1",
+        "Mars Outpost Demo"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
     "remark": "success"
@@ -1177,7 +3666,14 @@
 "-": {
     "id": "-",
     "date": "xx.12.2021",
-    "payload": "AuroraSat 1,Unicorn 2A,\tMyRadar 1,TRSI 2,TRSI 3,",
+    "payload": [
+        "AuroraSat 1",
+        "Unicorn 2A",
+        "\tMyRadar 1",
+        "TRSI 2",
+        "TRSI 3",
+        ""
+    ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1A",
     "remark": "success"
@@ -1185,15 +3681,9 @@
 "-": {
     "id": "-",
     "date": "xx.4Q.2021",
-    "payload": "SES 17,Syracuse 4A (Comsat-NG 1)",
-    "lauchVehicle": "Ariane-5ECA+",
-    "site": "Ko ELA-3",
-    "remark": "success"
-},
-"-": {
-    "id": "-",
-    "date": "xx.4Q.2021",
-    "payload": "Türksat 5B",
+    "payload": [
+        "Türksat 5B"
+    ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
     "remark": "success"
@@ -1201,7 +3691,10 @@
 "-": {
     "id": "-",
     "date": "xx.4Q.2021",
-    "payload": "(L2 Aerospace 1),\t(L2 Aerospace 2)",
+    "payload": [
+        "(L2 Aerospace 1)",
+        "\t(L2 Aerospace 2)"
+    ],
     "lauchVehicle": "RS1",
     "site": "Kd LP-3B",
     "remark": "Version 1st flight"
@@ -1209,7 +3702,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "ALOS 3",
+    "payload": [
+        "ALOS 3"
+    ],
     "lauchVehicle": "H-3-22S",
     "site": "Ta YLP-2",
     "remark": "Version 1st flight"
@@ -1217,7 +3712,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Carbonite 4 (CBNT 4)",
+    "payload": [
+        "Carbonite 4 (CBNT 4)"
+    ],
     "lauchVehicle": "Firefly-Alpha",
     "site": "Va SLC-2W",
     "remark": "success"
@@ -1225,7 +3722,14 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "JSBT,\tXiangrikui 1A,\tXiangrikui 1B,\tYijian Duoxing,TY 4,\tZhongwei 1",
+    "payload": [
+        "JSBT",
+        "\tXiangrikui 1A",
+        "\tXiangrikui 1B",
+        "\tYijian Duoxing",
+        "TY 4",
+        "\tZhongwei 1"
+    ],
     "lauchVehicle": "Kuaizhou-11",
     "site": "TY",
     "remark": "success"
@@ -1233,7 +3737,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Kosmos 25xx (Bars-M #3)",
+    "payload": [
+        "Kosmos 25xx (Bars-M #3)"
+    ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Pl LC-43/4",
     "remark": "success"
@@ -1241,7 +3747,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Kosmos 25xx (Labirint #1)",
+    "payload": [
+        "Kosmos 25xx (Labirint #1)"
+    ],
     "lauchVehicle": "Soyuz-2-1b",
     "site": "Pl",
     "remark": "success"
@@ -1249,7 +3757,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Kosmos 25xx (Neitron #1)",
+    "payload": [
+        "Kosmos 25xx (Neitron #1)"
+    ],
     "lauchVehicle": "Soyuz-2-1a Fregat",
     "site": "Pl",
     "remark": "success"
@@ -1257,7 +3767,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Kosmos 25xx (Uragan-K #4, GLONASS-K 16L)",
+    "payload": [
+        "Kosmos 25xx (Uragan-K #4, GLONASS-K 16L)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Pl",
     "remark": "success"
@@ -1265,7 +3777,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Kosmos 25xx (Uragan-K #5, GLONASS-K 17L)",
+    "payload": [
+        "Kosmos 25xx (Uragan-K #5, GLONASS-K 17L)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Pl",
     "remark": "success"
@@ -1273,7 +3787,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Kosmos 25xx (Uragan-K2 #1, GLONASS-K2 13L)",
+    "payload": [
+        "Kosmos 25xx (Uragan-K2 #1, GLONASS-K2 13L)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Pl",
     "remark": "success"
@@ -1281,7 +3797,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Kosmos 25xx (Uragan-M #52, GLONASS-M №761)",
+    "payload": [
+        "Kosmos 25xx (Uragan-M #52, GLONASS-M №761)"
+    ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Pl",
     "remark": "success"
@@ -1289,7 +3807,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Meridian-M 10 (20L)",
+    "payload": [
+        "Meridian-M 10 (20L)"
+    ],
     "lauchVehicle": "Soyuz-2-1a Fregat",
     "site": "Pl LC-43/x",
     "remark": "success"
@@ -1297,7 +3817,10 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Qilu 2,\tQilu 3",
+    "payload": [
+        "Qilu 2",
+        "\tQilu 3"
+    ],
     "lauchVehicle": "CZ-6",
     "site": "TY LC-16",
     "remark": "success"
@@ -1305,7 +3828,17 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "RAISE 2,Hibari,Z-Sat,DRUMS,TeikyoSat 4 (Ooruri),ASTERISC,NanoDragon,KOSEN 1,ARICA",
+    "payload": [
+        "RAISE 2",
+        "Hibari",
+        "Z-Sat",
+        "DRUMS",
+        "TeikyoSat 4 (Ooruri)",
+        "ASTERISC",
+        "NanoDragon",
+        "KOSEN 1",
+        "ARICA"
+    ],
     "lauchVehicle": "Epsilon (2) CLPS",
     "site": "Ka LP-M",
     "remark": "success"
@@ -1313,7 +3846,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "SJ 19",
+    "payload": [
+        "SJ 19"
+    ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "Jq LC-43/94",
     "remark": "success"
@@ -1321,7 +3856,9 @@
 "-": {
     "id": "-",
     "date": "xx.08.2021",
-    "payload": "Starliner OFT-2 (Starliner SC-2 F1)",
+    "payload": [
+        "Starliner OFT-2 (Starliner SC-2 F1)"
+    ],
     "lauchVehicle": "Atlas-5(N22)",
     "site": "CC SLC-41",
     "remark": "success"
@@ -1329,7 +3866,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Starship S20",
+    "payload": [
+        "Starship S20"
+    ],
     "lauchVehicle": "Starship B4/S20",
     "site": "BC OLP-1",
     "remark": "Version 1st flight"
@@ -1337,7 +3876,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Tadbir",
+    "payload": [
+        "Tadbir"
+    ],
     "lauchVehicle": "Safir-1B",
     "site": "Sem LP-1",
     "remark": "success"
@@ -1345,7 +3886,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Tianhui 3",
+    "payload": [
+        "Tianhui 3"
+    ],
     "lauchVehicle": "CZ-3B/G3",
     "site": "Xi",
     "remark": "success"
@@ -1353,7 +3896,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "XJY 6-02",
+    "payload": [
+        "XJY 6-02"
+    ],
     "lauchVehicle": "CZ-7A",
     "site": "We LC-201",
     "remark": "success"
@@ -1361,7 +3906,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Zafar 2",
+    "payload": [
+        "Zafar 2"
+    ],
     "lauchVehicle": "Simorgh",
     "site": "Sem LP-2",
     "remark": "success"
@@ -1369,7 +3916,11 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "PAN A,PAN B,\t(8 small satellites, STP-27VP)",
+    "payload": [
+        "PAN A",
+        "PAN B",
+        "\t(8 small satellites, STP-27VP)"
+    ],
     "lauchVehicle": "LauncherOne",
     "site": "Gu, B-747-400, RW06LR/24RL",
     "remark": "success"
@@ -1377,7 +3928,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "?",
+    "payload": [
+        "?"
+    ],
     "lauchVehicle": "CZ-11",
     "site": "Xi",
     "remark": "success"
@@ -1385,7 +3938,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "Microsat 2A (EOS 02)",
+    "payload": [
+        "Microsat 2A (EOS 02)"
+    ],
     "lauchVehicle": "SSLV",
     "site": "Sr FLP",
     "remark": "Version 1st flight"
@@ -1393,7 +3948,9 @@
 "-": {
     "id": "-",
     "date": "xx.xx.2021",
-    "payload": "IRNSS 1J (NVS 01)",
+    "payload": [
+        "IRNSS 1J (NVS 01)"
+    ],
     "lauchVehicle": "GSLV Mk.2(4)",
     "site": "Sr SLP",
     "remark": "success"
