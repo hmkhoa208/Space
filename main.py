@@ -14,13 +14,13 @@ def getSoup(site):
 	return soup
 
 class Lauch:
-	def __init__(self, id, date, payload, lauchVehicle, site, remark):
+	def __init__(self, id, date, payload, lauchVehicle, site, status):
 		self.id = id
 		self.date = date
 		self.payload = payload
 		self.lauchVehicle = lauchVehicle
 		self.site = site
-		self.remark = remark
+		self.status = status
 
 	def toJSON(self):
 		return json.dumps(self, default=lambda o: o.__dict__, sort_keys=False, indent=4, ensure_ascii=False)
@@ -31,7 +31,7 @@ class Lauch:
 		print(self.payload)
 		print(self.lauchVehicle)
 		print(self.site)
-		print(self.remark)
+		print(self.status)
 
 def getLauchData():
 	soup = getSoup('https://space.skyrocket.de/doc_chr/lau2021.htm')
@@ -43,18 +43,21 @@ def getLauchData():
 		all_td = tr.find_all('td')
 		if len(all_td) == 6:
 
+			# get payload array from html text
 			if all_td[2].text != '':
 				payloadArr = all_td[2].text.split("\n")
 			else:
 				payloadArr = []
 
-			status = 'success'
-			if all_td[5].text == 'failed':
-				status = 'failed'
+			# get status dict from html text
+			remark = 'success'
+			if all_td[5].text != '':
+				remark = all_td[5].text
 
-			remark = {"id": all_td[0].text, "status": status}
+			status = {"ID": all_td[0].text, "Date": all_td[1].text, "Payload(s)": payloadArr, "LaunchVehicle": all_td[3].text, "Site": all_td[4].text, "Remark": remark}
 			
-			launch = Lauch(all_td[0].text, all_td[1].text, payloadArr, all_td[3].text, all_td[4].text, remark)
+			#create launch from html text, payload array and status dict
+			launch = Lauch(all_td[0].text, all_td[1].text, payloadArr, all_td[3].text, all_td[4].text, status)
 			# if launch.remark == '':
 			# 	launch.remark = 'success'
 			launchArr.append(launch)
