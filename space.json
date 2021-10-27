@@ -6,7 +6,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-001",
+        "status": "success"
+    }
 },
 "2021-002": {
     "id": "2021-002",
@@ -27,7 +30,10 @@
     ],
     "lauchVehicle": "LauncherOne",
     "site": "Mo, B-747-400, RW12/30",
-    "remark": "success"
+    "remark": {
+        "id": "2021-002",
+        "status": "success"
+    }
 },
 "2021-003": {
     "id": "2021-003",
@@ -37,7 +43,10 @@
     ],
     "lauchVehicle": "CZ-3B/G3",
     "site": "Xi LC-2",
-    "remark": "success"
+    "remark": {
+        "id": "2021-003",
+        "status": "success"
+    }
 },
 "2021-004": {
     "id": "2021-004",
@@ -47,7 +56,10 @@
     ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-004",
+        "status": "success"
+    }
 },
 "2021-005": {
     "id": "2021-005",
@@ -116,7 +128,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-005",
+        "status": "success"
+    }
 },
 "2021-006": {
     "id": "2021-006",
@@ -268,7 +283,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-006",
+        "status": "success"
+    }
 },
 "2021-007": {
     "id": "2021-007",
@@ -280,7 +298,10 @@
     ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-007",
+        "status": "success"
+    }
 },
 "2021-F01": {
     "id": "2021-F01",
@@ -290,7 +311,10 @@
     ],
     "lauchVehicle": "Hyperbola-1(2) (Shian Quxian-1(2))",
     "site": "Jq LC-43/95B",
-    "remark": "Failed"
+    "remark": {
+        "id": "2021-F01",
+        "status": "success"
+    }
 },
 "2021-008": {
     "id": "2021-008",
@@ -300,7 +324,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b",
     "site": "Pl LC-43/4",
-    "remark": "success"
+    "remark": {
+        "id": "2021-008",
+        "status": "success"
+    }
 },
 "2021-009": {
     "id": "2021-009",
@@ -369,7 +396,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-009",
+        "status": "success"
+    }
 },
 "2021-010": {
     "id": "2021-010",
@@ -379,7 +409,10 @@
     ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-010",
+        "status": "success"
+    }
 },
 "2021-011": {
     "id": "2021-011",
@@ -389,7 +422,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-011",
+        "status": "success"
+    }
 },
 "2021-012": {
     "id": "2021-012",
@@ -458,7 +494,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-012",
+        "status": "success"
+    }
 },
 "2021-013": {
     "id": "2021-013",
@@ -492,7 +531,10 @@
     ],
     "lauchVehicle": "Antares-230+",
     "site": "WI LA-0A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-013",
+        "status": "success"
+    }
 },
 "2021-014": {
     "id": "2021-014",
@@ -504,7 +546,10 @@
     ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-014",
+        "status": "success"
+    }
 },
 "2021-015": {
     "id": "2021-015",
@@ -532,7 +577,10 @@
     ],
     "lauchVehicle": "PSLV-DL",
     "site": "Sr FLP",
-    "remark": "success"
+    "remark": {
+        "id": "2021-015",
+        "status": "success"
+    }
 },
 "2021-016": {
     "id": "2021-016",
@@ -542,7 +590,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-016",
+        "status": "success"
+    }
 },
 "2021-017": {
     "id": "2021-017",
@@ -611,7 +662,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-017",
+        "status": "success"
+    }
 },
 "2021-018": {
     "id": "2021-018",
@@ -680,7 +734,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-018",
+        "status": "success"
+    }
 },
 "2021-019": {
     "id": "2021-019",
@@ -690,7 +747,10 @@
     ],
     "lauchVehicle": "CZ-7A",
     "site": "We LC-201",
-    "remark": "success"
+    "remark": {
+        "id": "2021-019",
+        "status": "success"
+    }
 },
 "2021-020": {
     "id": "2021-020",
@@ -702,7 +762,10 @@
     ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-020",
+        "status": "success"
+    }
 },
 "2021-021": {
     "id": "2021-021",
@@ -771,7 +834,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-021",
+        "status": "success"
+    }
 },
 "2021-022": {
     "id": "2021-022",
@@ -818,7 +884,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a Fregat",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-022",
+        "status": "success"
+    }
 },
 "2021-023": {
     "id": "2021-023",
@@ -835,7 +904,10 @@
     ],
     "lauchVehicle": "Electron Photon-LEO",
     "site": "OnS LC-1A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-023",
+        "status": "success"
+    }
 },
 "2021-024": {
     "id": "2021-024",
@@ -904,7 +976,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-024",
+        "status": "success"
+    }
 },
 "2021-025": {
     "id": "2021-025",
@@ -949,7 +1024,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
-    "remark": "success"
+    "remark": {
+        "id": "2021-025",
+        "status": "success"
+    }
 },
 "2021-026": {
     "id": "2021-026",
@@ -959,7 +1037,10 @@
     ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-026",
+        "status": "success"
+    }
 },
 "2021-027": {
     "id": "2021-027",
@@ -1028,7 +1109,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-027",
+        "status": "success"
+    }
 },
 "2021-028": {
     "id": "2021-028",
@@ -1038,7 +1122,10 @@
     ],
     "lauchVehicle": "CZ-4B",
     "site": "TY LC-9",
-    "remark": "success"
+    "remark": {
+        "id": "2021-028",
+        "status": "success"
+    }
 },
 "2021-029": {
     "id": "2021-029",
@@ -1048,7 +1135,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-029",
+        "status": "success"
+    }
 },
 "2021-030": {
     "id": "2021-030",
@@ -1058,7 +1148,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-030",
+        "status": "success"
+    }
 },
 "2021-031": {
     "id": "2021-031",
@@ -1103,7 +1196,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
-    "remark": "success"
+    "remark": {
+        "id": "2021-031",
+        "status": "success"
+    }
 },
 "2021-032": {
     "id": "2021-032",
@@ -1113,7 +1209,10 @@
     ],
     "lauchVehicle": "Delta-4H (upg.)",
     "site": "Va SLC-6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-032",
+        "status": "success"
+    }
 },
 "2021-033": {
     "id": "2021-033",
@@ -1131,7 +1230,10 @@
     ],
     "lauchVehicle": "CZ-6",
     "site": "TY LC-16",
-    "remark": "success"
+    "remark": {
+        "id": "2021-033",
+        "status": "success"
+    }
 },
 "2021-034": {
     "id": "2021-034",
@@ -1146,7 +1248,10 @@
     ],
     "lauchVehicle": "Vega",
     "site": "Ko ELV",
-    "remark": "success"
+    "remark": {
+        "id": "2021-034",
+        "status": "success"
+    }
 },
 "2021-035": {
     "id": "2021-035",
@@ -1156,7 +1261,10 @@
     ],
     "lauchVehicle": "CZ-5B",
     "site": "We LC-101",
-    "remark": "success"
+    "remark": {
+        "id": "2021-035",
+        "status": "success"
+    }
 },
 "2021-036": {
     "id": "2021-036",
@@ -1225,7 +1333,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-036",
+        "status": "success"
+    }
 },
 "2021-037": {
     "id": "2021-037",
@@ -1235,7 +1346,10 @@
     ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-037",
+        "status": "success"
+    }
 },
 "2021-038": {
     "id": "2021-038",
@@ -1304,7 +1418,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-038",
+        "status": "success"
+    }
 },
 "2021-039": {
     "id": "2021-039",
@@ -1317,7 +1434,10 @@
     ],
     "lauchVehicle": "CZ-2C (3)",
     "site": "Xi LC-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-039",
+        "status": "success"
+    }
 },
 "2021-040": {
     "id": "2021-040",
@@ -1386,7 +1506,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-040",
+        "status": "success"
+    }
 },
 "2021-F02": {
     "id": "2021-F02",
@@ -1397,7 +1520,10 @@
     ],
     "lauchVehicle": "Electron KS (R)",
     "site": "OnS LC-1A",
-    "remark": "Failed"
+    "remark": {
+        "id": "2021-F02",
+        "status": "success"
+    }
 },
 "2021-041": {
     "id": "2021-041",
@@ -1460,7 +1586,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-041",
+        "status": "success"
+    }
 },
 "2021-042": {
     "id": "2021-042",
@@ -1472,7 +1601,10 @@
     ],
     "lauchVehicle": "Atlas-5(421)¹",
     "site": "CC SLC-41",
-    "remark": "success"
+    "remark": {
+        "id": "2021-042",
+        "status": "success"
+    }
 },
 "2021-043": {
     "id": "2021-043",
@@ -1482,7 +1614,10 @@
     ],
     "lauchVehicle": "CZ-4B",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-043",
+        "status": "success"
+    }
 },
 "2021-044": {
     "id": "2021-044",
@@ -1551,7 +1686,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-044",
+        "status": "success"
+    }
 },
 "2021-045": {
     "id": "2021-045",
@@ -1596,7 +1734,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
-    "remark": "success"
+    "remark": {
+        "id": "2021-045",
+        "status": "success"
+    }
 },
 "2021-046": {
     "id": "2021-046",
@@ -1606,7 +1747,10 @@
     ],
     "lauchVehicle": "CZ-7",
     "site": "We LC-201",
-    "remark": "success"
+    "remark": {
+        "id": "2021-046",
+        "status": "success"
+    }
 },
 "2021-047": {
     "id": "2021-047",
@@ -1616,7 +1760,10 @@
     ],
     "lauchVehicle": "CZ-3B/G3",
     "site": "Xi LC-2",
-    "remark": "success"
+    "remark": {
+        "id": "2021-047",
+        "status": "success"
+    }
 },
 "2021-048": {
     "id": "2021-048",
@@ -1632,7 +1779,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-048",
+        "status": "success"
+    }
 },
 "2021-049": {
     "id": "2021-049",
@@ -1642,7 +1792,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-049",
+        "status": "success"
+    }
 },
 "2021-050": {
     "id": "2021-050",
@@ -1655,7 +1808,10 @@
     ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "TY LC-9",
-    "remark": "success"
+    "remark": {
+        "id": "2021-050",
+        "status": "success"
+    }
 },
 "2021-F03": {
     "id": "2021-F03",
@@ -1665,7 +1821,10 @@
     ],
     "lauchVehicle": "Simorgh ?",
     "site": "Sem LP-2",
-    "remark": "failed"
+    "remark": {
+        "id": "2021-F03",
+        "status": "failed"
+    }
 },
 "2021-051": {
     "id": "2021-051",
@@ -1675,7 +1834,10 @@
     ],
     "lauchVehicle": "Pegasus-XL",
     "site": "Va, L-1011, RW30/12",
-    "remark": "success"
+    "remark": {
+        "id": "2021-051",
+        "status": "success"
+    }
 },
 "2021-052": {
     "id": "2021-052",
@@ -1687,7 +1849,10 @@
     ],
     "lauchVehicle": "Minotaur-1",
     "site": "WI LA-0B",
-    "remark": "success"
+    "remark": {
+        "id": "2021-052",
+        "status": "success"
+    }
 },
 "2021-053": {
     "id": "2021-053",
@@ -1697,7 +1862,10 @@
     ],
     "lauchVehicle": "CZ-2F/G",
     "site": "Jq LC-43/91",
-    "remark": "success"
+    "remark": {
+        "id": "2021-053",
+        "status": "success"
+    }
 },
 "2021-054": {
     "id": "2021-054",
@@ -1707,7 +1875,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-054",
+        "status": "success"
+    }
 },
 "2021-055": {
     "id": "2021-055",
@@ -1720,7 +1891,10 @@
     ],
     "lauchVehicle": "CZ-2C (3)",
     "site": "Xi LC-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-055",
+        "status": "success"
+    }
 },
 "2021-F04": {
     "id": "2021-F04",
@@ -1730,7 +1904,10 @@
     ],
     "lauchVehicle": "Simorgh ?",
     "site": "Sem LP-2",
-    "remark": "failed / not confirmed"
+    "remark": {
+        "id": "2021-F04",
+        "status": "success"
+    }
 },
 "2021-056": {
     "id": "2021-056",
@@ -1740,7 +1917,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b",
     "site": "Pl LC-43/4",
-    "remark": "success"
+    "remark": {
+        "id": "2021-056",
+        "status": "success"
+    }
 },
 "2021-057": {
     "id": "2021-057",
@@ -1750,7 +1930,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-057",
+        "status": "success"
+    }
 },
 "2021-058": {
     "id": "2021-058",
@@ -1766,7 +1949,10 @@
     ],
     "lauchVehicle": "LauncherOne",
     "site": "Mo, B-747-400, RW12/30",
-    "remark": "success"
+    "remark": {
+        "id": "2021-058",
+        "status": "success"
+    }
 },
 "2021-059": {
     "id": "2021-059",
@@ -1863,7 +2049,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC SLC-40",
-    "remark": "success"
+    "remark": {
+        "id": "2021-059",
+        "status": "success"
+    }
 },
 "2021-060": {
     "id": "2021-060",
@@ -1908,7 +2097,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
-    "remark": "success"
+    "remark": {
+        "id": "2021-060",
+        "status": "success"
+    }
 },
 "2021-061": {
     "id": "2021-061",
@@ -1922,7 +2114,10 @@
     ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "TY LC-9",
-    "remark": "success"
+    "remark": {
+        "id": "2021-061",
+        "status": "success"
+    }
 },
 "2021-062": {
     "id": "2021-062",
@@ -1932,7 +2127,10 @@
     ],
     "lauchVehicle": "CZ-4C",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-062",
+        "status": "success"
+    }
 },
 "2021-063": {
     "id": "2021-063",
@@ -1942,7 +2140,10 @@
     ],
     "lauchVehicle": "CZ-3C/G2",
     "site": "Xi LC-2",
-    "remark": "success"
+    "remark": {
+        "id": "2021-063",
+        "status": "success"
+    }
 },
 "2021-064": {
     "id": "2021-064",
@@ -1956,7 +2157,10 @@
     ],
     "lauchVehicle": "CZ-6",
     "site": "TY LC-16",
-    "remark": "success"
+    "remark": {
+        "id": "2021-064",
+        "status": "success"
+    }
 },
 "2021-065": {
     "id": "2021-065",
@@ -1969,7 +2173,10 @@
     ],
     "lauchVehicle": "CZ-2C (3)",
     "site": "Xi LC-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-065",
+        "status": "success"
+    }
 },
 "2021-066": {
     "id": "2021-066",
@@ -1979,7 +2186,10 @@
     ],
     "lauchVehicle": "Proton-M",
     "site": "Ba LC-200/39",
-    "remark": "success"
+    "remark": {
+        "id": "2021-066",
+        "status": "success"
+    }
 },
 "2021-067": {
     "id": "2021-067",
@@ -1989,7 +2199,10 @@
     ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-067",
+        "status": "success"
+    }
 },
 "2021-068": {
     "id": "2021-068",
@@ -1999,7 +2212,10 @@
     ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-068",
+        "status": "success"
+    }
 },
 "2021-069": {
     "id": "2021-069",
@@ -2010,7 +2226,10 @@
     ],
     "lauchVehicle": "Ariane-5ECA+",
     "site": "Ko ELA-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-069",
+        "status": "success"
+    }
 },
 "2021-F05": {
     "id": "2021-F05",
@@ -2020,7 +2239,10 @@
     ],
     "lauchVehicle": "Hyperbola-1(2) (Shian Quxian-1(2))",
     "site": "Jq LC-43/95A",
-    "remark": "Failed"
+    "remark": {
+        "id": "2021-F05",
+        "status": "success"
+    }
 },
 "2021-070": {
     "id": "2021-070",
@@ -2031,7 +2253,10 @@
     ],
     "lauchVehicle": "CZ-6",
     "site": "TY LC-16",
-    "remark": "success"
+    "remark": {
+        "id": "2021-070",
+        "status": "success"
+    }
 },
 "2021-071": {
     "id": "2021-071",
@@ -2041,7 +2266,10 @@
     ],
     "lauchVehicle": "CZ-3B/G3",
     "site": "Xi LC-2",
-    "remark": "success"
+    "remark": {
+        "id": "2021-071",
+        "status": "success"
+    }
 },
 "2021-072": {
     "id": "2021-072",
@@ -2052,7 +2280,10 @@
     ],
     "lauchVehicle": "Antares-230+",
     "site": "WI LA-0A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-072",
+        "status": "success"
+    }
 },
 "2021-F06": {
     "id": "2021-F06",
@@ -2062,7 +2293,10 @@
     ],
     "lauchVehicle": "GSLV Mk.2(4)",
     "site": "Sr SLP",
-    "remark": "Version 1st flight / failure"
+    "remark": {
+        "id": "2021-F06",
+        "status": "success"
+    }
 },
 "2021-073": {
     "id": "2021-073",
@@ -2076,7 +2310,10 @@
     ],
     "lauchVehicle": "Vega",
     "site": "Ko ELV",
-    "remark": "success"
+    "remark": {
+        "id": "2021-073",
+        "status": "success"
+    }
 },
 "2021-074": {
     "id": "2021-074",
@@ -2087,7 +2324,10 @@
     ],
     "lauchVehicle": "CZ-4B",
     "site": "TY LC-9",
-    "remark": "success"
+    "remark": {
+        "id": "2021-074",
+        "status": "success"
+    }
 },
 "2021-075": {
     "id": "2021-075",
@@ -2130,7 +2370,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-075",
+        "status": "success"
+    }
 },
 "2021-076": {
     "id": "2021-076",
@@ -2142,7 +2385,10 @@
     ],
     "lauchVehicle": "CZ-2C (3) YZ-1S",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "2021-076",
+        "status": "success"
+    }
 },
 "2021-077": {
     "id": "2021-077",
@@ -2152,7 +2398,10 @@
     ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-077",
+        "status": "success"
+    }
 },
 "2021-F07": {
     "id": "2021-F07",
@@ -2162,7 +2411,10 @@
     ],
     "lauchVehicle": "Astra Rocket-3.3",
     "site": "Kd LP-3B",
-    "remark": "Failed"
+    "remark": {
+        "id": "2021-F07",
+        "status": "success"
+    }
 },
 "2021-078": {
     "id": "2021-078",
@@ -2180,7 +2432,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-078",
+        "status": "success"
+    }
 },
 "2021-U01": {
     "id": "2021-U01",
@@ -2190,7 +2445,10 @@
     ],
     "lauchVehicle": "CZ-2C (3) ?",
     "site": "TY or Jq",
-    "remark": "Note: Unclear if this launch is real"
+    "remark": {
+        "id": "2021-U01",
+        "status": "success"
+    }
 },
 "2021-F08": {
     "id": "2021-F08",
@@ -2209,7 +2467,10 @@
     ],
     "lauchVehicle": "Firefly-Alpha",
     "site": "Va SLC-2W",
-    "remark": "Version 1st flight / failed"
+    "remark": {
+        "id": "2021-F08",
+        "status": "success"
+    }
 },
 "2021-079": {
     "id": "2021-079",
@@ -2219,7 +2480,10 @@
     ],
     "lauchVehicle": "CZ-4C",
     "site": "TY LC-9",
-    "remark": "success"
+    "remark": {
+        "id": "2021-079",
+        "status": "success"
+    }
 },
 "2021-080": {
     "id": "2021-080",
@@ -2229,7 +2493,10 @@
     ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-080",
+        "status": "success"
+    }
 },
 "2021-081": {
     "id": "2021-081",
@@ -2239,7 +2506,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1v",
     "site": "Pl LC-43/4",
-    "remark": "success"
+    "remark": {
+        "id": "2021-081",
+        "status": "success"
+    }
 },
 "2021-082": {
     "id": "2021-082",
@@ -2299,7 +2569,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
-    "remark": "success"
+    "remark": {
+        "id": "2021-082",
+        "status": "success"
+    }
 },
 "2021-083": {
     "id": "2021-083",
@@ -2342,7 +2615,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-083",
+        "status": "success"
+    }
 },
 "2021-084": {
     "id": "2021-084",
@@ -2352,7 +2628,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "2021-084",
+        "status": "success"
+    }
 },
 "2021-085": {
     "id": "2021-085",
@@ -2362,7 +2641,10 @@
     ],
     "lauchVehicle": "CZ-7",
     "site": "We LC-201",
-    "remark": "success"
+    "remark": {
+        "id": "2021-085",
+        "status": "success"
+    }
 },
 "2021-086": {
     "id": "2021-086",
@@ -2372,7 +2654,10 @@
     ],
     "lauchVehicle": "Kuaizhou-1A",
     "site": "Jq",
-    "remark": "success"
+    "remark": {
+        "id": "2021-086",
+        "status": "success"
+    }
 },
 "2021-087": {
     "id": "2021-087",
@@ -2382,7 +2667,10 @@
     ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-087",
+        "status": "success"
+    }
 },
 "2021-088": {
     "id": "2021-088",
@@ -2396,7 +2684,10 @@
     ],
     "lauchVehicle": "Atlas-5(401)",
     "site": "Va SLC-3E",
-    "remark": "success"
+    "remark": {
+        "id": "2021-088",
+        "status": "success"
+    }
 },
 "2021-089": {
     "id": "2021-089",
@@ -2406,7 +2697,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "2021-089",
+        "status": "success"
+    }
 },
 "2021-090": {
     "id": "2021-090",
@@ -2451,7 +2745,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Vo LC-1S",
-    "remark": "success"
+    "remark": {
+        "id": "2021-090",
+        "status": "success"
+    }
 },
 "2021-091": {
     "id": "2021-091",
@@ -2471,7 +2768,10 @@
     ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "TY LC-9",
-    "remark": "success"
+    "remark": {
+        "id": "2021-091",
+        "status": "success"
+    }
 },
 "2021-092": {
     "id": "2021-092",
@@ -2481,7 +2781,10 @@
     ],
     "lauchVehicle": "CZ-2F/G",
     "site": "Jq LC-43/91",
-    "remark": "success"
+    "remark": {
+        "id": "2021-092",
+        "status": "success"
+    }
 },
 "2021-093": {
     "id": "2021-093",
@@ -2491,7 +2794,10 @@
     ],
     "lauchVehicle": "Atlas-5(401)",
     "site": "CC SLC-41",
-    "remark": "success"
+    "remark": {
+        "id": "2021-093",
+        "status": "success"
+    }
 },
 "2021-F09": {
     "id": "2021-F09",
@@ -2501,7 +2807,10 @@
     ],
     "lauchVehicle": "Nuri (KSLV-2)",
     "site": "Na LP-2",
-    "remark": "Version 1st flight, failed"
+    "remark": {
+        "id": "2021-F09",
+        "status": "success"
+    }
 },
 "2021-094": {
     "id": "2021-094",
@@ -2511,7 +2820,10 @@
     ],
     "lauchVehicle": "CZ-3B/G2(2)",
     "site": "Xi LC-2",
-    "remark": "success"
+    "remark": {
+        "id": "2021-094",
+        "status": "success"
+    }
 },
 "2021-095": {
     "id": "2021-095",
@@ -2522,7 +2834,10 @@
     ],
     "lauchVehicle": "Ariane-5ECA+",
     "site": "Ko ELA-3",
-    "remark": "success"
+    "remark": {
+        "id": "2021-095",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2532,7 +2847,10 @@
     ],
     "lauchVehicle": "H-2A-202",
     "site": "Ta YLP-1",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2542,7 +2860,10 @@
     ],
     "lauchVehicle": "Astra Rocket-3.3",
     "site": "Kd LP-3B",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2552,7 +2873,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2562,7 +2886,10 @@
     ],
     "lauchVehicle": "Ariane-5ECA+",
     "site": "Ko ELA-3",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2572,7 +2899,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2582,7 +2912,10 @@
     ],
     "lauchVehicle": "CZ-4B",
     "site": "TY LC-9",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2593,7 +2926,10 @@
     ],
     "lauchVehicle": "CZ-2C (3) YZ-1S",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2604,7 +2940,10 @@
     ],
     "lauchVehicle": "Jielong-1",
     "site": "Jq LP-43/95B",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2614,7 +2953,10 @@
     ],
     "lauchVehicle": "CZ-4C",
     "site": "TY LC-9",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2624,7 +2966,10 @@
     ],
     "lauchVehicle": "Kuaizhou-1A",
     "site": "Jq",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2693,7 +3038,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2742,7 +3090,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
-    "remark": "Number of satellites unclear"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2811,7 +3162,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2880,7 +3234,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2949,7 +3306,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -2998,7 +3358,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
-    "remark": "Number of satellites unclear"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3047,7 +3410,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
-    "remark": "Number of satellites unclear"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3057,7 +3423,10 @@
     ],
     "lauchVehicle": "Ceres-1 (Gushenxing-1)",
     "site": "Jq LC-43/95A",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3068,7 +3437,10 @@
     ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1B",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3085,7 +3457,10 @@
     ],
     "lauchVehicle": "Atlas-5(551)",
     "site": "CC SLC-41",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3096,7 +3471,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3106,7 +3484,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "": {
     "id": "",
@@ -3128,7 +3509,10 @@
     ],
     "lauchVehicle": "SLS (Block 1) iCPS",
     "site": "CCK LC-39B",
-    "remark": "Version 1st flight"
+    "remark": {
+        "id": "",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3139,7 +3523,10 @@
     ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3151,7 +3538,10 @@
     ],
     "lauchVehicle": "Vega",
     "site": "Ko ELV",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3161,7 +3551,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3172,7 +3565,10 @@
     ],
     "lauchVehicle": "Atlas-5(511)",
     "site": "CC SLC-41",
-    "remark": "Version 1st flight"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3182,7 +3578,10 @@
     ],
     "lauchVehicle": "Atlas-5(N22)",
     "site": "CC SLC-41",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3251,7 +3650,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3300,7 +3702,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
-    "remark": "Number of satellites unclear"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3311,7 +3716,10 @@
     ],
     "lauchVehicle": "Soyuz-ST-B Fregat-MT",
     "site": "Ko ELS",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3322,7 +3730,10 @@
     ],
     "lauchVehicle": "Proton-M Briz-M (Ph.3)",
     "site": "Ba LC-200/39",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3332,7 +3743,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3342,7 +3756,10 @@
     ],
     "lauchVehicle": "Angara-A5 Persey",
     "site": "Pl LC-35/1",
-    "remark": "Version 1st flight"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3352,7 +3769,10 @@
     ],
     "lauchVehicle": "H-2A-204",
     "site": "Ta YLP-1",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3362,7 +3782,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3372,7 +3795,10 @@
     ],
     "lauchVehicle": "Angara-1.2",
     "site": "Pl LC-35/1",
-    "remark": "Version 1st flight"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3384,7 +3810,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CCK LC-39A",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3427,7 +3856,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Ba LC-31/6",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3437,7 +3869,10 @@
     ],
     "lauchVehicle": "CZ-7A",
     "site": "We LC-201",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3480,7 +3915,10 @@
     ],
     "lauchVehicle": "Soyuz-ST-B Fregat-MT",
     "site": "Ko ELS",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3491,7 +3929,10 @@
     ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3560,7 +4001,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3661,7 +4105,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "Va SLC-4E",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3676,7 +4123,10 @@
     ],
     "lauchVehicle": "Electron KS",
     "site": "OnS LC-1A",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3686,7 +4136,10 @@
     ],
     "lauchVehicle": "Falcon-9 v1.2 (Block 5)",
     "site": "CC",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3697,7 +4150,10 @@
     ],
     "lauchVehicle": "RS1",
     "site": "Kd LP-3B",
-    "remark": "Version 1st flight"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3707,7 +4163,10 @@
     ],
     "lauchVehicle": "H-3-22S",
     "site": "Ta YLP-2",
-    "remark": "Version 1st flight"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3717,7 +4176,10 @@
     ],
     "lauchVehicle": "Firefly-Alpha",
     "site": "Va SLC-2W",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3732,7 +4194,10 @@
     ],
     "lauchVehicle": "Kuaizhou-11",
     "site": "TY",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3742,7 +4207,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a",
     "site": "Pl LC-43/4",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3752,7 +4220,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b",
     "site": "Pl",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3762,7 +4233,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a Fregat",
     "site": "Pl",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3772,7 +4246,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Pl",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3782,7 +4259,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Pl",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3792,7 +4272,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Pl",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3802,7 +4285,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1b Fregat",
     "site": "Pl",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3812,7 +4298,10 @@
     ],
     "lauchVehicle": "Soyuz-2-1a Fregat",
     "site": "Pl LC-43/x",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3823,7 +4312,10 @@
     ],
     "lauchVehicle": "CZ-6",
     "site": "TY LC-16",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3841,7 +4333,10 @@
     ],
     "lauchVehicle": "Epsilon (2) CLPS",
     "site": "Ka LP-M",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3851,7 +4346,10 @@
     ],
     "lauchVehicle": "CZ-2D (2)",
     "site": "Jq LC-43/94",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3861,7 +4359,10 @@
     ],
     "lauchVehicle": "Atlas-5(N22)",
     "site": "CC SLC-41",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3871,7 +4372,10 @@
     ],
     "lauchVehicle": "Starship B4/S20",
     "site": "BC OLP-1",
-    "remark": "Version 1st flight"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3881,7 +4385,10 @@
     ],
     "lauchVehicle": "Safir-1B",
     "site": "Sem LP-1",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3891,7 +4398,10 @@
     ],
     "lauchVehicle": "CZ-3B/G3",
     "site": "Xi",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3901,7 +4411,10 @@
     ],
     "lauchVehicle": "CZ-7A",
     "site": "We LC-201",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3911,7 +4424,10 @@
     ],
     "lauchVehicle": "Simorgh",
     "site": "Sem LP-2",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3923,7 +4439,10 @@
     ],
     "lauchVehicle": "LauncherOne",
     "site": "Gu, B-747-400, RW06LR/24RL",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3933,7 +4452,10 @@
     ],
     "lauchVehicle": "CZ-11",
     "site": "Xi",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3943,7 +4465,10 @@
     ],
     "lauchVehicle": "SSLV",
     "site": "Sr FLP",
-    "remark": "Version 1st flight"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 },
 "-": {
     "id": "-",
@@ -3953,5 +4478,8 @@
     ],
     "lauchVehicle": "GSLV Mk.2(4)",
     "site": "Sr SLP",
-    "remark": "success"
+    "remark": {
+        "id": "-",
+        "status": "success"
+    }
 }
